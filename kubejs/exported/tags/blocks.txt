@@ -1,0 +1,6300 @@
+To refresh this file, delete it and run /reload command again! Last updated: Feb 2, 2023, 11:24:14 AM
+
+#create:non_movable
+- immersiveengineering:connector_lv?
+- immersiveengineering:connector_lv_relay?
+- immersiveengineering:connector_mv?
+- immersiveengineering:connector_mv_relay?
+- immersiveengineering:connector_hv?
+- immersiveengineering:connector_hv_relay?
+- immersiveengineering:connector_bundled?
+- immersiveengineering:connector_structural?
+- immersiveengineering:connector_redstone?
+- immersiveengineering:connector_probe?
+- immersiveengineering:breaker_switch?
+- bitsandchisels:bits_block?
+
+#lootr:convert/shulkers
+- minecraft:shulker_box
+
+#minecraft:soul_fire_base_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#pugh_tools:mineable/paxel_additions
+- #minecraft:mineable/pickaxe
+- #minecraft:mineable/axe
+- #minecraft:mineable/shovel
+- #minecraft:mineable/hoe
+
+#c:glass_panes/blue
+- minecraft:blue_stained_glass_pane
+
+#c:storage_blocks/amethyst
+- minecraft:amethyst_block
+
+#farmersdelight:unaffected_by_rich_soil
+- minecraft:grass_block
+- minecraft:grass
+- minecraft:fern
+- minecraft:twisting_vines
+- minecraft:twisting_vines_plant
+- farmersdelight:sandy_shrub
+- farmersdelight:brown_mushroom_colony
+- farmersdelight:red_mushroom_colony
+- #farmersdelight:wild_crops
+
+#minecraft:snaps_goat_horn
+- ad_astra:moon_stone
+- ad_astra:moon_iron_ore
+- ad_astra:moon_cheese_ore
+- ad_astra:moon_ice_shard_ore
+- ad_astra:moon_stone_bricks
+- ad_astra:moon_stone_brick_slab
+- ad_astra:moon_stone_brick_stairs
+- ad_astra:cracked_moon_stone_bricks
+- ad_astra:mars_stone
+- ad_astra:mars_iron_ore
+- ad_astra:mars_ice_shard_ore
+- ad_astra:mars_stone_bricks
+- ad_astra:mars_stone_brick_slab
+- ad_astra:mars_stone_brick_stairs
+- ad_astra:cracked_mars_stone_bricks
+- ad_astra:mercury_stone
+- ad_astra:mercury_iron_ore
+- ad_astra:mercury_stone_bricks
+- ad_astra:mercury_stone_brick_slab
+- ad_astra:mercury_stone_brick_stairs
+- ad_astra:cracked_mercury_stone_bricks
+- ad_astra:venus_stone
+- ad_astra:venus_sandstone
+- ad_astra:venus_coal_ore
+- ad_astra:venus_stone_bricks
+- ad_astra:venus_stone_brick_slab
+- ad_astra:venus_stone_brick_stairs
+- ad_astra:cracked_venus_stone_bricks
+- ad_astra:venus_sandstone_bricks
+- ad_astra:venus_sandstone_brick_slab
+- ad_astra:venus_sandstone_brick_stairs
+- ad_astra:cracked_venus_sandstone_bricks
+- ad_astra:glacio_stone
+- ad_astra:glacio_coal_ore
+- ad_astra:glacio_lapis_ore
+- ad_astra:glacio_iron_ore
+- ad_astra:glacio_copper_ore
+- ad_astra:glacio_ice_shard_ore
+- ad_astra:glacio_stone_bricks
+- ad_astra:cracked_glacio_stone_bricks
+- ad_astra:glacio_stone_brick_slab
+- ad_astra:glacio_stone_brick_stairs
+- ad_astra:steel_block
+- ad_astra:desh_block
+- ad_astra:ostrum_block
+- ad_astra:calorite_block
+- ad_astra:iron_plating
+- ad_astra:desh_pillar
+- ad_astra:desh_plating
+- ad_astra:blue_iron_pillar
+- ad_astra:marked_iron_pillar
+- ad_astra:sky_stone
+- ad_astra:infernal_spire_block
+- ad_astra:permafrost
+- ad_astra:moon_pillar
+- ad_astra:mars_pillar
+- ad_astra:venus_pillar
+- ad_astra:mercury_pillar
+- ad_astra:glacio_pillar
+- ad_astra:chiseled_moon_stone_bricks
+- ad_astra:chiseled_moon_stone_stairs
+- ad_astra:chiseled_moon_stone_slab
+- ad_astra:polished_moon_stone
+- ad_astra:polished_moon_stone_stairs
+- ad_astra:polished_moon_stone_slab
+- ad_astra:chiseled_mars_stone_bricks
+- ad_astra:chiseled_mars_stone_stairs
+- ad_astra:chiseled_mars_stone_slab
+- ad_astra:polished_mars_stone
+- ad_astra:polished_mars_stone_stairs
+- ad_astra:polished_mars_stone_slab
+- ad_astra:chiseled_venus_stone_bricks
+- ad_astra:chiseled_venus_stone_stairs
+- ad_astra:chiseled_venus_stone_slab
+- ad_astra:polished_venus_stone
+- ad_astra:polished_venus_stone_stairs
+- ad_astra:polished_venus_stone_slab
+- ad_astra:chiseled_mercury_stone_bricks
+- ad_astra:chiseled_mercury_stone_stairs
+- ad_astra:chiseled_mercury_stone_slab
+- ad_astra:polished_mercury_stone
+- ad_astra:polished_mercury_stone_stairs
+- ad_astra:polished_mercury_stone_slab
+- ad_astra:chiseled_glacio_stone_bricks
+- ad_astra:chiseled_glacio_stone_stairs
+- ad_astra:chiseled_glacio_stone_slab
+- ad_astra:polished_glacio_stone
+- ad_astra:polished_glacio_stone_stairs
+- ad_astra:polished_glacio_stone_slab
+
+#minecraft:occludes_vibration_signals
+- #minecraft:wool
+
+#c:ores/gold
+- #minecraft:gold_ores
+
+#c:storage_blocks/diamond
+- minecraft:diamond_block
+
+#c:desh_blocks
+- ad_astra:desh_block
+
+#c:end_stones
+- minecraft:end_stone
+
+#c:diamond_ores
+- ad_astra:mars_diamond_ore
+- ad_astra:venus_diamond_ore
+
+#c:glass/purple
+- minecraft:purple_stained_glass
+
+#c:lapis
+- minecraft:lapis_block
+
+#c:glass/light_gray
+- minecraft:light_gray_stained_glass
+
+#minecraft:wool
+- minecraft:white_wool
+- minecraft:orange_wool
+- minecraft:magenta_wool
+- minecraft:light_blue_wool
+- minecraft:yellow_wool
+- minecraft:lime_wool
+- minecraft:pink_wool
+- minecraft:gray_wool
+- minecraft:light_gray_wool
+- minecraft:cyan_wool
+- minecraft:purple_wool
+- minecraft:blue_wool
+- minecraft:brown_wool
+- minecraft:green_wool
+- minecraft:red_wool
+- minecraft:black_wool
+- ad_astra:glacian_fur
+
+#c:glass/blue
+- minecraft:blue_stained_glass
+
+#c:storage_blocks
+- create:raw_zinc_block
+- create:zinc_block
+- create:brass_block
+- #c:storage_blocks/amethyst
+- #c:storage_blocks/coal
+- #c:storage_blocks/copper
+- #c:storage_blocks/diamond
+- #c:storage_blocks/emerald
+- #c:storage_blocks/gold
+- #c:storage_blocks/iron
+- #c:storage_blocks/lapis
+- #c:storage_blocks/quartz
+- #c:storage_blocks/raw_copper
+- #c:storage_blocks/raw_gold
+- #c:storage_blocks/raw_iron
+- #c:storage_blocks/redstone
+- #c:storage_blocks/netherite
+
+#c:sand/colorless
+- minecraft:sand
+
+#c:glass/light_blue
+- minecraft:light_blue_stained_glass
+
+#minecraft:beehives
+- minecraft:bee_nest
+- minecraft:beehive
+
+#minecraft:ice
+- minecraft:ice
+- minecraft:packed_ice
+- minecraft:blue_ice
+- minecraft:frosted_ice
+- ecologics:thin_ice
+- seasons:seasonal_ice
+
+#c:ores/quartz
+- minecraft:nether_quartz_ore
+
+#minecraft:dragon_immune
+- minecraft:barrier
+- minecraft:bedrock
+- minecraft:end_portal
+- minecraft:end_portal_frame
+- minecraft:end_gateway
+- minecraft:command_block
+- minecraft:repeating_command_block
+- minecraft:chain_command_block
+- minecraft:structure_block
+- minecraft:jigsaw
+- minecraft:moving_piston
+- minecraft:obsidian
+- minecraft:crying_obsidian
+- minecraft:end_stone
+- minecraft:iron_bars
+- minecraft:respawn_anchor
+- infusion_table:infusion_table
+- yigd:grave
+
+#minecraft:crops
+- minecraft:beetroots
+- minecraft:carrots
+- minecraft:potatoes
+- minecraft:wheat
+- minecraft:melon_stem
+- minecraft:pumpkin_stem
+- farmersdelight:cabbages
+- farmersdelight:onions
+- farmersdelight:rice_upper_crop
+- farmersdelight:budding_tomatoes
+- farmersdelight:tomatoes
+
+#farmersdelight:heat_sources
+- minecraft:magma_block
+- minecraft:lava_cauldron
+- farmersdelight:stove
+- #farmersdelight:tray_heat_sources
+
+#c:sand/red
+- minecraft:red_sand
+
+#pugh_tools:excavator_additions
+- minecraft:sand
+
+#minecraft:features_cannot_replace
+- minecraft:bedrock
+- minecraft:spawner
+- minecraft:chest
+- minecraft:end_portal_frame
+
+#c:storage_blocks/brass
+- create:brass_block
+
+#vinery:can_not_connect
+- vinery:wine_bottle
+- vinery:bolvar_wine
+- vinery:chenet_wine
+- vinery:cherry_wine
+- vinery:clark_wine
+- vinery:king_danis_wine
+- vinery:mellohi_wine
+- vinery:noir_wine
+- vinery:red_grapejuice_wine_bottle
+- vinery:white_grapejuice_wine_bottle
+- vinery:cherry_jam
+- vinery:cherry_jar
+- vinery:cooking_pot
+
+#c:glass_panes/orange
+- minecraft:orange_stained_glass_pane
+
+#minecraft:crystal_sound_blocks
+- minecraft:amethyst_block
+- minecraft:budding_amethyst
+
+#minecraft:warped_stems
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+
+#c:storage_blocks/redstone
+- minecraft:redstone_block
+
+#farmersdelight:ropes
+- farmersdelight:rope
+- quark:rope?
+- supplementaries:rope?
+
+#c:glass/green
+- minecraft:green_stained_glass
+
+#c:glass/gray
+- minecraft:gray_stained_glass
+
+#c:ore_bearing_ground/stone
+- minecraft:stone
+
+#c:steel_blocks
+- ad_astra:steel_block
+
+#create:seats
+- create:white_seat
+- create:orange_seat
+- create:magenta_seat
+- create:light_blue_seat
+- create:yellow_seat
+- create:lime_seat
+- create:pink_seat
+- create:gray_seat
+- create:light_gray_seat
+- create:cyan_seat
+- create:purple_seat
+- create:blue_seat
+- create:brown_seat
+- create:green_seat
+- create:red_seat
+- create:black_seat
+
+#ftbchunks:interact_whitelist
+- yigd:grave
+
+#inventorytabs:mod_compat_blacklist
+- yigd:grave
+
+#minecraft:lava_pool_stone_cannot_replace
+- #minecraft:features_cannot_replace
+- #minecraft:leaves
+- #minecraft:logs
+
+#minecraft:inside_step_sound_blocks
+- minecraft:snow
+- minecraft:powder_snow
+- seasons:seasonal_snow
+
+#create:wrench_pickup
+- minecraft:redstone_wire
+- minecraft:redstone_torch
+- minecraft:repeater
+- minecraft:lever
+- minecraft:comparator
+- minecraft:observer
+- minecraft:redstone_wall_torch
+- minecraft:piston
+- minecraft:sticky_piston
+- minecraft:tripwire
+- minecraft:tripwire_hook
+- minecraft:daylight_detector
+- minecraft:target
+- minecraft:hopper
+- #minecraft:buttons
+- #minecraft:pressure_plates
+- #minecraft:rails
+
+#pugh_tools:hammer_additions
+- minecraft:cobblestone
+
+#minecraft:prevent_mob_spawning_inside
+- #minecraft:rails
+
+#c:fence_gates/wooden
+- minecraft:oak_fence_gate
+- minecraft:spruce_fence_gate
+- minecraft:birch_fence_gate
+- minecraft:jungle_fence_gate
+- minecraft:acacia_fence_gate
+- minecraft:dark_oak_fence_gate
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+
+#minecraft:climbable
+- minecraft:ladder
+- minecraft:vine
+- minecraft:scaffolding
+- minecraft:weeping_vines
+- minecraft:weeping_vines_plant
+- minecraft:twisting_vines
+- minecraft:twisting_vines_plant
+- minecraft:cave_vines
+- minecraft:cave_vines_plant
+- ad_astra:aeronos_ladder
+- ad_astra:strophar_ladder
+- create:andesite_ladder
+- create:brass_ladder
+- create:copper_ladder
+- farmersdelight:rope
+- farmersdelight:tomatoes
+- pfm:oak_simple_bunk_ladder
+- pfm:spruce_simple_bunk_ladder
+- pfm:birch_simple_bunk_ladder
+- pfm:dark_oak_simple_bunk_ladder
+- pfm:acacia_simple_bunk_ladder
+- pfm:jungle_simple_bunk_ladder
+- pfm:crimson_simple_bunk_ladder
+- pfm:warped_simple_bunk_ladder
+
+#c:glass/yellow
+- minecraft:yellow_stained_glass
+
+#c:lapis_ores
+- ad_astra:glacio_lapis_ore
+
+#minecraft:parrots_spawnable_on
+- minecraft:grass_block
+- minecraft:air
+- #minecraft:leaves
+- #minecraft:logs
+
+#minecraft:dark_oak_logs
+- minecraft:dark_oak_log
+- minecraft:dark_oak_wood
+- minecraft:stripped_dark_oak_log
+- minecraft:stripped_dark_oak_wood
+
+#farmersdelight:compost_activators
+- minecraft:brown_mushroom
+- minecraft:red_mushroom
+- minecraft:podzol
+- minecraft:mycelium
+- farmersdelight:organic_compost
+- farmersdelight:rich_soil
+- farmersdelight:rich_soil_farmland
+- farmersdelight:brown_mushroom_colony
+- farmersdelight:red_mushroom_colony
+
+#create:ore_override_stone
+- #minecraft:stone_ore_replaceables
+
+#farmersdelight:tray_heat_sources
+- minecraft:lava
+- #minecraft:campfires
+- #minecraft:fire
+
+#minecraft:coral_plants
+- minecraft:tube_coral
+- minecraft:brain_coral
+- minecraft:bubble_coral
+- minecraft:fire_coral
+- minecraft:horn_coral
+
+#minecraft:non_flammable_wood
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- minecraft:crimson_button
+- minecraft:warped_button
+- minecraft:crimson_door
+- minecraft:warped_door
+- minecraft:crimson_sign
+- minecraft:warped_sign
+- minecraft:crimson_wall_sign
+- minecraft:warped_wall_sign
+
+#ad_astra:mercury_ore_replaceables
+- ad_astra:mercury_stone
+
+#minecraft:goats_spawnable_on
+- minecraft:stone
+- minecraft:snow
+- minecraft:snow_block
+- minecraft:packed_ice
+- minecraft:gravel
+
+#c:storage_blocks/raw_gold
+- minecraft:raw_gold_block
+
+#c:quartz_ores
+- minecraft:nether_quartz_ore
+
+#quark:non_double_door
+- create:train_door
+- create:framed_glass_door
+
+#c:raw_desh_blocks
+- ad_astra:raw_desh_block
+
+#c:cheese_ores
+- ad_astra:moon_cheese_ore
+
+#chimes:wind_chimes
+- chimes:bamboo_chimes
+- chimes:carved_bamboo_chimes
+- chimes:iron_chimes
+- chimes:copper_chimes
+- chimes:amethyst_chimes
+
+#minecraft:lapis_ores
+- minecraft:lapis_ore
+- minecraft:deepslate_lapis_ore
+- ad_astra:glacio_lapis_ore
+
+#spirit:soul_glass
+- spirit:soul_glass
+- spirit:soul_glass_1
+- spirit:soul_glass_2
+- spirit:soul_glass_3
+- spirit:soul_glass_4
+- spirit:soul_glass_5
+- spirit:soul_glass_6
+- spirit:soul_glass_7
+- spirit:soul_glass_8
+- spirit:soul_glass_9
+- spirit:soul_glass_10
+
+#c:calorite_blocks
+- ad_astra:calorite_block
+
+#create:safe_nbt
+- create:creative_motor
+- create:creative_fluid_tank
+- create:mechanical_piston
+- create:sticky_mechanical_piston
+- create:windmill_bearing
+- create:mechanical_bearing
+- create:clockwork_bearing
+- create:rope_pulley
+- create:cart_assembler
+- create:linear_chassis
+- create:secondary_linear_chassis
+- create:radial_chassis
+- create:sequenced_gearshift
+- create:rotation_speed_controller
+- create:andesite_funnel
+- create:andesite_belt_funnel
+- create:brass_funnel
+- create:brass_belt_funnel
+- create:creative_crate
+- create:redstone_link
+- create:analog_lever
+- create:placard
+- create:pulse_repeater
+- create:pulse_extender
+- #minecraft:banners
+- #minecraft:signs
+
+#ad_astra:venus_ore_replaceables
+- ad_astra:venus_stone
+
+#minecraft:lush_ground_replaceable
+- #minecraft:moss_replaceable
+- minecraft:clay
+- minecraft:gravel
+- minecraft:sand
+- create:asurine
+- create:crimsite
+- create:limestone
+- create:ochrum
+- create:scoria
+- create:scorchia
+- create:veridium
+
+#c:rails/activator
+- minecraft:activator_rail
+
+#c:ore_bearing_ground/netherrack
+- minecraft:netherrack
+
+#c:glass_panes/black
+- minecraft:black_stained_glass_pane
+
+#c:ore_rates/sparse
+- minecraft:nether_gold_ore
+
+#minecraft:fences
+- #minecraft:wooden_fences
+- minecraft:nether_brick_fence
+- ad_astra:glacian_fence
+- ad_astra:aeronos_fence
+- ad_astra:strophar_fence
+- vinery:cherry_fence
+
+#minecraft:saplings
+- minecraft:oak_sapling
+- minecraft:spruce_sapling
+- minecraft:birch_sapling
+- minecraft:jungle_sapling
+- minecraft:acacia_sapling
+- minecraft:dark_oak_sapling
+- minecraft:azalea
+- minecraft:flowering_azalea
+- ecologics:coconut_seedling
+- ecologics:walnut_sapling
+- ecologics:azalea_flower
+
+#reinfshulker:netherite_shulker_boxes
+- reinfshulker:netherite_shulker_box
+- reinfshulker:black_netherite_shulker_box
+- reinfshulker:blue_netherite_shulker_box
+- reinfshulker:brown_netherite_shulker_box
+- reinfshulker:cyan_netherite_shulker_box
+- reinfshulker:gray_netherite_shulker_box
+- reinfshulker:green_netherite_shulker_box
+- reinfshulker:light_blue_netherite_shulker_box
+- reinfshulker:light_gray_netherite_shulker_box
+- reinfshulker:lime_netherite_shulker_box
+- reinfshulker:magenta_netherite_shulker_box
+- reinfshulker:orange_netherite_shulker_box
+- reinfshulker:pink_netherite_shulker_box
+- reinfshulker:purple_netherite_shulker_box
+- reinfshulker:red_netherite_shulker_box
+- reinfshulker:white_netherite_shulker_box
+- reinfshulker:yellow_netherite_shulker_box
+
+#c:storage_blocks/coal
+- minecraft:coal_block
+
+#minecraft:mineable/pickaxe
+- minecraft:stone
+- minecraft:granite
+- minecraft:polished_granite
+- minecraft:diorite
+- minecraft:polished_diorite
+- minecraft:andesite
+- minecraft:polished_andesite
+- minecraft:cobblestone
+- minecraft:gold_ore
+- minecraft:deepslate_gold_ore
+- minecraft:iron_ore
+- minecraft:deepslate_iron_ore
+- minecraft:coal_ore
+- minecraft:deepslate_coal_ore
+- minecraft:nether_gold_ore
+- minecraft:lapis_ore
+- minecraft:deepslate_lapis_ore
+- minecraft:lapis_block
+- minecraft:dispenser
+- minecraft:sandstone
+- minecraft:chiseled_sandstone
+- minecraft:cut_sandstone
+- minecraft:gold_block
+- minecraft:iron_block
+- minecraft:bricks
+- minecraft:mossy_cobblestone
+- minecraft:obsidian
+- minecraft:spawner
+- minecraft:diamond_ore
+- minecraft:deepslate_diamond_ore
+- minecraft:diamond_block
+- minecraft:furnace
+- minecraft:cobblestone_stairs
+- minecraft:stone_pressure_plate
+- minecraft:iron_door
+- minecraft:redstone_ore
+- minecraft:deepslate_redstone_ore
+- minecraft:netherrack
+- minecraft:basalt
+- minecraft:polished_basalt
+- minecraft:stone_bricks
+- minecraft:mossy_stone_bricks
+- minecraft:cracked_stone_bricks
+- minecraft:chiseled_stone_bricks
+- minecraft:iron_bars
+- minecraft:chain
+- minecraft:brick_stairs
+- minecraft:stone_brick_stairs
+- minecraft:nether_bricks
+- minecraft:nether_brick_fence
+- minecraft:nether_brick_stairs
+- minecraft:enchanting_table
+- minecraft:brewing_stand
+- minecraft:end_stone
+- minecraft:sandstone_stairs
+- minecraft:emerald_ore
+- minecraft:deepslate_emerald_ore
+- minecraft:ender_chest
+- minecraft:emerald_block
+- minecraft:light_weighted_pressure_plate
+- minecraft:heavy_weighted_pressure_plate
+- minecraft:redstone_block
+- minecraft:nether_quartz_ore
+- minecraft:hopper
+- minecraft:quartz_block
+- minecraft:chiseled_quartz_block
+- minecraft:quartz_pillar
+- minecraft:quartz_stairs
+- minecraft:dropper
+- minecraft:white_terracotta
+- minecraft:orange_terracotta
+- minecraft:magenta_terracotta
+- minecraft:light_blue_terracotta
+- minecraft:yellow_terracotta
+- minecraft:lime_terracotta
+- minecraft:pink_terracotta
+- minecraft:gray_terracotta
+- minecraft:light_gray_terracotta
+- minecraft:cyan_terracotta
+- minecraft:purple_terracotta
+- minecraft:blue_terracotta
+- minecraft:brown_terracotta
+- minecraft:green_terracotta
+- minecraft:red_terracotta
+- minecraft:black_terracotta
+- minecraft:iron_trapdoor
+- minecraft:prismarine
+- minecraft:prismarine_bricks
+- minecraft:dark_prismarine
+- minecraft:prismarine_stairs
+- minecraft:prismarine_brick_stairs
+- minecraft:dark_prismarine_stairs
+- minecraft:prismarine_slab
+- minecraft:prismarine_brick_slab
+- minecraft:dark_prismarine_slab
+- minecraft:terracotta
+- minecraft:coal_block
+- minecraft:red_sandstone
+- minecraft:chiseled_red_sandstone
+- minecraft:cut_red_sandstone
+- minecraft:red_sandstone_stairs
+- minecraft:stone_slab
+- minecraft:smooth_stone_slab
+- minecraft:sandstone_slab
+- minecraft:cut_sandstone_slab
+- minecraft:petrified_oak_slab
+- minecraft:cobblestone_slab
+- minecraft:brick_slab
+- minecraft:stone_brick_slab
+- minecraft:nether_brick_slab
+- minecraft:quartz_slab
+- minecraft:red_sandstone_slab
+- minecraft:cut_red_sandstone_slab
+- minecraft:purpur_slab
+- minecraft:smooth_stone
+- minecraft:smooth_sandstone
+- minecraft:smooth_quartz
+- minecraft:smooth_red_sandstone
+- minecraft:purpur_block
+- minecraft:purpur_pillar
+- minecraft:purpur_stairs
+- minecraft:end_stone_bricks
+- minecraft:magma_block
+- minecraft:red_nether_bricks
+- minecraft:bone_block
+- minecraft:observer
+- minecraft:white_glazed_terracotta
+- minecraft:orange_glazed_terracotta
+- minecraft:magenta_glazed_terracotta
+- minecraft:light_blue_glazed_terracotta
+- minecraft:yellow_glazed_terracotta
+- minecraft:lime_glazed_terracotta
+- minecraft:pink_glazed_terracotta
+- minecraft:gray_glazed_terracotta
+- minecraft:light_gray_glazed_terracotta
+- minecraft:cyan_glazed_terracotta
+- minecraft:purple_glazed_terracotta
+- minecraft:blue_glazed_terracotta
+- minecraft:brown_glazed_terracotta
+- minecraft:green_glazed_terracotta
+- minecraft:red_glazed_terracotta
+- minecraft:black_glazed_terracotta
+- minecraft:white_concrete
+- minecraft:orange_concrete
+- minecraft:magenta_concrete
+- minecraft:light_blue_concrete
+- minecraft:yellow_concrete
+- minecraft:lime_concrete
+- minecraft:pink_concrete
+- minecraft:gray_concrete
+- minecraft:light_gray_concrete
+- minecraft:cyan_concrete
+- minecraft:purple_concrete
+- minecraft:blue_concrete
+- minecraft:brown_concrete
+- minecraft:green_concrete
+- minecraft:red_concrete
+- minecraft:black_concrete
+- minecraft:dead_tube_coral_block
+- minecraft:dead_brain_coral_block
+- minecraft:dead_bubble_coral_block
+- minecraft:dead_fire_coral_block
+- minecraft:dead_horn_coral_block
+- minecraft:tube_coral_block
+- minecraft:brain_coral_block
+- minecraft:bubble_coral_block
+- minecraft:fire_coral_block
+- minecraft:horn_coral_block
+- minecraft:dead_tube_coral
+- minecraft:dead_brain_coral
+- minecraft:dead_bubble_coral
+- minecraft:dead_fire_coral
+- minecraft:dead_horn_coral
+- minecraft:dead_tube_coral_fan
+- minecraft:dead_brain_coral_fan
+- minecraft:dead_bubble_coral_fan
+- minecraft:dead_fire_coral_fan
+- minecraft:dead_horn_coral_fan
+- minecraft:dead_tube_coral_wall_fan
+- minecraft:dead_brain_coral_wall_fan
+- minecraft:dead_bubble_coral_wall_fan
+- minecraft:dead_fire_coral_wall_fan
+- minecraft:dead_horn_coral_wall_fan
+- minecraft:polished_granite_stairs
+- minecraft:smooth_red_sandstone_stairs
+- minecraft:mossy_stone_brick_stairs
+- minecraft:polished_diorite_stairs
+- minecraft:mossy_cobblestone_stairs
+- minecraft:end_stone_brick_stairs
+- minecraft:stone_stairs
+- minecraft:smooth_sandstone_stairs
+- minecraft:smooth_quartz_stairs
+- minecraft:granite_stairs
+- minecraft:andesite_stairs
+- minecraft:red_nether_brick_stairs
+- minecraft:polished_andesite_stairs
+- minecraft:diorite_stairs
+- minecraft:polished_granite_slab
+- minecraft:smooth_red_sandstone_slab
+- minecraft:mossy_stone_brick_slab
+- minecraft:polished_diorite_slab
+- minecraft:mossy_cobblestone_slab
+- minecraft:end_stone_brick_slab
+- minecraft:smooth_sandstone_slab
+- minecraft:smooth_quartz_slab
+- minecraft:granite_slab
+- minecraft:andesite_slab
+- minecraft:red_nether_brick_slab
+- minecraft:polished_andesite_slab
+- minecraft:diorite_slab
+- minecraft:smoker
+- minecraft:blast_furnace
+- minecraft:grindstone
+- minecraft:stonecutter
+- minecraft:bell
+- minecraft:lantern
+- minecraft:soul_lantern
+- minecraft:warped_nylium
+- minecraft:crimson_nylium
+- minecraft:netherite_block
+- minecraft:ancient_debris
+- minecraft:crying_obsidian
+- minecraft:respawn_anchor
+- minecraft:lodestone
+- minecraft:blackstone
+- minecraft:blackstone_stairs
+- minecraft:blackstone_slab
+- minecraft:polished_blackstone
+- minecraft:polished_blackstone_bricks
+- minecraft:cracked_polished_blackstone_bricks
+- minecraft:chiseled_polished_blackstone
+- minecraft:polished_blackstone_brick_slab
+- minecraft:polished_blackstone_brick_stairs
+- minecraft:gilded_blackstone
+- minecraft:polished_blackstone_stairs
+- minecraft:polished_blackstone_slab
+- minecraft:polished_blackstone_pressure_plate
+- minecraft:chiseled_nether_bricks
+- minecraft:cracked_nether_bricks
+- minecraft:quartz_bricks
+- minecraft:tuff
+- minecraft:calcite
+- minecraft:oxidized_copper
+- minecraft:weathered_copper
+- minecraft:exposed_copper
+- minecraft:copper_block
+- minecraft:copper_ore
+- minecraft:deepslate_copper_ore
+- minecraft:oxidized_cut_copper
+- minecraft:weathered_cut_copper
+- minecraft:exposed_cut_copper
+- minecraft:cut_copper
+- minecraft:oxidized_cut_copper_stairs
+- minecraft:weathered_cut_copper_stairs
+- minecraft:exposed_cut_copper_stairs
+- minecraft:cut_copper_stairs
+- minecraft:oxidized_cut_copper_slab
+- minecraft:weathered_cut_copper_slab
+- minecraft:exposed_cut_copper_slab
+- minecraft:cut_copper_slab
+- minecraft:waxed_copper_block
+- minecraft:waxed_weathered_copper
+- minecraft:waxed_exposed_copper
+- minecraft:waxed_oxidized_copper
+- minecraft:waxed_oxidized_cut_copper
+- minecraft:waxed_weathered_cut_copper
+- minecraft:waxed_exposed_cut_copper
+- minecraft:waxed_cut_copper
+- minecraft:waxed_oxidized_cut_copper_stairs
+- minecraft:waxed_weathered_cut_copper_stairs
+- minecraft:waxed_exposed_cut_copper_stairs
+- minecraft:waxed_cut_copper_stairs
+- minecraft:waxed_oxidized_cut_copper_slab
+- minecraft:waxed_weathered_cut_copper_slab
+- minecraft:waxed_exposed_cut_copper_slab
+- minecraft:waxed_cut_copper_slab
+- minecraft:lightning_rod
+- minecraft:pointed_dripstone
+- minecraft:dripstone_block
+- minecraft:deepslate
+- minecraft:cobbled_deepslate
+- minecraft:cobbled_deepslate_stairs
+- minecraft:cobbled_deepslate_slab
+- minecraft:polished_deepslate
+- minecraft:polished_deepslate_stairs
+- minecraft:polished_deepslate_slab
+- minecraft:deepslate_tiles
+- minecraft:deepslate_tile_stairs
+- minecraft:deepslate_tile_slab
+- minecraft:deepslate_bricks
+- minecraft:deepslate_brick_stairs
+- minecraft:deepslate_brick_slab
+- minecraft:chiseled_deepslate
+- minecraft:cracked_deepslate_bricks
+- minecraft:cracked_deepslate_tiles
+- minecraft:smooth_basalt
+- minecraft:raw_iron_block
+- minecraft:raw_copper_block
+- minecraft:raw_gold_block
+- minecraft:ice
+- minecraft:packed_ice
+- minecraft:blue_ice
+- minecraft:stone_button
+- minecraft:piston
+- minecraft:sticky_piston
+- minecraft:piston_head
+- minecraft:amethyst_cluster
+- minecraft:small_amethyst_bud
+- minecraft:medium_amethyst_bud
+- minecraft:large_amethyst_bud
+- minecraft:amethyst_block
+- minecraft:budding_amethyst
+- minecraft:infested_cobblestone
+- minecraft:infested_chiseled_stone_bricks
+- minecraft:infested_cracked_stone_bricks
+- minecraft:infested_deepslate
+- minecraft:infested_stone
+- minecraft:infested_mossy_stone_bricks
+- minecraft:infested_stone_bricks
+- #minecraft:walls
+- #minecraft:shulker_boxes
+- #minecraft:anvil
+- #minecraft:cauldrons
+- #minecraft:rails
+- minecraft:conduit
+- ad_astra:fuel_refinery
+- ad_astra:compressor
+- ad_astra:coal_generator
+- ad_astra:oxygen_loader
+- ad_astra:solar_panel
+- ad_astra:nasa_workbench
+- ad_astra:oxygen_distributor
+- ad_astra:water_pump
+- ad_astra:raw_desh_block
+- ad_astra:raw_ostrum_block
+- ad_astra:raw_calorite_block
+- ad_astra:launch_pad
+- ad_astra:coal_lantern
+- ad_astra:earth_globe
+- ad_astra:moon_globe
+- ad_astra:mars_globe
+- ad_astra:mercury_globe
+- ad_astra:venus_globe
+- ad_astra:glacio_globe
+- ad_astra:steel_block
+- ad_astra:desh_block
+- ad_astra:ostrum_block
+- ad_astra:calorite_block
+- ad_astra:iron_plating
+- ad_astra:iron_pillar
+- ad_astra:steel_plating
+- ad_astra:steel_pillar
+- ad_astra:desh_plating
+- ad_astra:desh_pillar
+- ad_astra:ostrum_plating
+- ad_astra:ostrum_pillar
+- ad_astra:calorite_plating
+- ad_astra:calorite_pillar
+- ad_astra:blue_iron_pillar
+- ad_astra:marked_iron_pillar
+- ad_astra:sky_stone
+- ad_astra:mars_stone
+- ad_astra:mercury_stone
+- ad_astra:moon_stone
+- ad_astra:venus_sandstone
+- ad_astra:venus_stone
+- ad_astra:conglomerate
+- ad_astra:polished_conglomerate
+- ad_astra:permafrost_bricks
+- ad_astra:cracked_permafrost_bricks
+- ad_astra:energizer
+- ad_astra:infernal_spire_block
+- ad_astra:moon_stone_bricks
+- ad_astra:moon_stone_brick_slab
+- ad_astra:moon_stone_brick_stairs
+- ad_astra:cracked_moon_stone_bricks
+- ad_astra:mars_stone_bricks
+- ad_astra:mars_stone_brick_slab
+- ad_astra:mars_stone_brick_stairs
+- ad_astra:cracked_mars_stone_bricks
+- ad_astra:mercury_stone_bricks
+- ad_astra:mercury_stone_brick_slab
+- ad_astra:mercury_stone_brick_stairs
+- ad_astra:cracked_mercury_stone_bricks
+- ad_astra:venus_sandstone_bricks
+- ad_astra:venus_sandstone_brick_slab
+- ad_astra:venus_sandstone_brick_stairs
+- ad_astra:cracked_venus_sandstone_bricks
+- ad_astra:venus_stone_bricks
+- ad_astra:venus_stone_brick_slab
+- ad_astra:venus_stone_brick_stairs
+- ad_astra:cracked_venus_stone_bricks
+- ad_astra:moon_cheese_ore
+- ad_astra:moon_desh_ore
+- ad_astra:moon_iron_ore
+- ad_astra:mars_iron_ore
+- ad_astra:mars_diamond_ore
+- ad_astra:mars_ostrum_ore
+- ad_astra:mercury_iron_ore
+- ad_astra:venus_coal_ore
+- ad_astra:venus_diamond_ore
+- ad_astra:venus_gold_ore
+- ad_astra:venus_calorite_ore
+- ad_astra:flag
+- ad_astra:flag_blue
+- ad_astra:flag_brown
+- ad_astra:flag_cyan
+- ad_astra:flag_gray
+- ad_astra:flag_green
+- ad_astra:flag_light_blue
+- ad_astra:flag_lime
+- ad_astra:flag_magenta
+- ad_astra:flag_orange
+- ad_astra:flag_pink
+- ad_astra:flag_purple
+- ad_astra:flag_red
+- ad_astra:flag_yellow
+- ad_astra:flag_black
+- ad_astra:flag_light_gray
+- ad_astra:moon_ice_shard_ore
+- ad_astra:mars_ice_shard_ore
+- ad_astra:glacio_ice_shard_ore
+- ad_astra:glacio_coal_ore
+- ad_astra:glacio_copper_ore
+- ad_astra:glacio_iron_ore
+- ad_astra:glacio_lapis_ore
+- ad_astra:glacio_stone_bricks
+- ad_astra:cracked_glacio_stone_bricks
+- ad_astra:glacio_stone_brick_slab
+- ad_astra:glacio_stone_brick_stairs
+- ad_astra:glacio_stone
+- ad_astra:permafrost
+- ad_astra:chiseled_mars_stone_bricks
+- ad_astra:chiseled_venus_stone_bricks
+- ad_astra:chiseled_mercury_stone_bricks
+- ad_astra:chiseled_glacio_stone_bricks
+- ad_astra:chiseled_moon_stone_bricks
+- ad_astra:chiseled_mars_stone_stairs
+- ad_astra:chiseled_venus_stone_stairs
+- ad_astra:chiseled_mercury_stone_stairs
+- ad_astra:chiseled_glacio_stone_stairs
+- ad_astra:chiseled_moon_stone_stairs
+- ad_astra:chiseled_mars_stone_slab
+- ad_astra:chiseled_venus_stone_slab
+- ad_astra:chiseled_mercury_stone_slab
+- ad_astra:chiseled_glacio_stone_slab
+- ad_astra:chiseled_moon_stone_slab
+- ad_astra:polished_mars_stone
+- ad_astra:polished_venus_stone
+- ad_astra:polished_mercury_stone
+- ad_astra:polished_glacio_stone
+- ad_astra:polished_moon_stone
+- ad_astra:polished_mars_stone_stairs
+- ad_astra:polished_venus_stone_stairs
+- ad_astra:polished_mercury_stone_stairs
+- ad_astra:polished_glacio_stone_stairs
+- ad_astra:polished_moon_stone_stairs
+- ad_astra:polished_mars_stone_slab
+- ad_astra:polished_venus_stone_slab
+- ad_astra:polished_mercury_stone_slab
+- ad_astra:polished_glacio_stone_slab
+- ad_astra:polished_moon_stone_slab
+- ad_astra:mars_pillar
+- ad_astra:venus_pillar
+- ad_astra:mercury_pillar
+- ad_astra:glacio_pillar
+- ad_astra:moon_pillar
+- ad_astra:cryo_freezer
+- ad_astra:oxygen_sensor
+- ad_astra:moon_cobblestone
+- ad_astra:mars_cobblestone
+- ad_astra:venus_cobblestone
+- ad_astra:mercury_cobblestone
+- ad_astra:glacio_cobblestone
+- ad_astra:iron_plating_stairs
+- ad_astra:iron_plating_slab
+- ad_astra:steel_plating_stairs
+- ad_astra:steel_plating_slab
+- ad_astra:desh_plating_slab
+- ad_astra:desh_plating_stairs
+- ad_astra:ostrum_plating_slab
+- ad_astra:ostrum_plating_stairs
+- ad_astra:calorite_plating_slab
+- ad_astra:calorite_plating_stairs
+- ad_astra:moon_stone_brick_wall
+- ad_astra:mars_stone_brick_wall
+- ad_astra:venus_stone_brick_wall
+- ad_astra:mercury_stone_brick_wall
+- ad_astra:glacio_stone_brick_wall
+- ad_astra:iron_plating_button
+- ad_astra:iron_plating_pressure_plate
+- ad_astra:steel_plating_button
+- ad_astra:steel_plating_pressure_plate
+- ad_astra:desh_plating_button
+- ad_astra:desh_plating_pressure_plate
+- ad_astra:ostrum_plating_button
+- ad_astra:ostrum_plating_pressure_plate
+- ad_astra:calorite_plating_button
+- ad_astra:calorite_plating_pressure_plate
+- ad_astra:steel_door
+- ad_astra:steel_trapdoor
+- ad_astra:permafrost_brick_stairs
+- ad_astra:permafrost_brick_slab
+- ad_astra:deepslate_ice_shard_ore
+- ad_astra:deepslate_desh_ore
+- ad_astra:deepslate_ostrum_ore
+- ad_astra:deepslate_calorite_ore
+- ad_astra:steel_cable
+- ad_astra:desh_cable
+- ad_astra:permafrost_tiles
+- ad_astra:chiseled_permafrost_bricks
+- ad_astra:chiseled_permafrost_brick_stairs
+- ad_astra:chiseled_permafrost_brick_slab
+- ad_astra:polished_permafrost
+- ad_astra:polished_permafrost_stairs
+- ad_astra:polished_permafrost_slab
+- ad_astra:permafrost_pillar
+- ad_astra:permafrost_brick_wall
+- ad_astra:moon_cobblestone_slab
+- ad_astra:moon_cobblestone_stairs
+- ad_astra:moon_stone_slab
+- ad_astra:moon_stone_stairs
+- ad_astra:mars_cobblestone_slab
+- ad_astra:mars_cobblestone_stairs
+- ad_astra:mars_stone_slab
+- ad_astra:mars_stone_stairs
+- ad_astra:venus_cobblestone_slab
+- ad_astra:venus_cobblestone_stairs
+- ad_astra:venus_stone_slab
+- ad_astra:venus_stone_stairs
+- ad_astra:mercury_cobblestone_slab
+- ad_astra:mercury_cobblestone_stairs
+- ad_astra:mercury_stone_slab
+- ad_astra:mercury_stone_stairs
+- ad_astra:glacio_cobblestone_slab
+- ad_astra:glacio_cobblestone_stairs
+- ad_astra:glacio_stone_slab
+- ad_astra:glacio_stone_stairs
+- ad_astra:iron_sliding_door
+- ad_astra:steel_sliding_door
+- ad_astra:desh_sliding_door
+- ad_astra:ostrum_sliding_door
+- ad_astra:calorite_sliding_door
+- ad_astra:airlock
+- ad_astra:reinforced_door
+- ad_astra:glowing_steel_pillar
+- ad_astra:glowing_desh_pillar
+- ad_astra:glowing_ostrum_pillar
+- ad_astra:glowing_calorite_pillar
+- automobility:auto_mechanic_table
+- automobility:automobile_assembler
+- chimes:iron_chimes
+- chimes:copper_chimes
+- chimes:amethyst_chimes
+- create:schematicannon
+- create:schematic_table
+- create:shaft
+- create:cogwheel
+- create:large_cogwheel
+- create:andesite_encased_shaft
+- create:brass_encased_shaft
+- create:andesite_encased_cogwheel
+- create:brass_encased_cogwheel
+- create:andesite_encased_large_cogwheel
+- create:brass_encased_large_cogwheel
+- create:gearbox
+- create:clutch
+- create:gearshift
+- create:encased_chain_drive
+- create:adjustable_chain_gearshift
+- create:belt
+- create:creative_motor
+- create:water_wheel
+- create:encased_fan
+- create:nozzle
+- create:turntable
+- create:hand_crank
+- create:cuckoo_clock
+- create:mysterious_cuckoo_clock
+- create:millstone
+- create:crushing_wheel
+- create:mechanical_press
+- create:mechanical_mixer
+- create:basin
+- create:blaze_burner
+- create:lit_blaze_burner
+- create:depot
+- create:weighted_ejector
+- create:chute
+- create:smart_chute
+- create:speedometer
+- create:stressometer
+- create:wooden_bracket
+- create:metal_bracket
+- create:metal_girder
+- create:metal_girder_encased_shaft
+- create:andesite_ladder
+- create:brass_ladder
+- create:copper_ladder
+- create:fluid_pipe
+- create:encased_fluid_pipe
+- create:glass_fluid_pipe
+- create:mechanical_pump
+- create:smart_fluid_pipe
+- create:fluid_valve
+- create:copper_valve_handle
+- create:white_valve_handle
+- create:orange_valve_handle
+- create:magenta_valve_handle
+- create:light_blue_valve_handle
+- create:yellow_valve_handle
+- create:lime_valve_handle
+- create:pink_valve_handle
+- create:gray_valve_handle
+- create:light_gray_valve_handle
+- create:cyan_valve_handle
+- create:purple_valve_handle
+- create:blue_valve_handle
+- create:brown_valve_handle
+- create:green_valve_handle
+- create:red_valve_handle
+- create:black_valve_handle
+- create:fluid_tank
+- create:creative_fluid_tank
+- create:hose_pulley
+- create:item_drain
+- create:spout
+- create:portable_fluid_interface
+- create:steam_engine
+- create:steam_whistle
+- create:steam_whistle_extension
+- create:powered_shaft
+- create:mechanical_piston
+- create:sticky_mechanical_piston
+- create:piston_extension_pole
+- create:mechanical_piston_head
+- create:gantry_carriage
+- create:gantry_shaft
+- create:windmill_bearing
+- create:mechanical_bearing
+- create:clockwork_bearing
+- create:rope_pulley
+- create:cart_assembler
+- create:controller_rail
+- create:linear_chassis
+- create:secondary_linear_chassis
+- create:radial_chassis
+- create:sticker
+- create:mechanical_drill
+- create:mechanical_saw
+- create:deployer
+- create:portable_storage_interface
+- create:redstone_contact
+- create:mechanical_harvester
+- create:mechanical_plough
+- create:andesite_casing
+- create:brass_casing
+- create:copper_casing
+- create:shadow_steel_casing
+- create:refined_radiance_casing
+- create:mechanical_crafter
+- create:sequenced_gearshift
+- create:flywheel
+- create:rotation_speed_controller
+- create:mechanical_arm
+- create:track
+- create:railway_casing
+- create:track_station
+- create:track_signal
+- create:track_observer
+- create:small_bogey
+- create:large_bogey
+- create:controls
+- create:train_door
+- create:train_trapdoor
+- create:framed_glass_door
+- create:framed_glass_trapdoor
+- create:item_vault
+- create:andesite_funnel
+- create:andesite_belt_funnel
+- create:brass_funnel
+- create:brass_belt_funnel
+- create:andesite_tunnel
+- create:brass_tunnel
+- create:content_observer
+- create:stockpile_switch
+- create:creative_crate
+- create:display_link
+- create:display_board
+- create:nixie_tube
+- create:white_nixie_tube
+- create:magenta_nixie_tube
+- create:light_blue_nixie_tube
+- create:yellow_nixie_tube
+- create:lime_nixie_tube
+- create:pink_nixie_tube
+- create:gray_nixie_tube
+- create:light_gray_nixie_tube
+- create:cyan_nixie_tube
+- create:purple_nixie_tube
+- create:blue_nixie_tube
+- create:brown_nixie_tube
+- create:green_nixie_tube
+- create:red_nixie_tube
+- create:black_nixie_tube
+- create:rose_quartz_lamp
+- create:redstone_link
+- create:analog_lever
+- create:placard
+- create:copper_backtank
+- create:peculiar_bell
+- create:haunted_bell
+- create:zinc_ore
+- create:deepslate_zinc_ore
+- create:raw_zinc_block
+- create:zinc_block
+- create:brass_block
+- create:rose_quartz_block
+- create:rose_quartz_tiles
+- create:small_rose_quartz_tiles
+- create:copper_shingles
+- create:exposed_copper_shingles
+- create:weathered_copper_shingles
+- create:oxidized_copper_shingles
+- create:copper_shingle_slab
+- create:exposed_copper_shingle_slab
+- create:weathered_copper_shingle_slab
+- create:oxidized_copper_shingle_slab
+- create:copper_shingle_stairs
+- create:exposed_copper_shingle_stairs
+- create:weathered_copper_shingle_stairs
+- create:oxidized_copper_shingle_stairs
+- create:waxed_copper_shingles
+- create:waxed_exposed_copper_shingles
+- create:waxed_weathered_copper_shingles
+- create:waxed_oxidized_copper_shingles
+- create:waxed_copper_shingle_slab
+- create:waxed_exposed_copper_shingle_slab
+- create:waxed_weathered_copper_shingle_slab
+- create:waxed_oxidized_copper_shingle_slab
+- create:waxed_copper_shingle_stairs
+- create:waxed_exposed_copper_shingle_stairs
+- create:waxed_weathered_copper_shingle_stairs
+- create:waxed_oxidized_copper_shingle_stairs
+- create:copper_tiles
+- create:exposed_copper_tiles
+- create:weathered_copper_tiles
+- create:oxidized_copper_tiles
+- create:copper_tile_slab
+- create:exposed_copper_tile_slab
+- create:weathered_copper_tile_slab
+- create:oxidized_copper_tile_slab
+- create:copper_tile_stairs
+- create:exposed_copper_tile_stairs
+- create:weathered_copper_tile_stairs
+- create:oxidized_copper_tile_stairs
+- create:waxed_copper_tiles
+- create:waxed_exposed_copper_tiles
+- create:waxed_weathered_copper_tiles
+- create:waxed_oxidized_copper_tiles
+- create:waxed_copper_tile_slab
+- create:waxed_exposed_copper_tile_slab
+- create:waxed_weathered_copper_tile_slab
+- create:waxed_oxidized_copper_tile_slab
+- create:waxed_copper_tile_stairs
+- create:waxed_exposed_copper_tile_stairs
+- create:waxed_weathered_copper_tile_stairs
+- create:waxed_oxidized_copper_tile_stairs
+- create:cut_granite
+- create:cut_granite_stairs
+- create:cut_granite_slab
+- create:cut_granite_wall
+- create:polished_cut_granite
+- create:polished_cut_granite_stairs
+- create:polished_cut_granite_slab
+- create:polished_cut_granite_wall
+- create:cut_granite_bricks
+- create:cut_granite_brick_stairs
+- create:cut_granite_brick_slab
+- create:cut_granite_brick_wall
+- create:small_granite_bricks
+- create:small_granite_brick_stairs
+- create:small_granite_brick_slab
+- create:small_granite_brick_wall
+- create:layered_granite
+- create:granite_pillar
+- create:cut_diorite
+- create:cut_diorite_stairs
+- create:cut_diorite_slab
+- create:cut_diorite_wall
+- create:polished_cut_diorite
+- create:polished_cut_diorite_stairs
+- create:polished_cut_diorite_slab
+- create:polished_cut_diorite_wall
+- create:cut_diorite_bricks
+- create:cut_diorite_brick_stairs
+- create:cut_diorite_brick_slab
+- create:cut_diorite_brick_wall
+- create:small_diorite_bricks
+- create:small_diorite_brick_stairs
+- create:small_diorite_brick_slab
+- create:small_diorite_brick_wall
+- create:layered_diorite
+- create:diorite_pillar
+- create:cut_andesite
+- create:cut_andesite_stairs
+- create:cut_andesite_slab
+- create:cut_andesite_wall
+- create:polished_cut_andesite
+- create:polished_cut_andesite_stairs
+- create:polished_cut_andesite_slab
+- create:polished_cut_andesite_wall
+- create:cut_andesite_bricks
+- create:cut_andesite_brick_stairs
+- create:cut_andesite_brick_slab
+- create:cut_andesite_brick_wall
+- create:small_andesite_bricks
+- create:small_andesite_brick_stairs
+- create:small_andesite_brick_slab
+- create:small_andesite_brick_wall
+- create:layered_andesite
+- create:andesite_pillar
+- create:cut_calcite
+- create:cut_calcite_stairs
+- create:cut_calcite_slab
+- create:cut_calcite_wall
+- create:polished_cut_calcite
+- create:polished_cut_calcite_stairs
+- create:polished_cut_calcite_slab
+- create:polished_cut_calcite_wall
+- create:cut_calcite_bricks
+- create:cut_calcite_brick_stairs
+- create:cut_calcite_brick_slab
+- create:cut_calcite_brick_wall
+- create:small_calcite_bricks
+- create:small_calcite_brick_stairs
+- create:small_calcite_brick_slab
+- create:small_calcite_brick_wall
+- create:layered_calcite
+- create:calcite_pillar
+- create:cut_dripstone
+- create:cut_dripstone_stairs
+- create:cut_dripstone_slab
+- create:cut_dripstone_wall
+- create:polished_cut_dripstone
+- create:polished_cut_dripstone_stairs
+- create:polished_cut_dripstone_slab
+- create:polished_cut_dripstone_wall
+- create:cut_dripstone_bricks
+- create:cut_dripstone_brick_stairs
+- create:cut_dripstone_brick_slab
+- create:cut_dripstone_brick_wall
+- create:small_dripstone_bricks
+- create:small_dripstone_brick_stairs
+- create:small_dripstone_brick_slab
+- create:small_dripstone_brick_wall
+- create:layered_dripstone
+- create:dripstone_pillar
+- create:cut_deepslate
+- create:cut_deepslate_stairs
+- create:cut_deepslate_slab
+- create:cut_deepslate_wall
+- create:polished_cut_deepslate
+- create:polished_cut_deepslate_stairs
+- create:polished_cut_deepslate_slab
+- create:polished_cut_deepslate_wall
+- create:cut_deepslate_bricks
+- create:cut_deepslate_brick_stairs
+- create:cut_deepslate_brick_slab
+- create:cut_deepslate_brick_wall
+- create:small_deepslate_bricks
+- create:small_deepslate_brick_stairs
+- create:small_deepslate_brick_slab
+- create:small_deepslate_brick_wall
+- create:layered_deepslate
+- create:deepslate_pillar
+- create:cut_tuff
+- create:cut_tuff_stairs
+- create:cut_tuff_slab
+- create:cut_tuff_wall
+- create:polished_cut_tuff
+- create:polished_cut_tuff_stairs
+- create:polished_cut_tuff_slab
+- create:polished_cut_tuff_wall
+- create:cut_tuff_bricks
+- create:cut_tuff_brick_stairs
+- create:cut_tuff_brick_slab
+- create:cut_tuff_brick_wall
+- create:small_tuff_bricks
+- create:small_tuff_brick_stairs
+- create:small_tuff_brick_slab
+- create:small_tuff_brick_wall
+- create:layered_tuff
+- create:tuff_pillar
+- create:asurine
+- create:cut_asurine
+- create:cut_asurine_stairs
+- create:cut_asurine_slab
+- create:cut_asurine_wall
+- create:polished_cut_asurine
+- create:polished_cut_asurine_stairs
+- create:polished_cut_asurine_slab
+- create:polished_cut_asurine_wall
+- create:cut_asurine_bricks
+- create:cut_asurine_brick_stairs
+- create:cut_asurine_brick_slab
+- create:cut_asurine_brick_wall
+- create:small_asurine_bricks
+- create:small_asurine_brick_stairs
+- create:small_asurine_brick_slab
+- create:small_asurine_brick_wall
+- create:layered_asurine
+- create:asurine_pillar
+- create:crimsite
+- create:cut_crimsite
+- create:cut_crimsite_stairs
+- create:cut_crimsite_slab
+- create:cut_crimsite_wall
+- create:polished_cut_crimsite
+- create:polished_cut_crimsite_stairs
+- create:polished_cut_crimsite_slab
+- create:polished_cut_crimsite_wall
+- create:cut_crimsite_bricks
+- create:cut_crimsite_brick_stairs
+- create:cut_crimsite_brick_slab
+- create:cut_crimsite_brick_wall
+- create:small_crimsite_bricks
+- create:small_crimsite_brick_stairs
+- create:small_crimsite_brick_slab
+- create:small_crimsite_brick_wall
+- create:layered_crimsite
+- create:crimsite_pillar
+- create:limestone
+- create:cut_limestone
+- create:cut_limestone_stairs
+- create:cut_limestone_slab
+- create:cut_limestone_wall
+- create:polished_cut_limestone
+- create:polished_cut_limestone_stairs
+- create:polished_cut_limestone_slab
+- create:polished_cut_limestone_wall
+- create:cut_limestone_bricks
+- create:cut_limestone_brick_stairs
+- create:cut_limestone_brick_slab
+- create:cut_limestone_brick_wall
+- create:small_limestone_bricks
+- create:small_limestone_brick_stairs
+- create:small_limestone_brick_slab
+- create:small_limestone_brick_wall
+- create:layered_limestone
+- create:limestone_pillar
+- create:ochrum
+- create:cut_ochrum
+- create:cut_ochrum_stairs
+- create:cut_ochrum_slab
+- create:cut_ochrum_wall
+- create:polished_cut_ochrum
+- create:polished_cut_ochrum_stairs
+- create:polished_cut_ochrum_slab
+- create:polished_cut_ochrum_wall
+- create:cut_ochrum_bricks
+- create:cut_ochrum_brick_stairs
+- create:cut_ochrum_brick_slab
+- create:cut_ochrum_brick_wall
+- create:small_ochrum_bricks
+- create:small_ochrum_brick_stairs
+- create:small_ochrum_brick_slab
+- create:small_ochrum_brick_wall
+- create:layered_ochrum
+- create:ochrum_pillar
+- create:scoria
+- create:cut_scoria
+- create:cut_scoria_stairs
+- create:cut_scoria_slab
+- create:cut_scoria_wall
+- create:polished_cut_scoria
+- create:polished_cut_scoria_stairs
+- create:polished_cut_scoria_slab
+- create:polished_cut_scoria_wall
+- create:cut_scoria_bricks
+- create:cut_scoria_brick_stairs
+- create:cut_scoria_brick_slab
+- create:cut_scoria_brick_wall
+- create:small_scoria_bricks
+- create:small_scoria_brick_stairs
+- create:small_scoria_brick_slab
+- create:small_scoria_brick_wall
+- create:layered_scoria
+- create:scoria_pillar
+- create:scorchia
+- create:cut_scorchia
+- create:cut_scorchia_stairs
+- create:cut_scorchia_slab
+- create:cut_scorchia_wall
+- create:polished_cut_scorchia
+- create:polished_cut_scorchia_stairs
+- create:polished_cut_scorchia_slab
+- create:polished_cut_scorchia_wall
+- create:cut_scorchia_bricks
+- create:cut_scorchia_brick_stairs
+- create:cut_scorchia_brick_slab
+- create:cut_scorchia_brick_wall
+- create:small_scorchia_bricks
+- create:small_scorchia_brick_stairs
+- create:small_scorchia_brick_slab
+- create:small_scorchia_brick_wall
+- create:layered_scorchia
+- create:scorchia_pillar
+- create:veridium
+- create:cut_veridium
+- create:cut_veridium_stairs
+- create:cut_veridium_slab
+- create:cut_veridium_wall
+- create:polished_cut_veridium
+- create:polished_cut_veridium_stairs
+- create:polished_cut_veridium_slab
+- create:polished_cut_veridium_wall
+- create:cut_veridium_bricks
+- create:cut_veridium_brick_stairs
+- create:cut_veridium_brick_slab
+- create:cut_veridium_brick_wall
+- create:small_veridium_bricks
+- create:small_veridium_brick_stairs
+- create:small_veridium_brick_slab
+- create:small_veridium_brick_wall
+- create:layered_veridium
+- create:veridium_pillar
+- ecologics:seashell_block
+- ecologics:seashell_tiles
+- ecologics:seashell_tile_stairs
+- ecologics:seashell_tile_slab
+- ecologics:seashell_tile_wall
+- ecologics:pot
+- ecologics:thin_ice
+- ecologics:ice_bricks
+- ecologics:ice_brick_stairs
+- ecologics:ice_brick_slab
+- ecologics:ice_brick_wall
+- farmersdelight:stove
+- farmersdelight:cooking_pot
+- farmersdelight:skillet
+- ftbquests:screen_1
+- ftbquests:screen_3
+- ftbquests:screen_5
+- ftbquests:screen_7
+- ftbquests:aux_task_screen
+- glassdoor:iron_glassdoor
+- glassdoor:iron_glasstrapdoor
+- infusion_table:infusion_table
+- jsblock:apg_door_drl
+- jsblock:apg_glass_drl
+- jsblock:apg_glass_end_drl
+- jsblock:auto_iron_door
+- jsblock:bufferstop_1
+- jsblock:butterfly_light
+- jsblock:ceiling_1
+- jsblock:circle_wall_1
+- jsblock:circle_wall_2
+- jsblock:circle_wall_3
+- jsblock:circle_wall_4
+- jsblock:circle_wall_5
+- jsblock:circle_wall_6
+- jsblock:circle_wall_7
+- jsblock:departure_pole
+- jsblock:departure_timer
+- jsblock:emg_stop_1
+- jsblock:enquiry_machine_1
+- jsblock:enquiry_machine_2
+- jsblock:enquiry_machine_3
+- jsblock:enquiry_machine_4
+- jsblock:exit_sign_1
+- jsblock:exit_sign_1e
+- jsblock:faresaver_1
+- jsblock:helpline_1
+- jsblock:helpline_2
+- jsblock:helpline_3
+- jsblock:helpline_4
+- jsblock:helpline_5
+- jsblock:helpline_6
+- jsblock:inter_car_barrier_1_left
+- jsblock:inter_car_barrier_1_middle
+- jsblock:inter_car_barrier_1_right
+- jsblock:kcr_emg_stop_sign
+- jsblock:kcr_name_sign
+- jsblock:kcr_name_sign_station_color
+- jsblock:light_1
+- jsblock:light_2
+- jsblock:mtr_stairs_1
+- jsblock:op_button
+- jsblock:pids_1a
+- jsblock:pids_4
+- jsblock:pids_rv
+- jsblock:pids_rv_sil
+- jsblock:pids_rv_sil_2
+- jsblock:rv_pids_pole
+- jsblock:signal_light_blue
+- jsblock:signal_light_green
+- jsblock:signal_light_red_1
+- jsblock:signal_light_red_2
+- jsblock:signal_light_inverted_1
+- jsblock:signal_light_inverted_2
+- jsblock:sound_looper
+- jsblock:station_ceiling_1
+- jsblock:station_ceiling_pole
+- jsblock:station_ceiling_1_station_color
+- jsblock:station_name_tall_stand
+- jsblock:subsidy_machine_1
+- jsblock:ticket_barrier_1_bare
+- jsblock:ticket_barrier_1_entrance
+- jsblock:ticket_barrier_1_exit
+- jsblock:train_model_e44
+- jsblock:trespass_sign_1
+- jsblock:trespass_sign_2
+- jsblock:trespass_sign_3
+- jsblock:water_machine_1
+- lootr:trophy
+- mtr:rail
+- mtr:boat_node
+- mtr:cable_car_node_lower
+- mtr:cable_car_node_upper
+- mtr:cable_car_node_station
+- mtr:apg_door
+- mtr:apg_glass
+- mtr:apg_glass_end
+- mtr:arrival_projector_1_small
+- mtr:arrival_projector_1_medium
+- mtr:arrival_projector_1_large
+- mtr:ceiling
+- mtr:ceiling_light
+- mtr:ceiling_no_light
+- mtr:clock
+- mtr:clock_pole
+- mtr:escalator_side
+- mtr:escalator_step
+- mtr:glass_fence_cio
+- mtr:glass_fence_ckt
+- mtr:glass_fence_heo
+- mtr:glass_fence_mos
+- mtr:glass_fence_plain
+- mtr:glass_fence_shm
+- mtr:glass_fence_stained
+- mtr:glass_fence_stw
+- mtr:glass_fence_tsh
+- mtr:glass_fence_wks
+- mtr:logo
+- mtr:lift_buttons_1
+- mtr:lift_door_1
+- mtr:lift_door_odd_1
+- mtr:lift_track_1
+- mtr:lift_track_floor_1
+- mtr:marble_blue
+- mtr:marble_sandy
+- mtr:marble_blue_slab
+- mtr:marble_sandy_slab
+- mtr:metal
+- mtr:metal_slab
+- mtr:pids_1
+- mtr:pids_2
+- mtr:pids_3
+- mtr:pids_pole
+- mtr:platform
+- mtr:platform_indented
+- mtr:platform_na_1
+- mtr:platform_na_1_indented
+- mtr:platform_na_2
+- mtr:platform_na_2_indented
+- mtr:platform_uk_1
+- mtr:platform_uk_1_indented
+- mtr:psd_door
+- mtr:psd_glass
+- mtr:psd_glass_end
+- mtr:psd_door_2
+- mtr:psd_glass_2
+- mtr:psd_glass_end_2
+- mtr:psd_top
+- mtr:railway_sign_2_even
+- mtr:railway_sign_2_odd
+- mtr:railway_sign_3_even
+- mtr:railway_sign_3_odd
+- mtr:railway_sign_4_even
+- mtr:railway_sign_4_odd
+- mtr:railway_sign_5_even
+- mtr:railway_sign_5_odd
+- mtr:railway_sign_6_even
+- mtr:railway_sign_6_odd
+- mtr:railway_sign_7_even
+- mtr:railway_sign_7_odd
+- mtr:railway_sign_middle
+- mtr:railway_sign_pole
+- mtr:route_sign_standing_light
+- mtr:route_sign_standing_metal
+- mtr:route_sign_wall_light
+- mtr:route_sign_wall_metal
+- mtr:rubbish_bin_1
+- mtr:signal_light_1
+- mtr:signal_light_2
+- mtr:signal_light_3
+- mtr:signal_light_4
+- mtr:signal_light_3_aspect_1
+- mtr:signal_light_3_aspect_2
+- mtr:signal_light_4_aspect_1
+- mtr:signal_light_4_aspect_2
+- mtr:signal_semaphore_1
+- mtr:signal_semaphore_2
+- mtr:signal_pole
+- mtr:station_color_andesite
+- mtr:station_color_bedrock
+- mtr:station_color_birch_wood
+- mtr:station_color_bone_block
+- mtr:station_color_chiseled_quartz_block
+- mtr:station_color_chiseled_stone_bricks
+- mtr:station_color_clay
+- mtr:station_color_coal_ore
+- mtr:station_color_cobblestone
+- mtr:station_color_concrete
+- mtr:station_color_concrete_powder
+- mtr:station_color_cracked_stone_bricks
+- mtr:station_color_dark_prismarine
+- mtr:station_color_diorite
+- mtr:station_color_gravel
+- mtr:station_color_iron_block
+- mtr:station_color_metal
+- mtr:station_color_planks
+- mtr:station_color_polished_andesite
+- mtr:station_color_polished_diorite
+- mtr:station_color_purpur_block
+- mtr:station_color_purpur_pillar
+- mtr:station_color_quartz_block
+- mtr:station_color_quartz_bricks
+- mtr:station_color_quartz_pillar
+- mtr:station_color_smooth_quartz
+- mtr:station_color_smooth_stone
+- mtr:station_color_snow_block
+- mtr:station_color_stained_glass
+- mtr:station_color_stone
+- mtr:station_color_stone_bricks
+- mtr:station_color_wool
+- mtr:station_color_andesite_slab
+- mtr:station_color_bedrock_slab
+- mtr:station_color_birch_wood_slab
+- mtr:station_color_bone_block_slab
+- mtr:station_color_chiseled_quartz_block_slab
+- mtr:station_color_chiseled_stone_bricks_slab
+- mtr:station_color_clay_slab
+- mtr:station_color_coal_ore_slab
+- mtr:station_color_cobblestone_slab
+- mtr:station_color_concrete_slab
+- mtr:station_color_concrete_powder_slab
+- mtr:station_color_cracked_stone_bricks_slab
+- mtr:station_color_dark_prismarine_slab
+- mtr:station_color_diorite_slab
+- mtr:station_color_gravel_slab
+- mtr:station_color_iron_block_slab
+- mtr:station_color_metal_slab
+- mtr:station_color_planks_slab
+- mtr:station_color_polished_andesite_slab
+- mtr:station_color_polished_diorite_slab
+- mtr:station_color_purpur_block_slab
+- mtr:station_color_purpur_pillar_slab
+- mtr:station_color_quartz_block_slab
+- mtr:station_color_quartz_bricks_slab
+- mtr:station_color_quartz_pillar_slab
+- mtr:station_color_smooth_quartz_slab
+- mtr:station_color_smooth_stone_slab
+- mtr:station_color_snow_block_slab
+- mtr:station_color_stained_glass_slab
+- mtr:station_color_stone_slab
+- mtr:station_color_stone_bricks_slab
+- mtr:station_color_wool_slab
+- mtr:station_name_entrance
+- mtr:station_name_tall_block
+- mtr:station_name_tall_block_double_sided
+- mtr:station_name_tall_wall
+- mtr:station_name_wall
+- mtr:station_name_wall_gray
+- mtr:station_name_wall_black
+- mtr:station_pole
+- mtr:tactile_map
+- mtr:ticket_barrier_entrance_1
+- mtr:ticket_barrier_exit_1
+- mtr:ticket_machine
+- mtr:ticket_processor
+- mtr:ticket_processor_entrance
+- mtr:ticket_processor_exit
+- mtr:ticket_processor_enquiry
+- mtr:train_announcer
+- mtr:train_cargo_loader
+- mtr:train_cargo_unloader
+- mtr:train_sensor
+- mtr:train_schedule_sensor
+- pfm:concrete_kitchen_counter
+- pfm:dark_concrete_kitchen_counter
+- pfm:granite_kitchen_counter
+- pfm:calcite_kitchen_counter
+- pfm:netherite_kitchen_counter
+- pfm:andesite_kitchen_counter
+- pfm:diorite_kitchen_counter
+- pfm:smooth_stone_kitchen_counter
+- pfm:stone_kitchen_counter
+- pfm:deepslate_tile_kitchen_counter
+- pfm:blackstone_kitchen_counter
+- pfm:deepslate_kitchen_counter
+- pfm:concrete_kitchen_cabinet
+- pfm:dark_concrete_kitchen_cabinet
+- pfm:granite_kitchen_cabinet
+- pfm:calcite_kitchen_cabinet
+- pfm:netherite_kitchen_cabinet
+- pfm:andesite_kitchen_cabinet
+- pfm:diorite_kitchen_cabinet
+- pfm:smooth_stone_kitchen_cabinet
+- pfm:stone_kitchen_cabinet
+- pfm:deepslate_tile_kitchen_cabinet
+- pfm:blackstone_kitchen_cabinet
+- pfm:deepslate_kitchen_cabinet
+- pfm:concrete_kitchen_drawer
+- pfm:dark_concrete_kitchen_drawer
+- pfm:granite_kitchen_drawer
+- pfm:calcite_kitchen_drawer
+- pfm:netherite_kitchen_drawer
+- pfm:andesite_kitchen_drawer
+- pfm:diorite_kitchen_drawer
+- pfm:smooth_stone_kitchen_drawer
+- pfm:stone_kitchen_drawer
+- pfm:deepslate_tile_kitchen_drawer
+- pfm:blackstone_kitchen_drawer
+- pfm:deepslate_kitchen_drawer
+- pfm:concrete_kitchen_counter_oven
+- pfm:dark_concrete_kitchen_counter_oven
+- pfm:granite_kitchen_counter_oven
+- pfm:calcite_kitchen_counter_oven
+- pfm:netherite_kitchen_counter_oven
+- pfm:andesite_kitchen_counter_oven
+- pfm:diorite_kitchen_counter_oven
+- pfm:smooth_stone_kitchen_counter_oven
+- pfm:stone_kitchen_counter_oven
+- pfm:deepslate_tile_kitchen_counter_oven
+- pfm:blackstone_kitchen_counter_oven
+- pfm:deepslate_kitchen_counter_oven
+- pfm:concrete_kitchen_sink
+- pfm:dark_concrete_kitchen_sink
+- pfm:granite_kitchen_sink
+- pfm:calcite_kitchen_sink
+- pfm:netherite_kitchen_sink
+- pfm:andesite_kitchen_sink
+- pfm:diorite_kitchen_sink
+- pfm:smooth_stone_kitchen_sink
+- pfm:stone_kitchen_sink
+- pfm:deepslate_tile_kitchen_sink
+- pfm:blackstone_kitchen_sink
+- pfm:deepslate_kitchen_sink
+- pfm:quartz_chair
+- pfm:netherite_chair
+- pfm:granite_chair
+- pfm:calcite_chair
+- pfm:andesite_chair
+- pfm:diorite_chair
+- pfm:stone_chair
+- pfm:deepslate_chair
+- pfm:blackstone_chair
+- pfm:quartz_table_basic
+- pfm:netherite_table_basic
+- pfm:granite_table_basic
+- pfm:calcite_table_basic
+- pfm:andesite_table_basic
+- pfm:diorite_table_basic
+- pfm:stone_table_basic
+- pfm:deepslate_table_basic
+- pfm:blackstone_table_basic
+- pfm:oak_chair_classic
+- pfm:birch_chair_classic
+- pfm:spruce_chair_classic
+- pfm:acacia_chair_classic
+- pfm:jungle_chair_classic
+- pfm:dark_oak_chair_classic
+- pfm:crimson_chair_classic
+- pfm:warped_chair_classic
+- pfm:stripped_oak_chair_classic
+- pfm:stripped_birch_chair_classic
+- pfm:stripped_spruce_chair_classic
+- pfm:stripped_acacia_chair_classic
+- pfm:stripped_jungle_chair_classic
+- pfm:stripped_dark_oak_chair_classic
+- pfm:stripped_warped_chair_classic
+- pfm:stripped_crimson_chair_classic
+- pfm:quartz_chair_classic
+- pfm:light_wood_chair_classic
+- pfm:dark_wood_chair_classic
+- pfm:quartz_classic_stool
+- pfm:netherite_classic_stool
+- pfm:granite_classic_stool
+- pfm:calcite_classic_stool
+- pfm:andesite_classic_stool
+- pfm:diorite_classic_stool
+- pfm:stone_classic_stool
+- pfm:deepslate_classic_stool
+- pfm:blackstone_classic_stool
+- pfm:quartz_table_classic
+- pfm:netherite_table_classic
+- pfm:granite_table_classic
+- pfm:calcite_table_classic
+- pfm:andesite_table_classic
+- pfm:diorite_table_classic
+- pfm:stone_table_classic
+- pfm:deepslate_table_classic
+- pfm:blackstone_table_classic
+- pfm:quartz_chair_dinner
+- pfm:netherite_chair_dinner
+- pfm:granite_chair_dinner
+- pfm:calcite_chair_dinner
+- pfm:andesite_chair_dinner
+- pfm:diorite_chair_dinner
+- pfm:stone_chair_dinner
+- pfm:deepslate_chair_dinner
+- pfm:blackstone_chair_dinner
+- pfm:quartz_table_dinner
+- pfm:netherite_table_dinner
+- pfm:granite_table_dinner
+- pfm:calcite_table_dinner
+- pfm:andesite_table_dinner
+- pfm:diorite_table_dinner
+- pfm:stone_table_dinner
+- pfm:deepslate_table_dinner
+- pfm:blackstone_table_dinner
+- pfm:quartz_table_modern_dinner
+- pfm:netherite_table_modern_dinner
+- pfm:granite_table_modern_dinner
+- pfm:calcite_table_modern_dinner
+- pfm:andesite_table_modern_dinner
+- pfm:diorite_table_modern_dinner
+- pfm:stone_table_modern_dinner
+- pfm:deepslate_table_modern_dinner
+- pfm:blackstone_table_modern_dinner
+- pfm:quartz_chair_modern
+- pfm:netherite_chair_modern
+- pfm:granite_chair_modern
+- pfm:calcite_chair_modern
+- pfm:andesite_chair_modern
+- pfm:diorite_chair_modern
+- pfm:stone_chair_modern
+- pfm:deepslate_chair_modern
+- pfm:blackstone_chair_modern
+- pfm:white_modern_stool
+- pfm:gray_modern_stool
+- pfm:quartz_modern_stool
+- pfm:netherite_modern_stool
+- pfm:granite_modern_stool
+- pfm:calcite_modern_stool
+- pfm:andesite_modern_stool
+- pfm:diorite_modern_stool
+- pfm:stone_modern_stool
+- pfm:deepslate_modern_stool
+- pfm:blackstone_modern_stool
+- pfm:quartz_simple_stool
+- pfm:netherite_simple_stool
+- pfm:granite_simple_stool
+- pfm:calcite_simple_stool
+- pfm:andesite_simple_stool
+- pfm:diorite_simple_stool
+- pfm:stone_simple_stool
+- pfm:deepslate_simple_stool
+- pfm:blackstone_simple_stool
+- pfm:gray_modern_pendant
+- pfm:white_modern_pendant
+- pfm:glass_modern_pendant
+- pfm:simple_light
+- pfm:white_fridge
+- pfm:gray_fridge
+- pfm:iron_fridge
+- pfm:xbox_fridge
+- pfm:white_freezer
+- pfm:gray_freezer
+- pfm:iron_freezer
+- pfm:light_switch
+- pfm:iron_microwave
+- pfm:kitchen_stovetop
+- pfm:iron_stove
+- pfm:froggy_chair
+- pfm:froggy_chair_pink
+- pfm:froggy_chair_blue
+- pfm:froggy_chair_light_blue
+- pfm:froggy_chair_orange
+- pfm:froggy_chair_yellow
+- pfm:white_stove
+- pfm:gray_stove
+- pfm:concrete_kitchen_wall_counter
+- pfm:dark_concrete_kitchen_wall_counter
+- pfm:granite_kitchen_wall_counter
+- pfm:calcite_kitchen_wall_counter
+- pfm:netherite_kitchen_wall_counter
+- pfm:andesite_kitchen_wall_counter
+- pfm:diorite_kitchen_wall_counter
+- pfm:smooth_stone_kitchen_wall_counter
+- pfm:stone_kitchen_wall_counter
+- pfm:deepslate_tile_kitchen_wall_counter
+- pfm:blackstone_kitchen_wall_counter
+- pfm:deepslate_kitchen_wall_counter
+- pfm:concrete_kitchen_wall_drawer
+- pfm:dark_concrete_kitchen_wall_drawer
+- pfm:granite_kitchen_wall_drawer
+- pfm:calcite_kitchen_wall_drawer
+- pfm:netherite_kitchen_wall_drawer
+- pfm:andesite_kitchen_wall_drawer
+- pfm:diorite_kitchen_wall_drawer
+- pfm:smooth_stone_kitchen_wall_drawer
+- pfm:stone_kitchen_wall_drawer
+- pfm:deepslate_tile_kitchen_wall_drawer
+- pfm:blackstone_kitchen_wall_drawer
+- pfm:deepslate_kitchen_wall_drawer
+- pfm:concrete_kitchen_wall_small_drawer
+- pfm:dark_concrete_kitchen_wall_small_drawer
+- pfm:granite_kitchen_wall_small_drawer
+- pfm:calcite_kitchen_wall_small_drawer
+- pfm:netherite_kitchen_wall_small_drawer
+- pfm:andesite_kitchen_wall_small_drawer
+- pfm:diorite_kitchen_wall_small_drawer
+- pfm:smooth_stone_kitchen_wall_small_drawer
+- pfm:stone_kitchen_wall_small_drawer
+- pfm:deepslate_tile_kitchen_wall_small_drawer
+- pfm:blackstone_kitchen_wall_small_drawer
+- pfm:deepslate_kitchen_wall_small_drawer
+- pfm:quartz_classic_nightstand
+- pfm:netherite_classic_nightstand
+- pfm:granite_classic_nightstand
+- pfm:calcite_classic_nightstand
+- pfm:andesite_classic_nightstand
+- pfm:diorite_classic_nightstand
+- pfm:stone_classic_nightstand
+- pfm:deepslate_classic_nightstand
+- pfm:blackstone_classic_nightstand
+- pfm:basic_plate
+- pfm:basic_cutlery
+- pfm:basic_toilet
+- pfm:white_oven_range_hood
+- pfm:gray_oven_range_hood
+- pfm:iron_oven_range_hood
+- pfm:raw_concrete
+- pfm:iron_chain
+- #reinfshulker:copper_shulker_boxes
+- #reinfshulker:iron_shulker_boxes
+- #reinfshulker:gold_shulker_boxes
+- #reinfshulker:diamond_shulker_boxes
+- #reinfshulker:netherite_shulker_boxes
+- seasons:seasonal_ice
+- spirit:soul_cage
+- spirit:broken_spawner
+- spirit:pedestal
+- spirit:crystal_pedestal
+- spirit:soul_pedestal
+- spirit:soul_steel_block
+- spirit:soul_slate
+- statues:statue
+- statues:statue_top
+- things:gleaming_ore
+- things:deepslate_gleaming_ore
+- things:quartz_glowstone_fixture
+- things:stone_glowstone_fixture
+- things:diamond_pressure_plate
+- vinery:wood_fired_oven
+- vinery:stove
+- vinery:big_table
+- vinery:kitchen_sink
+- vinery:flower_pot
+- vinery:cooking_pot
+- winterly:raw_cryomarble_shard
+- winterly:icicle
+- winterly:icicle_block
+- winterly:icicle_bars
+- winterly:icicle_pane
+- wirelessnetworks:node_block
+
+#minecraft:beds
+- minecraft:red_bed
+- minecraft:black_bed
+- minecraft:blue_bed
+- minecraft:brown_bed
+- minecraft:cyan_bed
+- minecraft:gray_bed
+- minecraft:green_bed
+- minecraft:light_blue_bed
+- minecraft:light_gray_bed
+- minecraft:lime_bed
+- minecraft:magenta_bed
+- minecraft:orange_bed
+- minecraft:pink_bed
+- minecraft:purple_bed
+- minecraft:white_bed
+- minecraft:yellow_bed
+- pfm:oak_red_simple_bed
+- pfm:oak_orange_simple_bed
+- pfm:oak_yellow_simple_bed
+- pfm:oak_green_simple_bed
+- pfm:oak_lime_simple_bed
+- pfm:oak_cyan_simple_bed
+- pfm:oak_blue_simple_bed
+- pfm:oak_light_blue_simple_bed
+- pfm:oak_light_gray_simple_bed
+- pfm:oak_magenta_simple_bed
+- pfm:oak_pink_simple_bed
+- pfm:oak_purple_simple_bed
+- pfm:oak_white_simple_bed
+- pfm:oak_brown_simple_bed
+- pfm:oak_gray_simple_bed
+- pfm:oak_black_simple_bed
+- pfm:spruce_red_simple_bed
+- pfm:spruce_orange_simple_bed
+- pfm:spruce_yellow_simple_bed
+- pfm:spruce_green_simple_bed
+- pfm:spruce_lime_simple_bed
+- pfm:spruce_cyan_simple_bed
+- pfm:spruce_blue_simple_bed
+- pfm:spruce_light_blue_simple_bed
+- pfm:spruce_light_gray_simple_bed
+- pfm:spruce_magenta_simple_bed
+- pfm:spruce_pink_simple_bed
+- pfm:spruce_purple_simple_bed
+- pfm:spruce_white_simple_bed
+- pfm:spruce_brown_simple_bed
+- pfm:spruce_gray_simple_bed
+- pfm:spruce_black_simple_bed
+- pfm:dark_oak_red_simple_bed
+- pfm:dark_oak_orange_simple_bed
+- pfm:dark_oak_yellow_simple_bed
+- pfm:dark_oak_green_simple_bed
+- pfm:dark_oak_lime_simple_bed
+- pfm:dark_oak_cyan_simple_bed
+- pfm:dark_oak_blue_simple_bed
+- pfm:dark_oak_light_blue_simple_bed
+- pfm:dark_oak_light_gray_simple_bed
+- pfm:dark_oak_magenta_simple_bed
+- pfm:dark_oak_pink_simple_bed
+- pfm:dark_oak_purple_simple_bed
+- pfm:dark_oak_white_simple_bed
+- pfm:dark_oak_brown_simple_bed
+- pfm:dark_oak_gray_simple_bed
+- pfm:dark_oak_black_simple_bed
+- pfm:birch_red_simple_bed
+- pfm:birch_orange_simple_bed
+- pfm:birch_yellow_simple_bed
+- pfm:birch_green_simple_bed
+- pfm:birch_lime_simple_bed
+- pfm:birch_cyan_simple_bed
+- pfm:birch_blue_simple_bed
+- pfm:birch_light_blue_simple_bed
+- pfm:birch_light_gray_simple_bed
+- pfm:birch_magenta_simple_bed
+- pfm:birch_pink_simple_bed
+- pfm:birch_purple_simple_bed
+- pfm:birch_white_simple_bed
+- pfm:birch_brown_simple_bed
+- pfm:birch_gray_simple_bed
+- pfm:birch_black_simple_bed
+- pfm:acacia_red_simple_bed
+- pfm:acacia_orange_simple_bed
+- pfm:acacia_yellow_simple_bed
+- pfm:acacia_green_simple_bed
+- pfm:acacia_lime_simple_bed
+- pfm:acacia_cyan_simple_bed
+- pfm:acacia_blue_simple_bed
+- pfm:acacia_light_blue_simple_bed
+- pfm:acacia_light_gray_simple_bed
+- pfm:acacia_magenta_simple_bed
+- pfm:acacia_pink_simple_bed
+- pfm:acacia_purple_simple_bed
+- pfm:acacia_white_simple_bed
+- pfm:acacia_brown_simple_bed
+- pfm:acacia_gray_simple_bed
+- pfm:acacia_black_simple_bed
+- pfm:jungle_red_simple_bed
+- pfm:jungle_orange_simple_bed
+- pfm:jungle_yellow_simple_bed
+- pfm:jungle_green_simple_bed
+- pfm:jungle_lime_simple_bed
+- pfm:jungle_cyan_simple_bed
+- pfm:jungle_blue_simple_bed
+- pfm:jungle_light_blue_simple_bed
+- pfm:jungle_light_gray_simple_bed
+- pfm:jungle_magenta_simple_bed
+- pfm:jungle_pink_simple_bed
+- pfm:jungle_purple_simple_bed
+- pfm:jungle_white_simple_bed
+- pfm:jungle_brown_simple_bed
+- pfm:jungle_gray_simple_bed
+- pfm:jungle_black_simple_bed
+- pfm:warped_red_simple_bed
+- pfm:warped_orange_simple_bed
+- pfm:warped_yellow_simple_bed
+- pfm:warped_green_simple_bed
+- pfm:warped_lime_simple_bed
+- pfm:warped_cyan_simple_bed
+- pfm:warped_blue_simple_bed
+- pfm:warped_light_blue_simple_bed
+- pfm:warped_light_gray_simple_bed
+- pfm:warped_magenta_simple_bed
+- pfm:warped_pink_simple_bed
+- pfm:warped_purple_simple_bed
+- pfm:warped_white_simple_bed
+- pfm:warped_brown_simple_bed
+- pfm:warped_gray_simple_bed
+- pfm:warped_black_simple_bed
+- pfm:crimson_red_simple_bed
+- pfm:crimson_orange_simple_bed
+- pfm:crimson_yellow_simple_bed
+- pfm:crimson_green_simple_bed
+- pfm:crimson_lime_simple_bed
+- pfm:crimson_cyan_simple_bed
+- pfm:crimson_blue_simple_bed
+- pfm:crimson_light_blue_simple_bed
+- pfm:crimson_light_gray_simple_bed
+- pfm:crimson_magenta_simple_bed
+- pfm:crimson_pink_simple_bed
+- pfm:crimson_purple_simple_bed
+- pfm:crimson_white_simple_bed
+- pfm:crimson_brown_simple_bed
+- pfm:crimson_gray_simple_bed
+- pfm:crimson_black_simple_bed
+- pfm:oak_red_classic_bed
+- pfm:oak_orange_classic_bed
+- pfm:oak_yellow_classic_bed
+- pfm:oak_green_classic_bed
+- pfm:oak_lime_classic_bed
+- pfm:oak_cyan_classic_bed
+- pfm:oak_blue_classic_bed
+- pfm:oak_light_blue_classic_bed
+- pfm:oak_light_gray_classic_bed
+- pfm:oak_magenta_classic_bed
+- pfm:oak_pink_classic_bed
+- pfm:oak_purple_classic_bed
+- pfm:oak_white_classic_bed
+- pfm:oak_brown_classic_bed
+- pfm:oak_gray_classic_bed
+- pfm:oak_black_classic_bed
+- pfm:spruce_red_classic_bed
+- pfm:spruce_orange_classic_bed
+- pfm:spruce_yellow_classic_bed
+- pfm:spruce_green_classic_bed
+- pfm:spruce_lime_classic_bed
+- pfm:spruce_cyan_classic_bed
+- pfm:spruce_blue_classic_bed
+- pfm:spruce_light_blue_classic_bed
+- pfm:spruce_light_gray_classic_bed
+- pfm:spruce_magenta_classic_bed
+- pfm:spruce_pink_classic_bed
+- pfm:spruce_purple_classic_bed
+- pfm:spruce_white_classic_bed
+- pfm:spruce_brown_classic_bed
+- pfm:spruce_gray_classic_bed
+- pfm:spruce_black_classic_bed
+- pfm:dark_oak_red_classic_bed
+- pfm:dark_oak_orange_classic_bed
+- pfm:dark_oak_yellow_classic_bed
+- pfm:dark_oak_green_classic_bed
+- pfm:dark_oak_lime_classic_bed
+- pfm:dark_oak_cyan_classic_bed
+- pfm:dark_oak_blue_classic_bed
+- pfm:dark_oak_light_blue_classic_bed
+- pfm:dark_oak_light_gray_classic_bed
+- pfm:dark_oak_magenta_classic_bed
+- pfm:dark_oak_pink_classic_bed
+- pfm:dark_oak_purple_classic_bed
+- pfm:dark_oak_white_classic_bed
+- pfm:dark_oak_brown_classic_bed
+- pfm:dark_oak_gray_classic_bed
+- pfm:dark_oak_black_classic_bed
+- pfm:birch_red_classic_bed
+- pfm:birch_orange_classic_bed
+- pfm:birch_yellow_classic_bed
+- pfm:birch_green_classic_bed
+- pfm:birch_lime_classic_bed
+- pfm:birch_cyan_classic_bed
+- pfm:birch_blue_classic_bed
+- pfm:birch_light_blue_classic_bed
+- pfm:birch_light_gray_classic_bed
+- pfm:birch_magenta_classic_bed
+- pfm:birch_pink_classic_bed
+- pfm:birch_purple_classic_bed
+- pfm:birch_white_classic_bed
+- pfm:birch_brown_classic_bed
+- pfm:birch_gray_classic_bed
+- pfm:birch_black_classic_bed
+- pfm:acacia_red_classic_bed
+- pfm:acacia_orange_classic_bed
+- pfm:acacia_yellow_classic_bed
+- pfm:acacia_green_classic_bed
+- pfm:acacia_lime_classic_bed
+- pfm:acacia_cyan_classic_bed
+- pfm:acacia_blue_classic_bed
+- pfm:acacia_light_blue_classic_bed
+- pfm:acacia_light_gray_classic_bed
+- pfm:acacia_magenta_classic_bed
+- pfm:acacia_pink_classic_bed
+- pfm:acacia_purple_classic_bed
+- pfm:acacia_white_classic_bed
+- pfm:acacia_brown_classic_bed
+- pfm:acacia_gray_classic_bed
+- pfm:acacia_black_classic_bed
+- pfm:jungle_red_classic_bed
+- pfm:jungle_orange_classic_bed
+- pfm:jungle_yellow_classic_bed
+- pfm:jungle_green_classic_bed
+- pfm:jungle_lime_classic_bed
+- pfm:jungle_cyan_classic_bed
+- pfm:jungle_blue_classic_bed
+- pfm:jungle_light_blue_classic_bed
+- pfm:jungle_light_gray_classic_bed
+- pfm:jungle_magenta_classic_bed
+- pfm:jungle_pink_classic_bed
+- pfm:jungle_purple_classic_bed
+- pfm:jungle_white_classic_bed
+- pfm:jungle_brown_classic_bed
+- pfm:jungle_gray_classic_bed
+- pfm:jungle_black_classic_bed
+- pfm:warped_red_classic_bed
+- pfm:warped_orange_classic_bed
+- pfm:warped_yellow_classic_bed
+- pfm:warped_green_classic_bed
+- pfm:warped_lime_classic_bed
+- pfm:warped_cyan_classic_bed
+- pfm:warped_blue_classic_bed
+- pfm:warped_light_blue_classic_bed
+- pfm:warped_light_gray_classic_bed
+- pfm:warped_magenta_classic_bed
+- pfm:warped_pink_classic_bed
+- pfm:warped_purple_classic_bed
+- pfm:warped_white_classic_bed
+- pfm:warped_brown_classic_bed
+- pfm:warped_gray_classic_bed
+- pfm:warped_black_classic_bed
+- pfm:crimson_red_classic_bed
+- pfm:crimson_orange_classic_bed
+- pfm:crimson_yellow_classic_bed
+- pfm:crimson_green_classic_bed
+- pfm:crimson_lime_classic_bed
+- pfm:crimson_cyan_classic_bed
+- pfm:crimson_blue_classic_bed
+- pfm:crimson_light_blue_classic_bed
+- pfm:crimson_light_gray_classic_bed
+- pfm:crimson_magenta_classic_bed
+- pfm:crimson_pink_classic_bed
+- pfm:crimson_purple_classic_bed
+- pfm:crimson_white_classic_bed
+- pfm:crimson_brown_classic_bed
+- pfm:crimson_gray_classic_bed
+- pfm:crimson_black_classic_bed
+
+#minecraft:unstable_bottom_center
+- #minecraft:fence_gates
+
+#minecraft:doors
+- #minecraft:wooden_doors
+- minecraft:iron_door
+- ad_astra:steel_door
+- ad_astra:iron_sliding_door
+- ad_astra:steel_sliding_door
+- ad_astra:desh_sliding_door
+- ad_astra:ostrum_sliding_door
+- ad_astra:calorite_sliding_door
+- ad_astra:airlock
+- ad_astra:reinforced_door
+- ad_astra:glacian_log
+- ad_astra:glacian_door
+- ad_astra:aeronos_door
+- ad_astra:strophar_door
+- create:train_door
+- create:framed_glass_door
+- glassdoor:iron_glassdoor
+
+#minecraft:enderman_holdable
+- #minecraft:small_flowers
+- #minecraft:dirt
+- minecraft:sand
+- minecraft:red_sand
+- minecraft:gravel
+- minecraft:brown_mushroom
+- minecraft:red_mushroom
+- minecraft:tnt
+- minecraft:cactus
+- minecraft:clay
+- minecraft:pumpkin
+- minecraft:carved_pumpkin
+- minecraft:melon
+- minecraft:crimson_fungus
+- minecraft:crimson_nylium
+- minecraft:crimson_roots
+- minecraft:warped_fungus
+- minecraft:warped_nylium
+- minecraft:warped_roots
+
+#minecraft:banners
+- minecraft:white_banner
+- minecraft:orange_banner
+- minecraft:magenta_banner
+- minecraft:light_blue_banner
+- minecraft:yellow_banner
+- minecraft:lime_banner
+- minecraft:pink_banner
+- minecraft:gray_banner
+- minecraft:light_gray_banner
+- minecraft:cyan_banner
+- minecraft:purple_banner
+- minecraft:blue_banner
+- minecraft:brown_banner
+- minecraft:green_banner
+- minecraft:red_banner
+- minecraft:black_banner
+- minecraft:white_wall_banner
+- minecraft:orange_wall_banner
+- minecraft:magenta_wall_banner
+- minecraft:light_blue_wall_banner
+- minecraft:yellow_wall_banner
+- minecraft:lime_wall_banner
+- minecraft:pink_wall_banner
+- minecraft:gray_wall_banner
+- minecraft:light_gray_wall_banner
+- minecraft:cyan_wall_banner
+- minecraft:purple_wall_banner
+- minecraft:blue_wall_banner
+- minecraft:brown_wall_banner
+- minecraft:green_wall_banner
+- minecraft:red_wall_banner
+- minecraft:black_wall_banner
+
+#minecraft:infiniburn_overworld
+- minecraft:netherrack
+- minecraft:magma_block
+
+#minecraft:flower_pots
+- minecraft:flower_pot
+- minecraft:potted_poppy
+- minecraft:potted_blue_orchid
+- minecraft:potted_allium
+- minecraft:potted_azure_bluet
+- minecraft:potted_red_tulip
+- minecraft:potted_orange_tulip
+- minecraft:potted_white_tulip
+- minecraft:potted_pink_tulip
+- minecraft:potted_oxeye_daisy
+- minecraft:potted_dandelion
+- minecraft:potted_oak_sapling
+- minecraft:potted_spruce_sapling
+- minecraft:potted_birch_sapling
+- minecraft:potted_jungle_sapling
+- minecraft:potted_acacia_sapling
+- minecraft:potted_dark_oak_sapling
+- minecraft:potted_red_mushroom
+- minecraft:potted_brown_mushroom
+- minecraft:potted_dead_bush
+- minecraft:potted_fern
+- minecraft:potted_cactus
+- minecraft:potted_cornflower
+- minecraft:potted_lily_of_the_valley
+- minecraft:potted_wither_rose
+- minecraft:potted_bamboo
+- minecraft:potted_crimson_fungus
+- minecraft:potted_warped_fungus
+- minecraft:potted_crimson_roots
+- minecraft:potted_warped_roots
+- minecraft:potted_azalea_bush
+- minecraft:potted_flowering_azalea_bush
+- ecologics:potted_coconut_seedling
+- ecologics:potted_walnut_sapling
+- ecologics:potted_azalea_flower
+
+#minecraft:wooden_fences
+- minecraft:oak_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- ecologics:coconut_fence
+- ecologics:walnut_fence
+- ecologics:azalea_fence
+- ecologics:flowering_azalea_fence
+- vinery:cherry_fence
+
+#c:ores_in_ground/deepslate
+- create:deepslate_zinc_ore
+- minecraft:deepslate_coal_ore
+- minecraft:deepslate_copper_ore
+- minecraft:deepslate_diamond_ore
+- minecraft:deepslate_emerald_ore
+- minecraft:deepslate_gold_ore
+- minecraft:deepslate_iron_ore
+- minecraft:deepslate_lapis_ore
+- minecraft:deepslate_redstone_ore
+
+#minecraft:wall_post_override
+- minecraft:torch
+- minecraft:soul_torch
+- minecraft:redstone_torch
+- minecraft:tripwire
+- #minecraft:signs
+- #minecraft:banners
+- #minecraft:pressure_plates
+- ad_astra:coal_torch
+- ad_astra:glacian_sign
+
+#yigd:support_replace_whitelist
+- minecraft:air
+- minecraft:water
+- minecraft:lava
+
+#c:storage_blocks/zinc
+- create:zinc_block
+
+#origins:unphasable
+- minecraft:barrier
+- minecraft:bedrock
+- minecraft:crying_obsidian
+- minecraft:obsidian
+
+#farmersdelight:drops_cake_slice
+- minecraft:candle_cake
+- minecraft:white_candle_cake
+- minecraft:orange_candle_cake
+- minecraft:magenta_candle_cake
+- minecraft:light_blue_candle_cake
+- minecraft:yellow_candle_cake
+- minecraft:lime_candle_cake
+- minecraft:pink_candle_cake
+- minecraft:gray_candle_cake
+- minecraft:light_gray_candle_cake
+- minecraft:cyan_candle_cake
+- minecraft:purple_candle_cake
+- minecraft:blue_candle_cake
+- minecraft:brown_candle_cake
+- minecraft:green_candle_cake
+- minecraft:red_candle_cake
+- minecraft:black_candle_cake
+
+#minecraft:cauldrons
+- minecraft:cauldron
+- minecraft:water_cauldron
+- minecraft:lava_cauldron
+- minecraft:powder_snow_cauldron
+
+#minecraft:big_dripleaf_placeable
+- #minecraft:small_dripleaf_placeable
+- #minecraft:dirt
+- minecraft:farmland
+
+#vinery:wine_racks
+- vinery:wine_rack_1
+- vinery:wine_rack_2
+- vinery:wine_rack_3
+- vinery:shelf
+- vinery:wine_rack_5
+
+#minecraft:polar_bears_spawnable_on_in_frozen_ocean
+- minecraft:ice
+
+#minecraft:overworld_carver_replaceables
+- ad_astra:moon_stone
+- ad_astra:mars_stone
+- ad_astra:mercury_stone
+- ad_astra:venus_stone
+- ad_astra:venus_sandstone
+- ad_astra:glacio_stone
+- ad_astra:permafrost
+
+#c:ore_rates/dense
+- minecraft:copper_ore
+- minecraft:deepslate_copper_ore
+- minecraft:deepslate_lapis_ore
+- minecraft:deepslate_redstone_ore
+- minecraft:lapis_ore
+- minecraft:redstone_ore
+
+#minecraft:signs
+- #minecraft:standing_signs
+- #minecraft:wall_signs
+- ad_astra:glacian_sign
+- ad_astra:glacian_wall_sign
+
+#farmersdelight:mushroom_colony_growable_on
+- farmersdelight:rich_soil
+
+#c:glass/white
+- minecraft:white_stained_glass
+
+#c:obsidian
+- minecraft:obsidian
+
+#minecraft:wither_summon_base_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#c:fences/wooden
+- #minecraft:wooden_fences
+
+#minecraft:dripstone_replaceable_blocks
+- #minecraft:base_stone_overworld
+- create:asurine
+- create:crimsite
+- create:limestone
+- create:ochrum
+- create:scoria
+- create:scorchia
+- create:veridium
+
+#minecraft:hoglin_repellents
+- minecraft:warped_fungus
+- minecraft:potted_warped_fungus
+- minecraft:nether_portal
+- minecraft:respawn_anchor
+
+#c:glass
+- #c:glass/colorless
+- #c:stained_glass
+- #c:glass/tinted
+
+#minecraft:fire
+- minecraft:fire
+- minecraft:soul_fire
+
+#c:glass_panes/green
+- minecraft:green_stained_glass_pane
+
+#c:glass_panes/colorless
+- minecraft:glass_pane
+
+#c:raw_calorite_blocks
+- ad_astra:raw_calorite_block
+
+#minecraft:needs_diamond_tool
+- minecraft:obsidian
+- minecraft:crying_obsidian
+- minecraft:netherite_block
+- minecraft:respawn_anchor
+- minecraft:ancient_debris
+- things:gleaming_ore
+- things:deepslate_gleaming_ore
+
+#minecraft:base_stone_nether
+- minecraft:netherrack
+- minecraft:basalt
+- minecraft:blackstone
+
+#c:glass/brown
+- minecraft:brown_stained_glass
+
+#minecraft:wall_signs
+- minecraft:oak_wall_sign
+- minecraft:spruce_wall_sign
+- minecraft:birch_wall_sign
+- minecraft:acacia_wall_sign
+- minecraft:jungle_wall_sign
+- minecraft:dark_oak_wall_sign
+- minecraft:crimson_wall_sign
+- minecraft:warped_wall_sign
+- ad_astra:glacian_wall_sign
+- ecologics:coconut_wall_sign
+- ecologics:walnut_wall_sign
+- ecologics:azalea_wall_sign
+- ecologics:flowering_azalea_wall_sign
+- farmersdelight:canvas_wall_sign
+- farmersdelight:white_canvas_wall_sign
+- farmersdelight:orange_canvas_wall_sign
+- farmersdelight:magenta_canvas_wall_sign
+- farmersdelight:light_blue_canvas_wall_sign
+- farmersdelight:yellow_canvas_wall_sign
+- farmersdelight:lime_canvas_wall_sign
+- farmersdelight:pink_canvas_wall_sign
+- farmersdelight:gray_canvas_wall_sign
+- farmersdelight:light_gray_canvas_wall_sign
+- farmersdelight:cyan_canvas_wall_sign
+- farmersdelight:purple_canvas_wall_sign
+- farmersdelight:blue_canvas_wall_sign
+- farmersdelight:brown_canvas_wall_sign
+- farmersdelight:green_canvas_wall_sign
+- farmersdelight:red_canvas_wall_sign
+- farmersdelight:black_canvas_wall_sign
+
+#c:ore_rates/singular
+- minecraft:ancient_debris
+- minecraft:coal_ore
+- minecraft:deepslate_coal_ore
+- minecraft:deepslate_diamond_ore
+- minecraft:deepslate_emerald_ore
+- minecraft:deepslate_gold_ore
+- minecraft:deepslate_iron_ore
+- minecraft:diamond_ore
+- minecraft:emerald_ore
+- minecraft:gold_ore
+- minecraft:iron_ore
+- minecraft:nether_quartz_ore
+
+#c:farmland
+- farmersdelight:rich_soil_farmland
+
+#c:glass_panes/purple
+- minecraft:purple_stained_glass_pane
+
+#create:fan_transparent
+- create:blaze_burner
+- create:lit_blaze_burner
+- create:sail_frame
+- minecraft:iron_bars
+- #minecraft:campfires
+- #minecraft:fences
+
+#c:sand
+- #c:sand/colorless
+- #c:sand/red
+
+#medievalorigins:crops
+- minecraft:carrots
+- minecraft:potatoes
+- minecraft:beetroots
+- minecraft:wheat
+- minecraft:pumpkin
+- minecraft:melon
+- minecraft:sugar_cane
+- minecraft:cocoa
+- minecraft:sweet_berry_bush
+- minecraft:glow_lichen
+
+#c:glass_panes/red
+- minecraft:red_stained_glass_pane
+
+#reinfshulker:diamond_shulker_boxes
+- reinfshulker:diamond_shulker_box
+- reinfshulker:black_diamond_shulker_box
+- reinfshulker:blue_diamond_shulker_box
+- reinfshulker:brown_diamond_shulker_box
+- reinfshulker:cyan_diamond_shulker_box
+- reinfshulker:gray_diamond_shulker_box
+- reinfshulker:green_diamond_shulker_box
+- reinfshulker:light_blue_diamond_shulker_box
+- reinfshulker:light_gray_diamond_shulker_box
+- reinfshulker:lime_diamond_shulker_box
+- reinfshulker:magenta_diamond_shulker_box
+- reinfshulker:orange_diamond_shulker_box
+- reinfshulker:pink_diamond_shulker_box
+- reinfshulker:purple_diamond_shulker_box
+- reinfshulker:red_diamond_shulker_box
+- reinfshulker:white_diamond_shulker_box
+- reinfshulker:yellow_diamond_shulker_box
+
+#minecraft:mineable/shovel
+- minecraft:clay
+- minecraft:dirt
+- minecraft:coarse_dirt
+- minecraft:podzol
+- minecraft:farmland
+- minecraft:grass_block
+- minecraft:gravel
+- minecraft:mycelium
+- minecraft:sand
+- minecraft:red_sand
+- minecraft:snow_block
+- minecraft:snow
+- minecraft:soul_sand
+- minecraft:dirt_path
+- minecraft:white_concrete_powder
+- minecraft:orange_concrete_powder
+- minecraft:magenta_concrete_powder
+- minecraft:light_blue_concrete_powder
+- minecraft:yellow_concrete_powder
+- minecraft:lime_concrete_powder
+- minecraft:pink_concrete_powder
+- minecraft:gray_concrete_powder
+- minecraft:light_gray_concrete_powder
+- minecraft:cyan_concrete_powder
+- minecraft:purple_concrete_powder
+- minecraft:blue_concrete_powder
+- minecraft:brown_concrete_powder
+- minecraft:green_concrete_powder
+- minecraft:red_concrete_powder
+- minecraft:black_concrete_powder
+- minecraft:soul_soil
+- minecraft:rooted_dirt
+- ad_astra:moon_sand
+- ad_astra:mars_sand
+- ad_astra:venus_sand
+- ecologics:sandcastle
+- ecologics:snow_bricks
+- ecologics:snow_brick_slab
+- ecologics:snow_brick_wall
+- ecologics:snow_brick_stairs
+- ecologics:ice_bricks
+- ecologics:ice_brick_slab
+- ecologics:ice_brick_wall
+- ecologics:ice_brick_stairs
+- farmersdelight:organic_compost
+- farmersdelight:rich_soil
+- farmersdelight:rich_soil_farmland
+- pfm:raw_concrete_powder
+- seasons:seasonal_snow
+- spirit:soul_powder_block
+- vinery:loam
+- vinery:coarse_dirt_slab
+- vinery:dirt_slab
+- vinery:grass_slab
+- winterly:dense_snow
+- winterly:dense_snow_stairs
+- winterly:dense_snow_slab
+- winterly:snow_bricks
+- winterly:snowball_wall
+- winterly:snow_brick_stairs
+- winterly:snow_brick_slab
+
+#c:calorite_ores
+- ad_astra:venus_calorite_ore
+- ad_astra:deepslate_calorite_ore
+
+#c:copper_ores
+- ad_astra:glacio_copper_ore
+
+#minecraft:trapdoors
+- #minecraft:wooden_trapdoors
+- minecraft:iron_trapdoor
+- ad_astra:steel_trapdoor
+- ad_astra:glacian_trapdoor
+- ad_astra:aeronos_trapdoor
+- ad_astra:strophar_trapdoor
+- create:train_trapdoor
+- create:framed_glass_trapdoor
+- glassdoor:iron_glasstrapdoor
+
+#minecraft:redstone_ores
+- minecraft:redstone_ore
+- minecraft:deepslate_redstone_ore
+
+#vinery:cherry_logs
+- vinery:cherry_log
+- vinery:old_cherry_log
+- vinery:stripped_cherry_log
+- vinery:stripped_old_cherry_log
+- vinery:cherry_wood
+- vinery:stripped_cherry_wood
+- vinery:old_cherry_wood
+- vinery:stripped_old_cherry_wood
+
+#farmersdelight:straw_blocks
+- farmersdelight:rice_bag
+- farmersdelight:rope
+- farmersdelight:safety_net
+- farmersdelight:canvas_rug
+- farmersdelight:tatami
+- farmersdelight:full_tatami_mat
+- farmersdelight:half_tatami_mat
+
+#c:stained_glass_panes
+- minecraft:white_stained_glass_pane
+- minecraft:orange_stained_glass_pane
+- minecraft:magenta_stained_glass_pane
+- minecraft:light_blue_stained_glass_pane
+- minecraft:yellow_stained_glass_pane
+- minecraft:lime_stained_glass_pane
+- minecraft:pink_stained_glass_pane
+- minecraft:gray_stained_glass_pane
+- minecraft:light_gray_stained_glass_pane
+- minecraft:cyan_stained_glass_pane
+- minecraft:purple_stained_glass_pane
+- minecraft:blue_stained_glass_pane
+- minecraft:brown_stained_glass_pane
+- minecraft:green_stained_glass_pane
+- minecraft:red_stained_glass_pane
+- minecraft:black_stained_glass_pane
+
+#minecraft:fall_damage_resetting
+- #minecraft:climbable
+- minecraft:sweet_berry_bush
+- minecraft:cobweb
+
+#c:glass_panes/light_blue
+- minecraft:light_blue_stained_glass_pane
+
+#minecraft:soul_speed_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#c:storage_blocks/emerald
+- minecraft:emerald_block
+
+#ecologics:coconut_logs
+- ecologics:coconut_log
+- ecologics:stripped_coconut_log
+- ecologics:coconut_wood
+- ecologics:stripped_coconut_wood
+
+#minecraft:geode_invalid_blocks
+- minecraft:bedrock
+- minecraft:water
+- minecraft:lava
+- minecraft:ice
+- minecraft:packed_ice
+- minecraft:blue_ice
+- seasons:seasonal_ice
+
+#minecraft:leaves
+- minecraft:jungle_leaves
+- minecraft:oak_leaves
+- minecraft:spruce_leaves
+- minecraft:dark_oak_leaves
+- minecraft:acacia_leaves
+- minecraft:birch_leaves
+- minecraft:azalea_leaves
+- minecraft:flowering_azalea_leaves
+- ecologics:coconut_leaves
+- ecologics:walnut_leaves
+- vinery:cherry_leaves
+- vinery:grapevine_leaves
+
+#minecraft:walls
+- minecraft:cobblestone_wall
+- minecraft:mossy_cobblestone_wall
+- minecraft:brick_wall
+- minecraft:prismarine_wall
+- minecraft:red_sandstone_wall
+- minecraft:mossy_stone_brick_wall
+- minecraft:granite_wall
+- minecraft:stone_brick_wall
+- minecraft:nether_brick_wall
+- minecraft:andesite_wall
+- minecraft:red_nether_brick_wall
+- minecraft:sandstone_wall
+- minecraft:end_stone_brick_wall
+- minecraft:diorite_wall
+- minecraft:blackstone_wall
+- minecraft:polished_blackstone_brick_wall
+- minecraft:polished_blackstone_wall
+- minecraft:cobbled_deepslate_wall
+- minecraft:polished_deepslate_wall
+- minecraft:deepslate_tile_wall
+- minecraft:deepslate_brick_wall
+- ad_astra:moon_stone_brick_wall
+- ad_astra:mars_stone_brick_wall
+- ad_astra:venus_stone_brick_wall
+- ad_astra:mercury_stone_brick_wall
+- ad_astra:glacio_stone_brick_wall
+- ad_astra:permafrost_brick_wall
+- create:cut_granite_wall
+- create:polished_cut_granite_wall
+- create:cut_granite_brick_wall
+- create:small_granite_brick_wall
+- create:cut_diorite_wall
+- create:polished_cut_diorite_wall
+- create:cut_diorite_brick_wall
+- create:small_diorite_brick_wall
+- create:cut_andesite_wall
+- create:polished_cut_andesite_wall
+- create:cut_andesite_brick_wall
+- create:small_andesite_brick_wall
+- create:cut_calcite_wall
+- create:polished_cut_calcite_wall
+- create:cut_calcite_brick_wall
+- create:small_calcite_brick_wall
+- create:cut_dripstone_wall
+- create:polished_cut_dripstone_wall
+- create:cut_dripstone_brick_wall
+- create:small_dripstone_brick_wall
+- create:cut_deepslate_wall
+- create:polished_cut_deepslate_wall
+- create:cut_deepslate_brick_wall
+- create:small_deepslate_brick_wall
+- create:cut_tuff_wall
+- create:polished_cut_tuff_wall
+- create:cut_tuff_brick_wall
+- create:small_tuff_brick_wall
+- create:cut_asurine_wall
+- create:polished_cut_asurine_wall
+- create:cut_asurine_brick_wall
+- create:small_asurine_brick_wall
+- create:cut_crimsite_wall
+- create:polished_cut_crimsite_wall
+- create:cut_crimsite_brick_wall
+- create:small_crimsite_brick_wall
+- create:cut_limestone_wall
+- create:polished_cut_limestone_wall
+- create:cut_limestone_brick_wall
+- create:small_limestone_brick_wall
+- create:cut_ochrum_wall
+- create:polished_cut_ochrum_wall
+- create:cut_ochrum_brick_wall
+- create:small_ochrum_brick_wall
+- create:cut_scoria_wall
+- create:polished_cut_scoria_wall
+- create:cut_scoria_brick_wall
+- create:small_scoria_brick_wall
+- create:cut_scorchia_wall
+- create:polished_cut_scorchia_wall
+- create:cut_scorchia_brick_wall
+- create:small_scorchia_brick_wall
+- create:cut_veridium_wall
+- create:polished_cut_veridium_wall
+- create:cut_veridium_brick_wall
+- create:small_veridium_brick_wall
+- ecologics:seashell_tile_wall
+- ecologics:snow_brick_wall
+- ecologics:ice_brick_wall
+
+#minecraft:coral_blocks
+- minecraft:tube_coral_block
+- minecraft:brain_coral_block
+- minecraft:bubble_coral_block
+- minecraft:fire_coral_block
+- minecraft:horn_coral_block
+
+#minecraft:cave_vines
+- minecraft:cave_vines_plant
+- minecraft:cave_vines
+
+#c:ores/coal
+- #minecraft:coal_ores
+
+#c:glass_panes/light_gray
+- minecraft:light_gray_stained_glass_pane
+
+#reinfshulker:iron_shulker_boxes
+- reinfshulker:iron_shulker_box
+- reinfshulker:black_iron_shulker_box
+- reinfshulker:blue_iron_shulker_box
+- reinfshulker:brown_iron_shulker_box
+- reinfshulker:cyan_iron_shulker_box
+- reinfshulker:gray_iron_shulker_box
+- reinfshulker:green_iron_shulker_box
+- reinfshulker:light_blue_iron_shulker_box
+- reinfshulker:light_gray_iron_shulker_box
+- reinfshulker:lime_iron_shulker_box
+- reinfshulker:magenta_iron_shulker_box
+- reinfshulker:orange_iron_shulker_box
+- reinfshulker:pink_iron_shulker_box
+- reinfshulker:purple_iron_shulker_box
+- reinfshulker:red_iron_shulker_box
+- reinfshulker:white_iron_shulker_box
+- reinfshulker:yellow_iron_shulker_box
+
+#c:glass/magenta
+- minecraft:magenta_stained_glass
+
+#minecraft:wither_immune
+- minecraft:barrier
+- minecraft:bedrock
+- minecraft:end_portal
+- minecraft:end_portal_frame
+- minecraft:end_gateway
+- minecraft:command_block
+- minecraft:repeating_command_block
+- minecraft:chain_command_block
+- minecraft:structure_block
+- minecraft:jigsaw
+- minecraft:moving_piston
+- yigd:grave
+
+#minecraft:acacia_logs
+- minecraft:acacia_log
+- minecraft:acacia_wood
+- minecraft:stripped_acacia_log
+- minecraft:stripped_acacia_wood
+
+#c:stone
+- minecraft:andesite
+- minecraft:diorite
+- minecraft:granite
+- minecraft:infested_stone
+- minecraft:stone
+- minecraft:polished_andesite
+- minecraft:polished_diorite
+- minecraft:polished_granite
+- minecraft:deepslate
+- minecraft:polished_deepslate
+- minecraft:infested_deepslate
+- minecraft:tuff
+
+#c:enderman_place_on_blacklist
+
+#minecraft:underwater_bonemeals
+- minecraft:seagrass
+- #minecraft:corals
+- #minecraft:wall_corals
+
+#c:relocation_not_supported
+- create:track
+
+#ftbchunks:edit_whitelist
+- yigd:grave
+
+#minecraft:impermeable
+- minecraft:glass
+- minecraft:white_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:yellow_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:green_stained_glass
+- minecraft:red_stained_glass
+- minecraft:black_stained_glass
+- minecraft:tinted_glass
+- create:tiled_glass
+- create:framed_glass
+- create:horizontal_framed_glass
+- create:vertical_framed_glass
+- create:oak_window
+- create:spruce_window
+- create:birch_window
+- create:jungle_window
+- create:acacia_window
+- create:dark_oak_window
+- create:crimson_window
+- create:warped_window
+- create:ornate_iron_window
+- seasons:greenhouse_glass
+
+#minecraft:sand
+- minecraft:sand
+- minecraft:red_sand
+- ad_astra:moon_sand
+- ad_astra:mars_sand
+- ad_astra:venus_sand
+
+#minecraft:copper_ores
+- minecraft:copper_ore
+- minecraft:deepslate_copper_ore
+- ad_astra:glacio_copper_ore
+
+#minecraft:small_dripleaf_placeable
+- minecraft:clay
+- minecraft:moss_block
+
+#origins:natural_stone
+- #minecraft:base_stone_overworld
+- #minecraft:base_stone_nether
+- minecraft:sandstone
+- minecraft:smooth_sandstone
+- minecraft:red_sandstone
+- minecraft:smooth_red_sandstone
+
+#minecraft:logs_that_burn
+- #minecraft:dark_oak_logs
+- #minecraft:oak_logs
+- #minecraft:acacia_logs
+- #minecraft:birch_logs
+- #minecraft:jungle_logs
+- #minecraft:spruce_logs
+- ad_astra:glacian_log
+- ad_astra:stripped_glacian_log
+- #ecologics:coconut_logs
+- #ecologics:walnut_logs
+- #ecologics:azalea_logs
+- #ecologics:flowering_azalea_logs
+- #vinery:cherry_logs
+
+#minecraft:mineable/hoe
+- minecraft:nether_wart_block
+- minecraft:warped_wart_block
+- minecraft:hay_block
+- minecraft:dried_kelp_block
+- minecraft:target
+- minecraft:shroomlight
+- minecraft:sponge
+- minecraft:wet_sponge
+- minecraft:jungle_leaves
+- minecraft:oak_leaves
+- minecraft:spruce_leaves
+- minecraft:dark_oak_leaves
+- minecraft:acacia_leaves
+- minecraft:birch_leaves
+- minecraft:azalea_leaves
+- minecraft:flowering_azalea_leaves
+- minecraft:sculk_sensor
+- minecraft:moss_block
+- minecraft:moss_carpet
+- ad_astra:cheese_block
+- ad_astra:aeronos_mushroom
+- ad_astra:aeronos_stem
+- ad_astra:aeronos_cap
+- ad_astra:strophar_mushroom
+- ad_astra:strophar_cap
+- ad_astra:strophar_stem
+- ecologics:coconut_leaves
+- ecologics:walnut_leaves
+- farmersdelight:rice_bale
+- farmersdelight:straw_bale
+- vinery:cherry_leaves
+- vinery:grapevine_leaves
+
+#c:ores_in_ground/netherrack
+- minecraft:nether_gold_ore
+- minecraft:nether_quartz_ore
+
+#c:glass_panes/gray
+- minecraft:gray_stained_glass_pane
+
+#minecraft:needs_iron_tool
+- minecraft:diamond_block
+- minecraft:diamond_ore
+- minecraft:deepslate_diamond_ore
+- minecraft:emerald_ore
+- minecraft:deepslate_emerald_ore
+- minecraft:emerald_block
+- minecraft:gold_block
+- minecraft:raw_gold_block
+- minecraft:gold_ore
+- minecraft:deepslate_gold_ore
+- minecraft:redstone_ore
+- minecraft:deepslate_redstone_ore
+- ad_astra:fuel_refinery
+- ad_astra:compressor
+- ad_astra:coal_generator
+- ad_astra:oxygen_loader
+- ad_astra:solar_panel
+- ad_astra:nasa_workbench
+- ad_astra:oxygen_distributor
+- ad_astra:water_pump
+- ad_astra:raw_desh_block
+- ad_astra:raw_ostrum_block
+- ad_astra:raw_calorite_block
+- ad_astra:launch_pad
+- ad_astra:moon_desh_ore
+- ad_astra:mars_diamond_ore
+- ad_astra:mars_ostrum_ore
+- ad_astra:venus_diamond_ore
+- ad_astra:venus_gold_ore
+- ad_astra:venus_calorite_ore
+- ad_astra:energizer
+- ad_astra:cryo_freezer
+- ad_astra:oxygen_sensor
+- ad_astra:steel_door
+- ad_astra:steel_trapdoor
+- ad_astra:deepslate_ice_shard_ore
+- ad_astra:deepslate_desh_ore
+- ad_astra:deepslate_ostrum_ore
+- ad_astra:deepslate_calorite_ore
+- ad_astra:iron_sliding_door
+- ad_astra:steel_sliding_door
+- ad_astra:desh_sliding_door
+- ad_astra:ostrum_sliding_door
+- ad_astra:calorite_sliding_door
+- ad_astra:airlock
+- ad_astra:reinforced_door
+- create:zinc_ore
+- create:deepslate_zinc_ore
+- create:raw_zinc_block
+- create:zinc_block
+- create:brass_block
+- ftbquests:screen_1
+- ftbquests:screen_3
+- ftbquests:screen_5
+- ftbquests:screen_7
+- ftbquests:aux_task_screen
+- things:diamond_pressure_plate
+
+#minecraft:needs_diamonds_tool
+
+#c:glass/cyan
+- minecraft:cyan_stained_glass
+
+#minecraft:campfires
+- minecraft:campfire
+- minecraft:soul_campfire
+
+#c:ostrum_blocks
+- ad_astra:ostrum_block
+
+#minecraft:infiniburn_nether
+- #minecraft:infiniburn_overworld
+
+#c:glass/colorless
+- create:tiled_glass
+- create:framed_glass
+- create:horizontal_framed_glass
+- create:vertical_framed_glass
+- minecraft:glass
+
+#minecraft:wooden_slabs
+- minecraft:oak_slab
+- minecraft:spruce_slab
+- minecraft:birch_slab
+- minecraft:jungle_slab
+- minecraft:acacia_slab
+- minecraft:dark_oak_slab
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- ecologics:coconut_slab
+- ecologics:walnut_slab
+- ecologics:azalea_slab
+- ecologics:flowering_azalea_slab
+- vinery:cherry_slab
+
+#minecraft:coal_ores
+- minecraft:coal_ore
+- minecraft:deepslate_coal_ore
+- ad_astra:venus_coal_ore
+- ad_astra:glacio_coal_ore
+
+#create:toolboxes
+- create:white_toolbox
+- create:orange_toolbox
+- create:magenta_toolbox
+- create:light_blue_toolbox
+- create:yellow_toolbox
+- create:lime_toolbox
+- create:pink_toolbox
+- create:gray_toolbox
+- create:light_gray_toolbox
+- create:cyan_toolbox
+- create:purple_toolbox
+- create:blue_toolbox
+- create:brown_toolbox
+- create:green_toolbox
+- create:red_toolbox
+- create:black_toolbox
+
+#minecraft:small_flowers
+- minecraft:dandelion
+- minecraft:poppy
+- minecraft:blue_orchid
+- minecraft:allium
+- minecraft:azure_bluet
+- minecraft:red_tulip
+- minecraft:orange_tulip
+- minecraft:white_tulip
+- minecraft:pink_tulip
+- minecraft:oxeye_daisy
+- minecraft:cornflower
+- minecraft:lily_of_the_valley
+- minecraft:wither_rose
+- ecologics:azalea_flower
+- farmersdelight:wild_carrots
+- farmersdelight:wild_potatoes
+- farmersdelight:wild_beetroots
+- farmersdelight:wild_cabbages
+- farmersdelight:wild_tomatoes
+- farmersdelight:wild_onions
+
+#minecraft:replaceable_plants
+- minecraft:grass
+- minecraft:fern
+- minecraft:dead_bush
+- minecraft:vine
+- minecraft:glow_lichen
+- minecraft:sunflower
+- minecraft:lilac
+- minecraft:rose_bush
+- minecraft:peony
+- minecraft:tall_grass
+- minecraft:large_fern
+- minecraft:hanging_roots
+- farmersdelight:sandy_shrub
+
+#c:ores/redstone
+- #minecraft:redstone_ores
+
+#farmersdelight:mineable/knife
+- minecraft:cobweb
+- minecraft:cake
+- farmersdelight:apple_pie
+- farmersdelight:sweet_berry_cheesecake
+- farmersdelight:chocolate_pie
+- farmersdelight:roast_chicken_block
+- farmersdelight:honey_glazed_ham_block
+- farmersdelight:shepherds_pie_block
+- farmersdelight:rice_roll_medley_block
+- #minecraft:wool_carpets
+- #minecraft:wool
+- #minecraft:candle_cakes
+- #farmersdelight:straw_blocks
+- #c:mineable/knife
+
+#minecraft:azalea_root_replaceable
+- #minecraft:base_stone_overworld
+- #minecraft:dirt
+- #minecraft:terracotta
+- minecraft:red_sand
+- minecraft:clay
+- minecraft:gravel
+- minecraft:sand
+- minecraft:snow_block
+- minecraft:powder_snow
+- create:asurine
+- create:crimsite
+- create:limestone
+- create:ochrum
+- create:scoria
+- create:scorchia
+- create:veridium
+
+#minecraft:wooden_trapdoors
+- minecraft:acacia_trapdoor
+- minecraft:birch_trapdoor
+- minecraft:dark_oak_trapdoor
+- minecraft:jungle_trapdoor
+- minecraft:oak_trapdoor
+- minecraft:spruce_trapdoor
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- ecologics:coconut_trapdoor
+- ecologics:walnut_trapdoor
+- ecologics:azalea_trapdoor
+- ecologics:flowering_azalea_trapdoor
+- glassdoor:oak_glasstrapdoor
+- glassdoor:spruce_glasstrapdoor
+- glassdoor:birch_glasstrapdoor
+- glassdoor:jungle_glasstrapdoor
+- glassdoor:acacia_glasstrapdoor
+- glassdoor:dark_oak_glasstrapdoor
+- vinery:cherry_trapdoor
+
+#c:gold_ores
+- ad_astra:venus_gold_ore
+
+#create:valve_handles
+- create:copper_valve_handle
+- create:white_valve_handle
+- create:orange_valve_handle
+- create:magenta_valve_handle
+- create:light_blue_valve_handle
+- create:yellow_valve_handle
+- create:lime_valve_handle
+- create:pink_valve_handle
+- create:gray_valve_handle
+- create:light_gray_valve_handle
+- create:cyan_valve_handle
+- create:purple_valve_handle
+- create:blue_valve_handle
+- create:brown_valve_handle
+- create:green_valve_handle
+- create:red_valve_handle
+- create:black_valve_handle
+
+#c:glass/pink
+- minecraft:pink_stained_glass
+
+#c:glass/red
+- minecraft:red_stained_glass
+
+#c:fence_gates
+- #c:fence_gates/wooden
+
+#c:glass_panes/pink
+- minecraft:pink_stained_glass_pane
+
+#farmersdelight:wild_crops
+- farmersdelight:wild_carrots
+- farmersdelight:wild_potatoes
+- farmersdelight:wild_beetroots
+- farmersdelight:wild_cabbages
+- farmersdelight:wild_tomatoes
+- farmersdelight:wild_onions
+- farmersdelight:wild_rice
+
+#minecraft:wolves_spawnable_on
+- minecraft:grass_block
+- minecraft:snow
+- minecraft:snow_block
+
+#minecraft:foxes_spawnable_on
+- minecraft:grass_block
+- minecraft:snow
+- minecraft:snow_block
+- minecraft:podzol
+- minecraft:coarse_dirt
+
+#minecraft:stairs
+- #minecraft:wooden_stairs
+- minecraft:cobblestone_stairs
+- minecraft:sandstone_stairs
+- minecraft:nether_brick_stairs
+- minecraft:stone_brick_stairs
+- minecraft:brick_stairs
+- minecraft:purpur_stairs
+- minecraft:quartz_stairs
+- minecraft:red_sandstone_stairs
+- minecraft:prismarine_brick_stairs
+- minecraft:prismarine_stairs
+- minecraft:dark_prismarine_stairs
+- minecraft:polished_granite_stairs
+- minecraft:smooth_red_sandstone_stairs
+- minecraft:mossy_stone_brick_stairs
+- minecraft:polished_diorite_stairs
+- minecraft:mossy_cobblestone_stairs
+- minecraft:end_stone_brick_stairs
+- minecraft:stone_stairs
+- minecraft:smooth_sandstone_stairs
+- minecraft:smooth_quartz_stairs
+- minecraft:granite_stairs
+- minecraft:andesite_stairs
+- minecraft:red_nether_brick_stairs
+- minecraft:polished_andesite_stairs
+- minecraft:diorite_stairs
+- minecraft:blackstone_stairs
+- minecraft:polished_blackstone_brick_stairs
+- minecraft:polished_blackstone_stairs
+- minecraft:cobbled_deepslate_stairs
+- minecraft:polished_deepslate_stairs
+- minecraft:deepslate_tile_stairs
+- minecraft:deepslate_brick_stairs
+- minecraft:oxidized_cut_copper_stairs
+- minecraft:weathered_cut_copper_stairs
+- minecraft:exposed_cut_copper_stairs
+- minecraft:cut_copper_stairs
+- minecraft:waxed_weathered_cut_copper_stairs
+- minecraft:waxed_exposed_cut_copper_stairs
+- minecraft:waxed_cut_copper_stairs
+- minecraft:waxed_oxidized_cut_copper_stairs
+- ad_astra:moon_stone_brick_stairs
+- ad_astra:mars_stone_brick_stairs
+- ad_astra:mercury_stone_brick_stairs
+- ad_astra:venus_sandstone_brick_stairs
+- ad_astra:venus_stone_brick_stairs
+- ad_astra:glacio_stone_brick_stairs
+- ad_astra:chiseled_moon_stone_stairs
+- ad_astra:polished_moon_stone_stairs
+- ad_astra:chiseled_mars_stone_stairs
+- ad_astra:polished_mars_stone_stairs
+- ad_astra:chiseled_venus_stone_stairs
+- ad_astra:polished_venus_stone_stairs
+- ad_astra:chiseled_mercury_stone_stairs
+- ad_astra:polished_mercury_stone_stairs
+- ad_astra:chiseled_glacio_stone_stairs
+- ad_astra:polished_glacio_stone_stairs
+- ad_astra:iron_plating_stairs
+- ad_astra:steel_plating_stairs
+- ad_astra:desh_plating_stairs
+- ad_astra:ostrum_plating_stairs
+- ad_astra:calorite_plating_stairs
+- ad_astra:permafrost_brick_stairs
+- ad_astra:chiseled_permafrost_brick_stairs
+- ad_astra:polished_permafrost_stairs
+- ad_astra:moon_cobblestone_stairs
+- ad_astra:moon_stone_stairs
+- ad_astra:mars_cobblestone_stairs
+- ad_astra:mars_stone_stairs
+- ad_astra:venus_cobblestone_stairs
+- ad_astra:venus_stone_stairs
+- ad_astra:mercury_cobblestone_stairs
+- ad_astra:mercury_stone_stairs
+- ad_astra:glacio_cobblestone_stairs
+- ad_astra:glacio_stone_stairs
+- ad_astra:glacian_stairs
+- ad_astra:aeronos_stairs
+- ad_astra:strophar_stairs
+- create:cut_granite_stairs
+- create:polished_cut_granite_stairs
+- create:cut_granite_brick_stairs
+- create:small_granite_brick_stairs
+- create:cut_diorite_stairs
+- create:polished_cut_diorite_stairs
+- create:cut_diorite_brick_stairs
+- create:small_diorite_brick_stairs
+- create:cut_andesite_stairs
+- create:polished_cut_andesite_stairs
+- create:cut_andesite_brick_stairs
+- create:small_andesite_brick_stairs
+- create:cut_calcite_stairs
+- create:polished_cut_calcite_stairs
+- create:cut_calcite_brick_stairs
+- create:small_calcite_brick_stairs
+- create:cut_dripstone_stairs
+- create:polished_cut_dripstone_stairs
+- create:cut_dripstone_brick_stairs
+- create:small_dripstone_brick_stairs
+- create:cut_deepslate_stairs
+- create:polished_cut_deepslate_stairs
+- create:cut_deepslate_brick_stairs
+- create:small_deepslate_brick_stairs
+- create:cut_tuff_stairs
+- create:polished_cut_tuff_stairs
+- create:cut_tuff_brick_stairs
+- create:small_tuff_brick_stairs
+- create:cut_asurine_stairs
+- create:polished_cut_asurine_stairs
+- create:cut_asurine_brick_stairs
+- create:small_asurine_brick_stairs
+- create:cut_crimsite_stairs
+- create:polished_cut_crimsite_stairs
+- create:cut_crimsite_brick_stairs
+- create:small_crimsite_brick_stairs
+- create:cut_limestone_stairs
+- create:polished_cut_limestone_stairs
+- create:cut_limestone_brick_stairs
+- create:small_limestone_brick_stairs
+- create:cut_ochrum_stairs
+- create:polished_cut_ochrum_stairs
+- create:cut_ochrum_brick_stairs
+- create:small_ochrum_brick_stairs
+- create:cut_scoria_stairs
+- create:polished_cut_scoria_stairs
+- create:cut_scoria_brick_stairs
+- create:small_scoria_brick_stairs
+- create:cut_scorchia_stairs
+- create:polished_cut_scorchia_stairs
+- create:cut_scorchia_brick_stairs
+- create:small_scorchia_brick_stairs
+- create:cut_veridium_stairs
+- create:polished_cut_veridium_stairs
+- create:cut_veridium_brick_stairs
+- create:small_veridium_brick_stairs
+- ecologics:seashell_tile_stairs
+- ecologics:snow_brick_stairs
+- ecologics:ice_brick_stairs
+- winterly:snow_brick_stairs
+- winterly:dense_snow_stairs
+
+#minecraft:logs
+- #minecraft:logs_that_burn
+- #minecraft:crimson_stems
+- #minecraft:warped_stems
+
+#c:glass_panes/magenta
+- minecraft:magenta_stained_glass_pane
+
+#c:glass_panes/brown
+- minecraft:brown_stained_glass_pane
+
+#c:glass/tinted
+- minecraft:tinted_glass
+
+#c:storage_blocks/iron
+- minecraft:iron_block
+
+#minecraft:azalea_grows_on
+- #minecraft:dirt
+- #minecraft:sand
+- #minecraft:terracotta
+- minecraft:snow_block
+- minecraft:powder_snow
+
+#create:passive_boiler_heaters
+- create:blaze_burner
+- create:lit_blaze_burner
+- minecraft:magma_block
+- minecraft:lava
+- #minecraft:campfires
+- #minecraft:fire
+
+#ecologics:azalea_logs
+- ecologics:azalea_log
+- ecologics:azalea_wood
+- ecologics:stripped_azalea_log
+- ecologics:stripped_azalea_wood
+
+#c:raw_ostrum_blocks
+- ad_astra:raw_ostrum_block
+
+#c:glass_panes/white
+- minecraft:white_stained_glass_pane
+
+#c:desh_ores
+- ad_astra:moon_desh_ore
+- ad_astra:deepslate_desh_ore
+
+#c:gravel
+- minecraft:gravel
+
+#minecraft:valid_spawn
+- minecraft:grass_block
+- minecraft:podzol
+
+#minecraft:mushroom_grow_block
+- minecraft:mycelium
+- minecraft:podzol
+- minecraft:crimson_nylium
+- minecraft:warped_nylium
+- farmersdelight:organic_compost
+- farmersdelight:rich_soil
+
+#minecraft:wooden_doors
+- minecraft:oak_door
+- minecraft:spruce_door
+- minecraft:birch_door
+- minecraft:jungle_door
+- minecraft:acacia_door
+- minecraft:dark_oak_door
+- minecraft:crimson_door
+- minecraft:warped_door
+- create:train_door
+- create:framed_glass_door
+- ecologics:coconut_door
+- ecologics:walnut_door
+- ecologics:azalea_door
+- ecologics:flowering_azalea_door
+- glassdoor:oak_glassdoor
+- glassdoor:spruce_glassdoor
+- glassdoor:birch_glassdoor
+- glassdoor:jungle_glassdoor
+- glassdoor:acacia_glassdoor
+- glassdoor:dark_oak_glassdoor
+- vinery:cherry_door
+
+#c:storage_blocks/copper
+- minecraft:copper_block
+- minecraft:cut_copper
+
+#minecraft:standing_signs
+- minecraft:oak_sign
+- minecraft:spruce_sign
+- minecraft:birch_sign
+- minecraft:acacia_sign
+- minecraft:jungle_sign
+- minecraft:dark_oak_sign
+- minecraft:crimson_sign
+- minecraft:warped_sign
+- ad_astra:glacian_sign
+- ecologics:coconut_sign
+- ecologics:walnut_sign
+- ecologics:azalea_sign
+- ecologics:flowering_azalea_sign
+- farmersdelight:canvas_sign
+- farmersdelight:white_canvas_sign
+- farmersdelight:orange_canvas_sign
+- farmersdelight:magenta_canvas_sign
+- farmersdelight:light_blue_canvas_sign
+- farmersdelight:yellow_canvas_sign
+- farmersdelight:lime_canvas_sign
+- farmersdelight:pink_canvas_sign
+- farmersdelight:gray_canvas_sign
+- farmersdelight:light_gray_canvas_sign
+- farmersdelight:cyan_canvas_sign
+- farmersdelight:purple_canvas_sign
+- farmersdelight:blue_canvas_sign
+- farmersdelight:brown_canvas_sign
+- farmersdelight:green_canvas_sign
+- farmersdelight:red_canvas_sign
+- farmersdelight:black_canvas_sign
+
+#minecraft:infiniburn_end
+- #minecraft:infiniburn_overworld
+- minecraft:bedrock
+
+#create:tree_attachments
+- minecraft:bee_nest
+- minecraft:cocoa
+- minecraft:moss_carpet
+- minecraft:shroomlight
+- minecraft:vine
+
+#c:glass_panes/cyan
+- minecraft:cyan_stained_glass_pane
+
+#minecraft:emerald_ores
+- minecraft:emerald_ore
+- minecraft:deepslate_emerald_ore
+
+#minecraft:crimson_stems
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+
+#minecraft:needs_stone_tool
+- minecraft:iron_block
+- minecraft:raw_iron_block
+- minecraft:iron_ore
+- minecraft:deepslate_iron_ore
+- minecraft:lapis_block
+- minecraft:lapis_ore
+- minecraft:deepslate_lapis_ore
+- minecraft:copper_block
+- minecraft:raw_copper_block
+- minecraft:copper_ore
+- minecraft:deepslate_copper_ore
+- minecraft:cut_copper_slab
+- minecraft:cut_copper_stairs
+- minecraft:cut_copper
+- minecraft:weathered_copper
+- minecraft:weathered_cut_copper_slab
+- minecraft:weathered_cut_copper_stairs
+- minecraft:weathered_cut_copper
+- minecraft:oxidized_copper
+- minecraft:oxidized_cut_copper_slab
+- minecraft:oxidized_cut_copper_stairs
+- minecraft:oxidized_cut_copper
+- minecraft:exposed_copper
+- minecraft:exposed_cut_copper_slab
+- minecraft:exposed_cut_copper_stairs
+- minecraft:exposed_cut_copper
+- minecraft:waxed_copper_block
+- minecraft:waxed_cut_copper_slab
+- minecraft:waxed_cut_copper_stairs
+- minecraft:waxed_cut_copper
+- minecraft:waxed_weathered_copper
+- minecraft:waxed_weathered_cut_copper_slab
+- minecraft:waxed_weathered_cut_copper_stairs
+- minecraft:waxed_weathered_cut_copper
+- minecraft:waxed_exposed_copper
+- minecraft:waxed_exposed_cut_copper_slab
+- minecraft:waxed_exposed_cut_copper_stairs
+- minecraft:waxed_exposed_cut_copper
+- minecraft:waxed_oxidized_copper
+- minecraft:waxed_oxidized_cut_copper_slab
+- minecraft:waxed_oxidized_cut_copper_stairs
+- minecraft:waxed_oxidized_cut_copper
+- minecraft:lightning_rod
+- ad_astra:steel_block
+- ad_astra:desh_block
+- ad_astra:ostrum_block
+- ad_astra:calorite_block
+- ad_astra:iron_plating
+- ad_astra:iron_pillar
+- ad_astra:desh_pillar
+- ad_astra:desh_plating
+- ad_astra:ostrum_pillar
+- ad_astra:ostrum_plating
+- ad_astra:calorite_pillar
+- ad_astra:calorite_plating
+- ad_astra:blue_iron_pillar
+- ad_astra:marked_iron_pillar
+- ad_astra:iron_plating_stairs
+- ad_astra:iron_plating_slab
+- ad_astra:steel_plating_stairs
+- ad_astra:steel_plating_slab
+- ad_astra:desh_plating_slab
+- ad_astra:desh_plating_stairs
+- ad_astra:ostrum_plating_slab
+- ad_astra:ostrum_plating_stairs
+- ad_astra:calorite_plating_slab
+- ad_astra:calorite_plating_stairs
+- ad_astra:iron_plating_button
+- ad_astra:iron_plating_pressure_plate
+- ad_astra:steel_plating_button
+- ad_astra:steel_plating_pressure_plate
+- ad_astra:desh_plating_button
+- ad_astra:desh_plating_pressure_plate
+- ad_astra:ostrum_plating_button
+- ad_astra:ostrum_plating_pressure_plate
+- ad_astra:calorite_plating_button
+- ad_astra:calorite_plating_pressure_plate
+- ad_astra:permafrost_tiles
+- ad_astra:chiseled_permafrost_bricks
+- ad_astra:chiseled_permafrost_brick_stairs
+- ad_astra:chiseled_permafrost_brick_slab
+- ad_astra:polished_permafrost
+- ad_astra:polished_permafrost_stairs
+- ad_astra:polished_permafrost_slab
+- ad_astra:permafrost_pillar
+- ad_astra:permafrost_brick_wall
+- create:copper_shingles
+- create:exposed_copper_shingles
+- create:weathered_copper_shingles
+- create:oxidized_copper_shingles
+- create:copper_shingle_slab
+- create:exposed_copper_shingle_slab
+- create:weathered_copper_shingle_slab
+- create:oxidized_copper_shingle_slab
+- create:copper_shingle_stairs
+- create:exposed_copper_shingle_stairs
+- create:weathered_copper_shingle_stairs
+- create:oxidized_copper_shingle_stairs
+- create:waxed_copper_shingles
+- create:waxed_exposed_copper_shingles
+- create:waxed_weathered_copper_shingles
+- create:waxed_oxidized_copper_shingles
+- create:waxed_copper_shingle_slab
+- create:waxed_exposed_copper_shingle_slab
+- create:waxed_weathered_copper_shingle_slab
+- create:waxed_oxidized_copper_shingle_slab
+- create:waxed_copper_shingle_stairs
+- create:waxed_exposed_copper_shingle_stairs
+- create:waxed_weathered_copper_shingle_stairs
+- create:waxed_oxidized_copper_shingle_stairs
+- create:copper_tiles
+- create:exposed_copper_tiles
+- create:weathered_copper_tiles
+- create:oxidized_copper_tiles
+- create:copper_tile_slab
+- create:exposed_copper_tile_slab
+- create:weathered_copper_tile_slab
+- create:oxidized_copper_tile_slab
+- create:copper_tile_stairs
+- create:exposed_copper_tile_stairs
+- create:weathered_copper_tile_stairs
+- create:oxidized_copper_tile_stairs
+- create:waxed_copper_tiles
+- create:waxed_exposed_copper_tiles
+- create:waxed_weathered_copper_tiles
+- create:waxed_oxidized_copper_tiles
+- create:waxed_copper_tile_slab
+- create:waxed_exposed_copper_tile_slab
+- create:waxed_weathered_copper_tile_slab
+- create:waxed_oxidized_copper_tile_slab
+- create:waxed_copper_tile_stairs
+- create:waxed_exposed_copper_tile_stairs
+- create:waxed_weathered_copper_tile_stairs
+- create:waxed_oxidized_copper_tile_stairs
+- ftbquests:loot_crate_opener
+- spirit:soul_cage
+- spirit:broken_spawner
+- spirit:pedestal
+- spirit:crystal_pedestal
+- spirit:soul_pedestal
+- spirit:soul_steel_block
+- things:quartz_glowstone_fixture
+- things:stone_glowstone_fixture
+
+#yigd:soft_whitelist
+- minecraft:air
+- minecraft:water
+- minecraft:dead_bush
+- minecraft:grass
+- minecraft:fern
+- minecraft:snow
+
+#vinery:allows_cooking_on_pot
+- minecraft:smoker
+- vinery:stove
+- vinery:wood_fired_oven
+- farmersdelight:stove
+
+#c:storage_blocks/gold
+- minecraft:gold_block
+
+#minecraft:wart_blocks
+- minecraft:nether_wart_block
+- minecraft:warped_wart_block
+
+#minecraft:terracotta
+- minecraft:terracotta
+- minecraft:white_terracotta
+- minecraft:orange_terracotta
+- minecraft:magenta_terracotta
+- minecraft:light_blue_terracotta
+- minecraft:yellow_terracotta
+- minecraft:lime_terracotta
+- minecraft:pink_terracotta
+- minecraft:gray_terracotta
+- minecraft:light_gray_terracotta
+- minecraft:cyan_terracotta
+- minecraft:purple_terracotta
+- minecraft:blue_terracotta
+- minecraft:brown_terracotta
+- minecraft:green_terracotta
+- minecraft:red_terracotta
+- minecraft:black_terracotta
+
+#c:ores/zinc
+- create:zinc_ore
+- create:deepslate_zinc_ore
+
+#farmersdelight:heat_conductors
+- minecraft:hopper
+- create:chute?
+
+#c:chests
+- minecraft:chest
+- minecraft:ender_chest
+- minecraft:trapped_chest
+- #c:chests/ender
+- #c:chests/trapped
+- #c:chests/wooden
+
+#c:stained_glass
+- minecraft:white_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:yellow_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:green_stained_glass
+- minecraft:red_stained_glass
+- minecraft:black_stained_glass
+
+#minecraft:beacon_base_blocks
+- minecraft:netherite_block
+- minecraft:emerald_block
+- minecraft:diamond_block
+- minecraft:gold_block
+- minecraft:iron_block
+- ad_astra:steel_block
+- ad_astra:desh_block
+- ad_astra:ostrum_block
+- ad_astra:calorite_block
+- create:zinc_block
+- create:brass_block
+
+#c:storage_blocks/lapis
+- minecraft:lapis_block
+
+#pfm:tuckable_blocks
+- pfm:oak_table_basic
+- pfm:birch_table_basic
+- pfm:spruce_table_basic
+- pfm:acacia_table_basic
+- pfm:jungle_table_basic
+- pfm:dark_oak_table_basic
+- pfm:crimson_table_basic
+- pfm:warped_table_basic
+- pfm:stripped_oak_table_basic
+- pfm:stripped_birch_table_basic
+- pfm:stripped_spruce_table_basic
+- pfm:stripped_jungle_table_basic
+- pfm:stripped_acacia_table_basic
+- pfm:stripped_dark_oak_table_basic
+- pfm:stripped_crimson_table_basic
+- pfm:stripped_warped_table_basic
+- pfm:light_wood_table_basic
+- pfm:dark_wood_table_basic
+- pfm:quartz_table_basic
+- pfm:netherite_table_basic
+- pfm:granite_table_basic
+- pfm:calcite_table_basic
+- pfm:andesite_table_basic
+- pfm:diorite_table_basic
+- pfm:stone_table_basic
+- pfm:deepslate_table_basic
+- pfm:blackstone_table_basic
+- pfm:oak_table_classic
+- pfm:birch_table_classic
+- pfm:spruce_table_classic
+- pfm:acacia_table_classic
+- pfm:jungle_table_classic
+- pfm:dark_oak_table_classic
+- pfm:crimson_table_classic
+- pfm:warped_table_classic
+- pfm:stripped_oak_table_classic
+- pfm:stripped_birch_table_classic
+- pfm:stripped_spruce_table_classic
+- pfm:stripped_acacia_table_classic
+- pfm:stripped_jungle_table_classic
+- pfm:stripped_dark_oak_table_classic
+- pfm:stripped_crimson_table_classic
+- pfm:stripped_warped_table_classic
+- pfm:light_wood_table_classic
+- pfm:dark_wood_table_classic
+- pfm:quartz_table_classic
+- pfm:netherite_table_classic
+- pfm:granite_table_classic
+- pfm:calcite_table_classic
+- pfm:andesite_table_classic
+- pfm:diorite_table_classic
+- pfm:stone_table_classic
+- pfm:deepslate_table_classic
+- pfm:blackstone_table_classic
+- pfm:oak_table_dinner
+- pfm:birch_table_dinner
+- pfm:spruce_table_dinner
+- pfm:jungle_table_dinner
+- pfm:acacia_table_dinner
+- pfm:dark_oak_table_dinner
+- pfm:crimson_table_dinner
+- pfm:warped_table_dinner
+- pfm:stripped_oak_table_dinner
+- pfm:stripped_birch_table_dinner
+- pfm:stripped_spruce_table_dinner
+- pfm:stripped_jungle_table_dinner
+- pfm:stripped_acacia_table_dinner
+- pfm:stripped_dark_oak_table_dinner
+- pfm:stripped_crimson_table_dinner
+- pfm:stripped_warped_table_dinner
+- pfm:light_wood_table_dinner
+- pfm:dark_wood_table_dinner
+- pfm:quartz_table_dinner
+- pfm:netherite_table_dinner
+- pfm:granite_table_dinner
+- pfm:calcite_table_dinner
+- pfm:andesite_table_dinner
+- pfm:diorite_table_dinner
+- pfm:stone_table_dinner
+- pfm:deepslate_table_dinner
+- pfm:blackstone_table_dinner
+- pfm:oak_table_modern_dinner
+- pfm:birch_table_modern_dinner
+- pfm:spruce_table_modern_dinner
+- pfm:acacia_table_modern_dinner
+- pfm:jungle_table_modern_dinner
+- pfm:dark_oak_table_modern_dinner
+- pfm:crimson_table_modern_dinner
+- pfm:warped_table_modern_dinner
+- pfm:stripped_oak_table_modern_dinner
+- pfm:stripped_birch_table_modern_dinner
+- pfm:stripped_spruce_table_modern_dinner
+- pfm:stripped_jungle_table_modern_dinner
+- pfm:stripped_acacia_table_modern_dinner
+- pfm:stripped_dark_oak_table_modern_dinner
+- pfm:stripped_crimson_table_modern_dinner
+- pfm:stripped_warped_table_modern_dinner
+- pfm:light_wood_table_modern_dinner
+- pfm:dark_wood_table_modern_dinner
+- pfm:quartz_table_modern_dinner
+- pfm:netherite_table_modern_dinner
+- pfm:granite_table_modern_dinner
+- pfm:calcite_table_modern_dinner
+- pfm:andesite_table_modern_dinner
+- pfm:diorite_table_modern_dinner
+- pfm:stone_table_modern_dinner
+- pfm:deepslate_table_modern_dinner
+- pfm:blackstone_table_modern_dinner
+- pfm:oak_table_log
+- pfm:birch_table_log
+- pfm:spruce_table_log
+- pfm:acacia_table_log
+- pfm:jungle_table_log
+- pfm:dark_oak_table_log
+- pfm:crimson_table_stem
+- pfm:warped_table_stem
+- pfm:stripped_oak_table_log
+- pfm:stripped_birch_table_log
+- pfm:stripped_spruce_table_log
+- pfm:stripped_acacia_table_log
+- pfm:stripped_jungle_table_log
+- pfm:stripped_dark_oak_table_log
+- pfm:stripped_crimson_table_stem
+- pfm:stripped_warped_table_stem
+- pfm:light_wood_table_natural
+- pfm:dark_wood_table_natural
+- pfm:oak_raw_table_log
+- pfm:birch_raw_table_log
+- pfm:spruce_raw_table_log
+- pfm:acacia_raw_table_log
+- pfm:jungle_raw_table_log
+- pfm:dark_oak_raw_table_log
+- pfm:crimson_raw_table_stem
+- pfm:warped_raw_table_stem
+- pfm:stripped_oak_raw_table_log
+- pfm:stripped_birch_raw_table_log
+- pfm:stripped_spruce_raw_table_log
+- pfm:stripped_acacia_raw_table_log
+- pfm:stripped_jungle_raw_table_log
+- pfm:stripped_dark_oak_raw_table_log
+- pfm:stripped_crimson_raw_table_stem
+- pfm:stripped_warped_raw_table_stem
+
+#minecraft:shulker_boxes
+- minecraft:shulker_box
+- minecraft:black_shulker_box
+- minecraft:blue_shulker_box
+- minecraft:brown_shulker_box
+- minecraft:cyan_shulker_box
+- minecraft:gray_shulker_box
+- minecraft:green_shulker_box
+- minecraft:light_blue_shulker_box
+- minecraft:light_gray_shulker_box
+- minecraft:lime_shulker_box
+- minecraft:magenta_shulker_box
+- minecraft:orange_shulker_box
+- minecraft:pink_shulker_box
+- minecraft:purple_shulker_box
+- minecraft:red_shulker_box
+- minecraft:white_shulker_box
+- minecraft:yellow_shulker_box
+- lootr:lootr_shulker
+
+#shoppy:trading_blocks
+- shoppy:shop_block
+- shoppy:bartering_station
+
+#ecologics:penguins_spawnable_on
+- minecraft:grass_block
+- #minecraft:snow
+- #minecraft:ice
+
+#c:ostrum_ores
+- ad_astra:mars_ostrum_ore
+- ad_astra:deepslate_ostrum_ore
+
+#c:ores/emerald
+- #minecraft:emerald_ores
+
+#minecraft:anvil
+- minecraft:anvil
+- minecraft:chipped_anvil
+- minecraft:damaged_anvil
+
+#minecraft:birch_logs
+- minecraft:birch_log
+- minecraft:birch_wood
+- minecraft:stripped_birch_log
+- minecraft:stripped_birch_wood
+
+#c:coal_ores
+- ad_astra:venus_coal_ore
+- ad_astra:glacio_coal_ore
+
+#minecraft:moss_replaceable
+- #minecraft:base_stone_overworld
+- #minecraft:cave_vines
+- #minecraft:dirt
+- create:asurine
+- create:crimsite
+- create:limestone
+- create:ochrum
+- create:scoria
+- create:scorchia
+- create:veridium
+
+#minecraft:wall_corals
+- minecraft:tube_coral_wall_fan
+- minecraft:brain_coral_wall_fan
+- minecraft:bubble_coral_wall_fan
+- minecraft:fire_coral_wall_fan
+- minecraft:horn_coral_wall_fan
+
+#create:fan_heaters
+- farmersdelight:stove
+
+#lootr:convert/chests
+- minecraft:chest
+
+#c:glass_panes
+- create:tiled_glass_pane
+- create:framed_glass_pane
+- create:horizontal_framed_glass_pane
+- create:vertical_framed_glass_pane
+- create:oak_window_pane
+- create:spruce_window_pane
+- create:birch_window_pane
+- create:jungle_window_pane
+- create:acacia_window_pane
+- create:dark_oak_window_pane
+- create:crimson_window_pane
+- create:warped_window_pane
+- create:ornate_iron_window_pane
+- minecraft:glass_pane
+- minecraft:gray_stained_glass_pane
+- minecraft:black_stained_glass_pane
+- minecraft:orange_stained_glass_pane
+- minecraft:blue_stained_glass_pane
+- minecraft:brown_stained_glass_pane
+- minecraft:cyan_stained_glass_pane
+- minecraft:green_stained_glass_pane
+- minecraft:light_blue_stained_glass_pane
+- minecraft:light_gray_stained_glass_pane
+- minecraft:lime_stained_glass_pane
+- minecraft:magenta_stained_glass_pane
+- minecraft:pink_stained_glass_pane
+- minecraft:purple_stained_glass_pane
+- minecraft:red_stained_glass_pane
+- minecraft:white_stained_glass_pane
+- minecraft:yellow_stained_glass_pane
+- #c:glass_panes/colorless
+- #c:stained_glass_panes
+
+#c:sandstone
+- minecraft:sandstone
+- minecraft:cut_sandstone
+- minecraft:chiseled_sandstone
+- minecraft:smooth_sandstone
+- minecraft:red_sandstone
+- minecraft:cut_red_sandstone
+- minecraft:chiseled_red_sandstone
+- minecraft:smooth_red_sandstone
+
+#c:storage_blocks/netherite
+- minecraft:netherite_block
+
+#minecraft:iron_ores
+- minecraft:iron_ore
+- minecraft:deepslate_iron_ore
+- ad_astra:moon_iron_ore
+- ad_astra:mars_iron_ore
+- ad_astra:mercury_iron_ore
+- ad_astra:glacio_iron_ore
+
+#minecraft:oak_logs
+- minecraft:oak_log
+- minecraft:oak_wood
+- minecraft:stripped_oak_log
+- minecraft:stripped_oak_wood
+
+#c:ores/diamond
+- #minecraft:diamond_ores
+
+#c:ore_bearing_ground/deepslate
+- minecraft:deepslate
+
+#statues:not_statuable
+- minecraft:beacon
+
+#minecraft:piglin_repellents
+- minecraft:soul_fire
+- minecraft:soul_torch
+- minecraft:soul_lantern
+- minecraft:soul_wall_torch
+- minecraft:soul_campfire
+
+#ad_astra:moon_ore_replaceables
+- ad_astra:moon_stone
+
+#c:glass_panes/lime
+- minecraft:lime_stained_glass_pane
+
+#minecraft:mooshrooms_spawnable_on
+- minecraft:mycelium
+
+#c:bookshelves
+- minecraft:bookshelf
+- travelersbackpack:bookshelf
+
+#minecraft:portals
+- minecraft:nether_portal
+- minecraft:end_portal
+- minecraft:end_gateway
+
+#reinfshulker:copper_shulker_boxes
+- reinfshulker:copper_shulker_box
+- reinfshulker:black_copper_shulker_box
+- reinfshulker:blue_copper_shulker_box
+- reinfshulker:brown_copper_shulker_box
+- reinfshulker:cyan_copper_shulker_box
+- reinfshulker:gray_copper_shulker_box
+- reinfshulker:green_copper_shulker_box
+- reinfshulker:light_blue_copper_shulker_box
+- reinfshulker:light_gray_copper_shulker_box
+- reinfshulker:lime_copper_shulker_box
+- reinfshulker:magenta_copper_shulker_box
+- reinfshulker:orange_copper_shulker_box
+- reinfshulker:pink_copper_shulker_box
+- reinfshulker:purple_copper_shulker_box
+- reinfshulker:red_copper_shulker_box
+- reinfshulker:white_copper_shulker_box
+- reinfshulker:yellow_copper_shulker_box
+
+#c:storage_blocks/quartz
+- minecraft:quartz_block
+
+#c:ice_shard_ores
+- ad_astra:moon_ice_shard_ore
+- ad_astra:mars_ice_shard_ore
+- ad_astra:glacio_ice_shard_ore
+- ad_astra:deepslate_ice_shard_ore
+
+#c:fences
+- #c:fences/nether_brick
+- #c:fences/wooden
+
+#minecraft:bamboo_plantable_on
+- #minecraft:sand
+- #minecraft:dirt
+- minecraft:bamboo
+- minecraft:bamboo_sapling
+- minecraft:gravel
+- farmersdelight:rich_soil
+
+#c:ores/iron
+- #minecraft:iron_ores
+
+#campchair:camp_chairs
+- campchair:oak_camp_chair
+- campchair:spruce_camp_chair
+- campchair:birch_camp_chair
+- campchair:jungle_camp_chair
+- campchair:acacia_camp_chair
+- campchair:dark_oak_camp_chair
+- campchair:crimson_camp_chair
+- campchair:warped_camp_chair
+
+#c:storage_blocks/raw_zinc
+- create:raw_zinc_block
+
+#minecraft:pressure_plates
+- minecraft:light_weighted_pressure_plate
+- minecraft:heavy_weighted_pressure_plate
+- #minecraft:wooden_pressure_plates
+- #minecraft:stone_pressure_plates
+- ad_astra:iron_plating_pressure_plate
+- ad_astra:steel_plating_pressure_plate
+- ad_astra:desh_plating_pressure_plate
+- ad_astra:ostrum_plating_pressure_plate
+- ad_astra:calorite_plating_pressure_plate
+- ad_astra:glacian_log
+- ad_astra:glacian_pressure_plate
+
+#c:ores_in_ground/stone
+- create:zinc_ore
+- minecraft:coal_ore
+- minecraft:copper_ore
+- minecraft:diamond_ore
+- minecraft:emerald_ore
+- minecraft:gold_ore
+- minecraft:iron_ore
+- minecraft:lapis_ore
+- minecraft:redstone_ore
+
+#minecraft:jungle_logs
+- minecraft:jungle_log
+- minecraft:jungle_wood
+- minecraft:stripped_jungle_log
+- minecraft:stripped_jungle_wood
+
+#c:storage_blocks/raw_copper
+- minecraft:raw_copper_block
+
+#lootr:convert/barrels
+- minecraft:barrel
+
+#minecraft:wooden_stairs
+- minecraft:oak_stairs
+- minecraft:spruce_stairs
+- minecraft:birch_stairs
+- minecraft:jungle_stairs
+- minecraft:acacia_stairs
+- minecraft:dark_oak_stairs
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- ecologics:coconut_stairs
+- ecologics:walnut_stairs
+- ecologics:azalea_stairs
+- ecologics:flowering_azalea_stairs
+- vinery:cherry_stairs
+
+#minecraft:spruce_logs
+- minecraft:spruce_log
+- minecraft:spruce_wood
+- minecraft:stripped_spruce_log
+- minecraft:stripped_spruce_wood
+
+#c:ores/copper
+- #minecraft:copper_ores
+
+#ad_astra:glacio_ore_replaceables
+- ad_astra:glacio_stone
+
+#minecraft:carpets
+- minecraft:white_carpet
+- minecraft:orange_carpet
+- minecraft:magenta_carpet
+- minecraft:light_blue_carpet
+- minecraft:yellow_carpet
+- minecraft:lime_carpet
+- minecraft:pink_carpet
+- minecraft:gray_carpet
+- minecraft:light_gray_carpet
+- minecraft:cyan_carpet
+- minecraft:purple_carpet
+- minecraft:blue_carpet
+- minecraft:brown_carpet
+- minecraft:green_carpet
+- minecraft:red_carpet
+- minecraft:black_carpet
+
+#minecraft:base_stone_overworld
+- minecraft:stone
+- minecraft:granite
+- minecraft:diorite
+- minecraft:andesite
+- minecraft:tuff
+- minecraft:deepslate
+
+#minecraft:wooden_buttons
+- minecraft:oak_button
+- minecraft:spruce_button
+- minecraft:birch_button
+- minecraft:jungle_button
+- minecraft:acacia_button
+- minecraft:dark_oak_button
+- minecraft:crimson_button
+- minecraft:warped_button
+- ecologics:coconut_button
+- ecologics:walnut_button
+- ecologics:azalea_button
+- vinery:cherry_button
+
+#c:mineable/knife
+
+#minecraft:axolotls_spawnable_on
+- minecraft:clay
+
+#minecraft:stone_bricks
+- minecraft:stone_bricks
+- minecraft:mossy_stone_bricks
+- minecraft:cracked_stone_bricks
+- minecraft:chiseled_stone_bricks
+- ad_astra:moon_stone_bricks
+- ad_astra:cracked_moon_stone_bricks
+- ad_astra:mars_stone_bricks
+- ad_astra:cracked_mars_stone_bricks
+- ad_astra:mercury_stone_bricks
+- ad_astra:cracked_mercury_stone_bricks
+- ad_astra:venus_stone_bricks
+- ad_astra:cracked_venus_stone_bricks
+- ad_astra:venus_sandstone_bricks
+- ad_astra:cracked_venus_sandstone_bricks
+- ad_astra:glacio_stone_bricks
+- ad_astra:cracked_glacio_stone_bricks
+- ad_astra:chiseled_moon_stone_bricks
+- ad_astra:chiseled_mars_stone_bricks
+- ad_astra:chiseled_venus_stone_bricks
+- ad_astra:chiseled_mercury_stone_bricks
+- ad_astra:chiseled_glacio_stone_bricks
+- ad_astra:permafrost_bricks
+- ad_astra:cracked_permafrost_bricks
+- ad_astra:permafrost_tiles
+- ad_astra:chiseled_permafrost_bricks
+
+#minecraft:mineable/axe
+- minecraft:note_block
+- minecraft:attached_melon_stem
+- minecraft:attached_pumpkin_stem
+- minecraft:azalea
+- minecraft:bamboo
+- minecraft:barrel
+- minecraft:bee_nest
+- minecraft:beehive
+- minecraft:beetroots
+- minecraft:big_dripleaf_stem
+- minecraft:big_dripleaf
+- minecraft:bookshelf
+- minecraft:brown_mushroom_block
+- minecraft:brown_mushroom
+- minecraft:campfire
+- minecraft:carrots
+- minecraft:cartography_table
+- minecraft:carved_pumpkin
+- minecraft:cave_vines_plant
+- minecraft:cave_vines
+- minecraft:chest
+- minecraft:chorus_flower
+- minecraft:chorus_plant
+- minecraft:cocoa
+- minecraft:composter
+- minecraft:crafting_table
+- minecraft:crimson_fungus
+- minecraft:daylight_detector
+- minecraft:dead_bush
+- minecraft:fern
+- minecraft:fletching_table
+- minecraft:glow_lichen
+- minecraft:grass
+- minecraft:hanging_roots
+- minecraft:jack_o_lantern
+- minecraft:jukebox
+- minecraft:ladder
+- minecraft:large_fern
+- minecraft:lectern
+- minecraft:lily_pad
+- minecraft:loom
+- minecraft:melon_stem
+- minecraft:melon
+- minecraft:mushroom_stem
+- minecraft:nether_wart
+- minecraft:potatoes
+- minecraft:pumpkin_stem
+- minecraft:pumpkin
+- minecraft:red_mushroom_block
+- minecraft:red_mushroom
+- minecraft:scaffolding
+- minecraft:small_dripleaf
+- minecraft:smithing_table
+- minecraft:soul_campfire
+- minecraft:spore_blossom
+- minecraft:sugar_cane
+- minecraft:sweet_berry_bush
+- minecraft:tall_grass
+- minecraft:trapped_chest
+- minecraft:twisting_vines_plant
+- minecraft:twisting_vines
+- minecraft:vine
+- minecraft:warped_fungus
+- minecraft:weeping_vines_plant
+- minecraft:weeping_vines
+- minecraft:wheat
+- #minecraft:banners
+- #minecraft:fence_gates
+- #minecraft:logs
+- #minecraft:planks
+- #minecraft:saplings
+- #minecraft:signs
+- #minecraft:wooden_buttons
+- #minecraft:wooden_doors
+- #minecraft:wooden_fences
+- #minecraft:wooden_pressure_plates
+- #minecraft:wooden_slabs
+- #minecraft:wooden_stairs
+- #minecraft:wooden_trapdoors
+- ad_astra:glacian_log
+- ad_astra:stripped_glacian_log
+- ad_astra:glacian_leaves
+- ad_astra:glacian_planks
+- ad_astra:glacian_stairs
+- ad_astra:glacian_slab
+- ad_astra:glacian_door
+- ad_astra:glacian_trapdoor
+- ad_astra:glacian_fence
+- ad_astra:glacian_fence_gate
+- ad_astra:glacian_button
+- ad_astra:glacian_pressure_plate
+- ad_astra:glacian_sign
+- ad_astra:glacian_wall_sign
+- ad_astra:strophar_door
+- ad_astra:strophar_trapdoor
+- ad_astra:strophar_planks
+- ad_astra:strophar_fence
+- ad_astra:strophar_fence_gate
+- ad_astra:strophar_stairs
+- ad_astra:strophar_slab
+- ad_astra:strophar_chest
+- ad_astra:strophar_ladder
+- ad_astra:aeronos_door
+- ad_astra:aeronos_trapdoor
+- ad_astra:aeronos_planks
+- ad_astra:aeronos_fence
+- ad_astra:aeronos_fence_gate
+- ad_astra:aeronos_stairs
+- ad_astra:aeronos_slab
+- ad_astra:aeronos_chest
+- ad_astra:aeronos_ladder
+- #campchair:camp_chairs
+- chimes:bamboo_chimes
+- chimes:carved_bamboo_chimes
+- create:schematic_table
+- create:cogwheel
+- create:large_cogwheel
+- create:andesite_encased_shaft
+- create:brass_encased_shaft
+- create:andesite_encased_cogwheel
+- create:brass_encased_cogwheel
+- create:andesite_encased_large_cogwheel
+- create:brass_encased_large_cogwheel
+- create:gearbox
+- create:clutch
+- create:gearshift
+- create:encased_chain_drive
+- create:adjustable_chain_gearshift
+- create:belt
+- create:water_wheel
+- create:encased_fan
+- create:nozzle
+- create:turntable
+- create:hand_crank
+- create:cuckoo_clock
+- create:mysterious_cuckoo_clock
+- create:mechanical_press
+- create:mechanical_mixer
+- create:depot
+- create:weighted_ejector
+- create:speedometer
+- create:stressometer
+- create:wooden_bracket
+- create:encased_fluid_pipe
+- create:portable_fluid_interface
+- create:mechanical_piston
+- create:sticky_mechanical_piston
+- create:piston_extension_pole
+- create:mechanical_piston_head
+- create:gantry_carriage
+- create:gantry_shaft
+- create:windmill_bearing
+- create:mechanical_bearing
+- create:clockwork_bearing
+- create:rope_pulley
+- create:cart_assembler
+- create:linear_chassis
+- create:secondary_linear_chassis
+- create:radial_chassis
+- create:mechanical_drill
+- create:mechanical_saw
+- create:deployer
+- create:portable_storage_interface
+- create:redstone_contact
+- create:mechanical_harvester
+- create:mechanical_plough
+- create:white_seat
+- create:orange_seat
+- create:magenta_seat
+- create:light_blue_seat
+- create:yellow_seat
+- create:lime_seat
+- create:pink_seat
+- create:gray_seat
+- create:light_gray_seat
+- create:cyan_seat
+- create:purple_seat
+- create:blue_seat
+- create:brown_seat
+- create:green_seat
+- create:red_seat
+- create:black_seat
+- create:sail_frame
+- create:white_sail
+- create:orange_sail
+- create:magenta_sail
+- create:light_blue_sail
+- create:yellow_sail
+- create:lime_sail
+- create:pink_sail
+- create:gray_sail
+- create:light_gray_sail
+- create:cyan_sail
+- create:purple_sail
+- create:blue_sail
+- create:brown_sail
+- create:green_sail
+- create:red_sail
+- create:black_sail
+- create:andesite_casing
+- create:brass_casing
+- create:copper_casing
+- create:shadow_steel_casing
+- create:refined_radiance_casing
+- create:mechanical_crafter
+- create:sequenced_gearshift
+- create:flywheel
+- create:rotation_speed_controller
+- create:mechanical_arm
+- create:railway_casing
+- create:content_observer
+- create:stockpile_switch
+- create:creative_crate
+- create:display_link
+- create:redstone_link
+- create:analog_lever
+- create:lectern_controller
+- ecologics:coconut_log
+- ecologics:stripped_coconut_log
+- ecologics:coconut_wood
+- ecologics:stripped_coconut_wood
+- ecologics:coconut_planks
+- ecologics:coconut_slab
+- ecologics:coconut_stairs
+- ecologics:coconut_fence
+- ecologics:coconut_fence_gate
+- ecologics:coconut_door
+- ecologics:coconut_trapdoor
+- ecologics:coconut_button
+- ecologics:coconut_pressure_plate
+- ecologics:hanging_coconut
+- ecologics:coconut
+- ecologics:walnut_log
+- ecologics:stripped_walnut_log
+- ecologics:walnut_wood
+- ecologics:stripped_walnut_wood
+- ecologics:walnut_planks
+- ecologics:walnut_slab
+- ecologics:walnut_stairs
+- ecologics:walnut_fence
+- ecologics:walnut_fence_gate
+- ecologics:walnut_door
+- ecologics:walnut_trapdoor
+- ecologics:walnut_button
+- ecologics:walnut_pressure_plate
+- ecologics:azalea_log
+- ecologics:stripped_azalea_log
+- ecologics:flowering_azalea_log
+- ecologics:azalea_wood
+- ecologics:flowering_azalea_wood
+- ecologics:stripped_azalea_wood
+- ecologics:azalea_planks
+- ecologics:flowering_azalea_planks
+- ecologics:azalea_slab
+- ecologics:azalea_stairs
+- ecologics:azalea_fence
+- ecologics:azalea_fence_gate
+- ecologics:azalea_door
+- ecologics:flowering_azalea_door
+- ecologics:azalea_trapdoor
+- ecologics:azalea_button
+- ecologics:azalea_pressure_plate
+- ecologics:flowering_azalea_slab
+- ecologics:flowering_azalea_stairs
+- ecologics:flowering_azalea_fence
+- ecologics:flowering_azalea_fence_gate
+- ecologics:flowering_azalea_trapdoor
+- farmersdelight:basket
+- farmersdelight:cutting_board
+- farmersdelight:carrot_crate
+- farmersdelight:potato_crate
+- farmersdelight:beetroot_crate
+- farmersdelight:cabbage_crate
+- farmersdelight:tomato_crate
+- farmersdelight:onion_crate
+- farmersdelight:oak_cabinet
+- farmersdelight:birch_cabinet
+- farmersdelight:spruce_cabinet
+- farmersdelight:jungle_cabinet
+- farmersdelight:acacia_cabinet
+- farmersdelight:dark_oak_cabinet
+- farmersdelight:crimson_cabinet
+- farmersdelight:warped_cabinet
+- farmersdelight:sandy_shrub
+- farmersdelight:stuffed_pumpkin_block
+- ftbquests:loot_crate_opener
+- lootr:lootr_chest
+- lootr:lootr_trapped_chest
+- lootr:lootr_barrel
+- pfm:oak_kitchen_counter
+- pfm:birch_kitchen_counter
+- pfm:spruce_kitchen_counter
+- pfm:jungle_kitchen_counter
+- pfm:acacia_kitchen_counter
+- pfm:dark_oak_kitchen_counter
+- pfm:crimson_kitchen_counter
+- pfm:warped_kitchen_counter
+- pfm:stripped_oak_kitchen_counter
+- pfm:stripped_birch_kitchen_counter
+- pfm:stripped_spruce_kitchen_counter
+- pfm:stripped_jungle_kitchen_counter
+- pfm:stripped_acacia_kitchen_counter
+- pfm:stripped_dark_oak_kitchen_counter
+- pfm:stripped_crimson_kitchen_counter
+- pfm:stripped_warped_kitchen_counter
+- pfm:light_wood_kitchen_counter
+- pfm:dark_wood_kitchen_counter
+- pfm:oak_kitchen_cabinet
+- pfm:birch_kitchen_cabinet
+- pfm:spruce_kitchen_cabinet
+- pfm:jungle_kitchen_cabinet
+- pfm:acacia_kitchen_cabinet
+- pfm:dark_oak_kitchen_cabinet
+- pfm:crimson_kitchen_cabinet
+- pfm:warped_kitchen_cabinet
+- pfm:stripped_oak_kitchen_cabinet
+- pfm:stripped_birch_kitchen_cabinet
+- pfm:stripped_spruce_kitchen_cabinet
+- pfm:stripped_jungle_kitchen_cabinet
+- pfm:stripped_acacia_kitchen_cabinet
+- pfm:stripped_dark_oak_kitchen_cabinet
+- pfm:stripped_crimson_kitchen_cabinet
+- pfm:stripped_warped_kitchen_cabinet
+- pfm:light_wood_kitchen_cabinet
+- pfm:dark_wood_kitchen_cabinet
+- pfm:oak_kitchen_drawer
+- pfm:birch_kitchen_drawer
+- pfm:spruce_kitchen_drawer
+- pfm:jungle_kitchen_drawer
+- pfm:acacia_kitchen_drawer
+- pfm:dark_oak_kitchen_drawer
+- pfm:crimson_kitchen_drawer
+- pfm:warped_kitchen_drawer
+- pfm:stripped_oak_kitchen_drawer
+- pfm:stripped_birch_kitchen_drawer
+- pfm:stripped_spruce_kitchen_drawer
+- pfm:stripped_jungle_kitchen_drawer
+- pfm:stripped_acacia_kitchen_drawer
+- pfm:stripped_dark_oak_kitchen_drawer
+- pfm:stripped_crimson_kitchen_drawer
+- pfm:stripped_warped_kitchen_drawer
+- pfm:light_wood_kitchen_drawer
+- pfm:dark_wood_kitchen_drawer
+- pfm:oak_kitchen_counter_oven
+- pfm:birch_kitchen_counter_oven
+- pfm:spruce_kitchen_counter_oven
+- pfm:jungle_kitchen_counter_oven
+- pfm:acacia_kitchen_counter_oven
+- pfm:dark_oak_kitchen_counter_oven
+- pfm:crimson_kitchen_counter_oven
+- pfm:warped_kitchen_counter_oven
+- pfm:stripped_oak_kitchen_counter_oven
+- pfm:stripped_birch_kitchen_counter_oven
+- pfm:stripped_spruce_kitchen_counter_oven
+- pfm:stripped_jungle_kitchen_counter_oven
+- pfm:stripped_acacia_kitchen_counter_oven
+- pfm:stripped_dark_oak_kitchen_counter_oven
+- pfm:stripped_crimson_kitchen_counter_oven
+- pfm:stripped_warped_kitchen_counter_oven
+- pfm:light_wood_kitchen_counter_oven
+- pfm:dark_wood_kitchen_counter_oven
+- pfm:oak_kitchen_sink
+- pfm:birch_kitchen_sink
+- pfm:spruce_kitchen_sink
+- pfm:jungle_kitchen_sink
+- pfm:acacia_kitchen_sink
+- pfm:dark_oak_kitchen_sink
+- pfm:crimson_kitchen_sink
+- pfm:warped_kitchen_sink
+- pfm:stripped_oak_kitchen_sink
+- pfm:stripped_birch_kitchen_sink
+- pfm:stripped_spruce_kitchen_sink
+- pfm:stripped_jungle_kitchen_sink
+- pfm:stripped_acacia_kitchen_sink
+- pfm:stripped_dark_oak_kitchen_sink
+- pfm:stripped_crimson_kitchen_sink
+- pfm:stripped_warped_kitchen_sink
+- pfm:light_wood_kitchen_sink
+- pfm:dark_wood_kitchen_sink
+- pfm:oak_chair
+- pfm:birch_chair
+- pfm:spruce_chair
+- pfm:acacia_chair
+- pfm:jungle_chair
+- pfm:dark_oak_chair
+- pfm:crimson_chair
+- pfm:warped_chair
+- pfm:stripped_oak_chair
+- pfm:stripped_birch_chair
+- pfm:stripped_spruce_chair
+- pfm:stripped_acacia_chair
+- pfm:stripped_jungle_chair
+- pfm:stripped_dark_oak_chair
+- pfm:stripped_warped_chair
+- pfm:stripped_crimson_chair
+- pfm:light_wood_chair
+- pfm:dark_wood_chair
+- pfm:oak_table_basic
+- pfm:birch_table_basic
+- pfm:spruce_table_basic
+- pfm:acacia_table_basic
+- pfm:jungle_table_basic
+- pfm:dark_oak_table_basic
+- pfm:crimson_table_basic
+- pfm:warped_table_basic
+- pfm:stripped_oak_table_basic
+- pfm:stripped_birch_table_basic
+- pfm:stripped_spruce_table_basic
+- pfm:stripped_jungle_table_basic
+- pfm:stripped_acacia_table_basic
+- pfm:stripped_dark_oak_table_basic
+- pfm:stripped_crimson_table_basic
+- pfm:stripped_warped_table_basic
+- pfm:light_wood_table_basic
+- pfm:dark_wood_table_basic
+- pfm:oak_chair_classic
+- pfm:birch_chair_classic
+- pfm:spruce_chair_classic
+- pfm:acacia_chair_classic
+- pfm:jungle_chair_classic
+- pfm:dark_oak_chair_classic
+- pfm:crimson_chair_classic
+- pfm:warped_chair_classic
+- pfm:stripped_oak_chair_classic
+- pfm:stripped_birch_chair_classic
+- pfm:stripped_spruce_chair_classic
+- pfm:stripped_acacia_chair_classic
+- pfm:stripped_jungle_chair_classic
+- pfm:stripped_dark_oak_chair_classic
+- pfm:stripped_warped_chair_classic
+- pfm:stripped_crimson_chair_classic
+- pfm:quartz_chair_classic
+- pfm:light_wood_chair_classic
+- pfm:dark_wood_chair_classic
+- pfm:oak_chair_classic_white
+- pfm:oak_chair_classic_orange
+- pfm:oak_chair_classic_magenta
+- pfm:oak_chair_classic_light_blue
+- pfm:oak_chair_classic_yellow
+- pfm:oak_chair_classic_lime
+- pfm:oak_chair_classic_pink
+- pfm:oak_chair_classic_gray
+- pfm:oak_chair_classic_light_gray
+- pfm:oak_chair_classic_cyan
+- pfm:oak_chair_classic_purple
+- pfm:oak_chair_classic_blue
+- pfm:oak_chair_classic_brown
+- pfm:oak_chair_classic_green
+- pfm:oak_chair_classic_red
+- pfm:oak_chair_classic_black
+- pfm:oak_classic_stool
+- pfm:birch_classic_stool
+- pfm:spruce_classic_stool
+- pfm:jungle_classic_stool
+- pfm:acacia_classic_stool
+- pfm:dark_oak_classic_stool
+- pfm:crimson_classic_stool
+- pfm:warped_classic_stool
+- pfm:stripped_oak_classic_stool
+- pfm:stripped_birch_classic_stool
+- pfm:stripped_spruce_classic_stool
+- pfm:stripped_jungle_classic_stool
+- pfm:stripped_acacia_classic_stool
+- pfm:stripped_dark_oak_classic_stool
+- pfm:stripped_crimson_classic_stool
+- pfm:stripped_warped_classic_stool
+- pfm:light_wood_classic_stool
+- pfm:dark_wood_classic_stool
+- pfm:oak_table_classic
+- pfm:birch_table_classic
+- pfm:spruce_table_classic
+- pfm:acacia_table_classic
+- pfm:jungle_table_classic
+- pfm:dark_oak_table_classic
+- pfm:crimson_table_classic
+- pfm:warped_table_classic
+- pfm:stripped_oak_table_classic
+- pfm:stripped_birch_table_classic
+- pfm:stripped_spruce_table_classic
+- pfm:stripped_acacia_table_classic
+- pfm:stripped_jungle_table_classic
+- pfm:stripped_dark_oak_table_classic
+- pfm:stripped_crimson_table_classic
+- pfm:stripped_warped_table_classic
+- pfm:light_wood_table_classic
+- pfm:dark_wood_table_classic
+- pfm:oak_chair_dinner
+- pfm:birch_chair_dinner
+- pfm:spruce_chair_dinner
+- pfm:acacia_chair_dinner
+- pfm:jungle_chair_dinner
+- pfm:dark_oak_chair_dinner
+- pfm:crimson_chair_dinner
+- pfm:warped_chair_dinner
+- pfm:stripped_oak_chair_dinner
+- pfm:stripped_birch_chair_dinner
+- pfm:stripped_spruce_chair_dinner
+- pfm:stripped_acacia_chair_dinner
+- pfm:stripped_jungle_chair_dinner
+- pfm:stripped_dark_oak_chair_dinner
+- pfm:stripped_warped_chair_dinner
+- pfm:stripped_crimson_chair_dinner
+- pfm:light_wood_chair_dinner
+- pfm:dark_wood_chair_dinner
+- pfm:oak_table_dinner
+- pfm:birch_table_dinner
+- pfm:spruce_table_dinner
+- pfm:jungle_table_dinner
+- pfm:acacia_table_dinner
+- pfm:dark_oak_table_dinner
+- pfm:crimson_table_dinner
+- pfm:warped_table_dinner
+- pfm:stripped_oak_table_dinner
+- pfm:stripped_birch_table_dinner
+- pfm:stripped_spruce_table_dinner
+- pfm:stripped_jungle_table_dinner
+- pfm:stripped_acacia_table_dinner
+- pfm:stripped_dark_oak_table_dinner
+- pfm:stripped_crimson_table_dinner
+- pfm:stripped_warped_table_dinner
+- pfm:light_wood_table_dinner
+- pfm:dark_wood_table_dinner
+- pfm:oak_log_stool
+- pfm:birch_log_stool
+- pfm:spruce_log_stool
+- pfm:jungle_log_stool
+- pfm:acacia_log_stool
+- pfm:dark_oak_log_stool
+- pfm:crimson_stem_stool
+- pfm:warped_stem_stool
+- pfm:oak_table_log
+- pfm:birch_table_log
+- pfm:spruce_table_log
+- pfm:acacia_table_log
+- pfm:jungle_table_log
+- pfm:dark_oak_table_log
+- pfm:crimson_table_stem
+- pfm:warped_table_stem
+- pfm:stripped_oak_table_log
+- pfm:stripped_birch_table_log
+- pfm:stripped_spruce_table_log
+- pfm:stripped_acacia_table_log
+- pfm:stripped_jungle_table_log
+- pfm:stripped_dark_oak_table_log
+- pfm:stripped_crimson_table_stem
+- pfm:stripped_warped_table_stem
+- pfm:light_wood_table_natural
+- pfm:dark_wood_table_natural
+- pfm:oak_raw_table_log
+- pfm:birch_raw_table_log
+- pfm:spruce_raw_table_log
+- pfm:acacia_raw_table_log
+- pfm:jungle_raw_table_log
+- pfm:dark_oak_raw_table_log
+- pfm:crimson_raw_table_stem
+- pfm:warped_raw_table_stem
+- pfm:stripped_oak_raw_table_log
+- pfm:stripped_birch_raw_table_log
+- pfm:stripped_spruce_raw_table_log
+- pfm:stripped_acacia_raw_table_log
+- pfm:stripped_jungle_raw_table_log
+- pfm:stripped_dark_oak_raw_table_log
+- pfm:stripped_crimson_raw_table_stem
+- pfm:stripped_warped_raw_table_stem
+- pfm:oak_table_modern_dinner
+- pfm:birch_table_modern_dinner
+- pfm:spruce_table_modern_dinner
+- pfm:acacia_table_modern_dinner
+- pfm:jungle_table_modern_dinner
+- pfm:dark_oak_table_modern_dinner
+- pfm:crimson_table_modern_dinner
+- pfm:warped_table_modern_dinner
+- pfm:stripped_oak_table_modern_dinner
+- pfm:stripped_birch_table_modern_dinner
+- pfm:stripped_spruce_table_modern_dinner
+- pfm:stripped_jungle_table_modern_dinner
+- pfm:stripped_acacia_table_modern_dinner
+- pfm:stripped_dark_oak_table_modern_dinner
+- pfm:stripped_crimson_table_modern_dinner
+- pfm:stripped_warped_table_modern_dinner
+- pfm:light_wood_table_modern_dinner
+- pfm:dark_wood_table_modern_dinner
+- pfm:oak_chair_modern
+- pfm:birch_chair_modern
+- pfm:spruce_chair_modern
+- pfm:acacia_chair_modern
+- pfm:jungle_chair_modern
+- pfm:dark_oak_chair_modern
+- pfm:crimson_chair_modern
+- pfm:warped_chair_modern
+- pfm:stripped_oak_chair_modern
+- pfm:stripped_birch_chair_modern
+- pfm:stripped_spruce_chair_modern
+- pfm:stripped_acacia_chair_modern
+- pfm:stripped_jungle_chair_modern
+- pfm:stripped_dark_oak_chair_modern
+- pfm:stripped_warped_chair_modern
+- pfm:stripped_crimson_chair_modern
+- pfm:light_wood_chair_modern
+- pfm:dark_wood_chair_modern
+- pfm:oak_modern_stool
+- pfm:birch_modern_stool
+- pfm:spruce_modern_stool
+- pfm:jungle_modern_stool
+- pfm:acacia_modern_stool
+- pfm:dark_oak_modern_stool
+- pfm:crimson_modern_stool
+- pfm:warped_modern_stool
+- pfm:stripped_oak_modern_stool
+- pfm:stripped_birch_modern_stool
+- pfm:stripped_spruce_modern_stool
+- pfm:stripped_jungle_modern_stool
+- pfm:stripped_acacia_modern_stool
+- pfm:stripped_dark_oak_modern_stool
+- pfm:stripped_crimson_modern_stool
+- pfm:stripped_warped_modern_stool
+- pfm:dark_wood_modern_stool
+- pfm:gray_dark_oak_modern_stool
+- pfm:light_gray_dark_oak_modern_stool
+- pfm:light_wood_modern_stool
+- pfm:oak_simple_stool
+- pfm:birch_simple_stool
+- pfm:spruce_simple_stool
+- pfm:jungle_simple_stool
+- pfm:acacia_simple_stool
+- pfm:dark_oak_simple_stool
+- pfm:crimson_simple_stool
+- pfm:warped_simple_stool
+- pfm:stripped_oak_simple_stool
+- pfm:stripped_birch_simple_stool
+- pfm:stripped_spruce_simple_stool
+- pfm:stripped_jungle_simple_stool
+- pfm:stripped_acacia_simple_stool
+- pfm:stripped_dark_oak_simple_stool
+- pfm:stripped_crimson_simple_stool
+- pfm:stripped_warped_simple_stool
+- pfm:light_wood_simple_stool
+- pfm:dark_wood_simple_stool
+- pfm:white_simple_sofa
+- pfm:blue_simple_sofa
+- pfm:green_simple_sofa
+- pfm:gray_simple_sofa
+- pfm:pink_simple_sofa
+- pfm:brown_simple_sofa
+- pfm:orange_simple_sofa
+- pfm:yellow_simple_sofa
+- pfm:purple_simple_sofa
+- pfm:cyan_simple_sofa
+- pfm:lime_simple_sofa
+- pfm:magenta_simple_sofa
+- pfm:light_blue_simple_sofa
+- pfm:light_gray_simple_sofa
+- pfm:red_simple_sofa
+- pfm:black_simple_sofa
+- pfm:white_arm_chair
+- pfm:blue_arm_chair
+- pfm:green_arm_chair
+- pfm:gray_arm_chair
+- pfm:pink_arm_chair
+- pfm:brown_arm_chair
+- pfm:orange_arm_chair
+- pfm:yellow_arm_chair
+- pfm:purple_arm_chair
+- pfm:cyan_arm_chair
+- pfm:lime_arm_chair
+- pfm:magenta_arm_chair
+- pfm:light_blue_arm_chair
+- pfm:light_gray_arm_chair
+- pfm:red_arm_chair
+- pfm:black_arm_chair
+- pfm:arm_chair_leather
+- pfm:oak_classic_nightstand
+- pfm:birch_classic_nightstand
+- pfm:spruce_classic_nightstand
+- pfm:acacia_classic_nightstand
+- pfm:jungle_classic_nightstand
+- pfm:dark_oak_classic_nightstand
+- pfm:crimson_classic_nightstand
+- pfm:warped_classic_nightstand
+- pfm:stripped_oak_classic_nightstand
+- pfm:stripped_birch_classic_nightstand
+- pfm:stripped_spruce_classic_nightstand
+- pfm:stripped_acacia_classic_nightstand
+- pfm:stripped_jungle_classic_nightstand
+- pfm:stripped_dark_oak_classic_nightstand
+- pfm:stripped_warped_classic_nightstand
+- pfm:stripped_crimson_classic_nightstand
+- pfm:light_wood_classic_nightstand
+- pfm:dark_wood_classic_nightstand
+- pfm:working_table
+- pfm:acacia_herringbone_planks
+- pfm:spruce_herringbone_planks
+- pfm:oak_herringbone_planks
+- pfm:dark_oak_herringbone_planks
+- pfm:jungle_herringbone_planks
+- pfm:birch_herringbone_planks
+- pfm:warped_herringbone_planks
+- pfm:crimson_herringbone_planks
+- pfm:oak_red_simple_bed
+- pfm:oak_orange_simple_bed
+- pfm:oak_yellow_simple_bed
+- pfm:oak_green_simple_bed
+- pfm:oak_lime_simple_bed
+- pfm:oak_cyan_simple_bed
+- pfm:oak_blue_simple_bed
+- pfm:oak_light_blue_simple_bed
+- pfm:oak_light_gray_simple_bed
+- pfm:oak_magenta_simple_bed
+- pfm:oak_pink_simple_bed
+- pfm:oak_purple_simple_bed
+- pfm:oak_white_simple_bed
+- pfm:oak_brown_simple_bed
+- pfm:oak_gray_simple_bed
+- pfm:oak_black_simple_bed
+- pfm:spruce_red_simple_bed
+- pfm:spruce_orange_simple_bed
+- pfm:spruce_yellow_simple_bed
+- pfm:spruce_green_simple_bed
+- pfm:spruce_lime_simple_bed
+- pfm:spruce_cyan_simple_bed
+- pfm:spruce_blue_simple_bed
+- pfm:spruce_light_blue_simple_bed
+- pfm:spruce_light_gray_simple_bed
+- pfm:spruce_magenta_simple_bed
+- pfm:spruce_pink_simple_bed
+- pfm:spruce_purple_simple_bed
+- pfm:spruce_white_simple_bed
+- pfm:spruce_brown_simple_bed
+- pfm:spruce_gray_simple_bed
+- pfm:spruce_black_simple_bed
+- pfm:dark_oak_red_simple_bed
+- pfm:dark_oak_orange_simple_bed
+- pfm:dark_oak_yellow_simple_bed
+- pfm:dark_oak_green_simple_bed
+- pfm:dark_oak_lime_simple_bed
+- pfm:dark_oak_cyan_simple_bed
+- pfm:dark_oak_blue_simple_bed
+- pfm:dark_oak_light_blue_simple_bed
+- pfm:dark_oak_light_gray_simple_bed
+- pfm:dark_oak_magenta_simple_bed
+- pfm:dark_oak_pink_simple_bed
+- pfm:dark_oak_purple_simple_bed
+- pfm:dark_oak_white_simple_bed
+- pfm:dark_oak_brown_simple_bed
+- pfm:dark_oak_gray_simple_bed
+- pfm:dark_oak_black_simple_bed
+- pfm:birch_red_simple_bed
+- pfm:birch_orange_simple_bed
+- pfm:birch_yellow_simple_bed
+- pfm:birch_green_simple_bed
+- pfm:birch_lime_simple_bed
+- pfm:birch_cyan_simple_bed
+- pfm:birch_blue_simple_bed
+- pfm:birch_light_blue_simple_bed
+- pfm:birch_light_gray_simple_bed
+- pfm:birch_magenta_simple_bed
+- pfm:birch_pink_simple_bed
+- pfm:birch_purple_simple_bed
+- pfm:birch_white_simple_bed
+- pfm:birch_brown_simple_bed
+- pfm:birch_gray_simple_bed
+- pfm:birch_black_simple_bed
+- pfm:acacia_red_simple_bed
+- pfm:acacia_orange_simple_bed
+- pfm:acacia_yellow_simple_bed
+- pfm:acacia_green_simple_bed
+- pfm:acacia_lime_simple_bed
+- pfm:acacia_cyan_simple_bed
+- pfm:acacia_blue_simple_bed
+- pfm:acacia_light_blue_simple_bed
+- pfm:acacia_light_gray_simple_bed
+- pfm:acacia_magenta_simple_bed
+- pfm:acacia_pink_simple_bed
+- pfm:acacia_purple_simple_bed
+- pfm:acacia_white_simple_bed
+- pfm:acacia_brown_simple_bed
+- pfm:acacia_gray_simple_bed
+- pfm:acacia_black_simple_bed
+- pfm:jungle_red_simple_bed
+- pfm:jungle_orange_simple_bed
+- pfm:jungle_yellow_simple_bed
+- pfm:jungle_green_simple_bed
+- pfm:jungle_lime_simple_bed
+- pfm:jungle_cyan_simple_bed
+- pfm:jungle_blue_simple_bed
+- pfm:jungle_light_blue_simple_bed
+- pfm:jungle_light_gray_simple_bed
+- pfm:jungle_magenta_simple_bed
+- pfm:jungle_pink_simple_bed
+- pfm:jungle_purple_simple_bed
+- pfm:jungle_white_simple_bed
+- pfm:jungle_brown_simple_bed
+- pfm:jungle_gray_simple_bed
+- pfm:jungle_black_simple_bed
+- pfm:warped_red_simple_bed
+- pfm:warped_orange_simple_bed
+- pfm:warped_yellow_simple_bed
+- pfm:warped_green_simple_bed
+- pfm:warped_lime_simple_bed
+- pfm:warped_cyan_simple_bed
+- pfm:warped_blue_simple_bed
+- pfm:warped_light_blue_simple_bed
+- pfm:warped_light_gray_simple_bed
+- pfm:warped_magenta_simple_bed
+- pfm:warped_pink_simple_bed
+- pfm:warped_purple_simple_bed
+- pfm:warped_white_simple_bed
+- pfm:warped_brown_simple_bed
+- pfm:warped_gray_simple_bed
+- pfm:warped_black_simple_bed
+- pfm:crimson_red_simple_bed
+- pfm:crimson_orange_simple_bed
+- pfm:crimson_yellow_simple_bed
+- pfm:crimson_green_simple_bed
+- pfm:crimson_lime_simple_bed
+- pfm:crimson_cyan_simple_bed
+- pfm:crimson_blue_simple_bed
+- pfm:crimson_light_blue_simple_bed
+- pfm:crimson_light_gray_simple_bed
+- pfm:crimson_magenta_simple_bed
+- pfm:crimson_pink_simple_bed
+- pfm:crimson_purple_simple_bed
+- pfm:crimson_white_simple_bed
+- pfm:crimson_brown_simple_bed
+- pfm:crimson_gray_simple_bed
+- pfm:crimson_black_simple_bed
+- pfm:oak_kitchen_wall_drawer
+- pfm:birch_kitchen_wall_drawer
+- pfm:spruce_kitchen_wall_drawer
+- pfm:jungle_kitchen_wall_drawer
+- pfm:acacia_kitchen_wall_drawer
+- pfm:dark_oak_kitchen_wall_drawer
+- pfm:crimson_kitchen_wall_drawer
+- pfm:warped_kitchen_wall_drawer
+- pfm:stripped_oak_kitchen_wall_drawer
+- pfm:stripped_birch_kitchen_wall_drawer
+- pfm:stripped_spruce_kitchen_wall_drawer
+- pfm:stripped_jungle_kitchen_wall_drawer
+- pfm:stripped_acacia_kitchen_wall_drawer
+- pfm:stripped_dark_oak_kitchen_wall_drawer
+- pfm:stripped_crimson_kitchen_wall_drawer
+- pfm:stripped_warped_kitchen_wall_drawer
+- pfm:light_wood_kitchen_wall_drawer
+- pfm:dark_wood_kitchen_wall_drawer
+- pfm:oak_kitchen_wall_counter
+- pfm:birch_kitchen_wall_counter
+- pfm:spruce_kitchen_wall_counter
+- pfm:jungle_kitchen_wall_counter
+- pfm:acacia_kitchen_wall_counter
+- pfm:dark_oak_kitchen_wall_counter
+- pfm:crimson_kitchen_wall_counter
+- pfm:warped_kitchen_wall_counter
+- pfm:stripped_oak_kitchen_wall_counter
+- pfm:stripped_birch_kitchen_wall_counter
+- pfm:stripped_spruce_kitchen_wall_counter
+- pfm:stripped_jungle_kitchen_wall_counter
+- pfm:stripped_acacia_kitchen_wall_counter
+- pfm:stripped_dark_oak_kitchen_wall_counter
+- pfm:stripped_crimson_kitchen_wall_counter
+- pfm:stripped_warped_kitchen_wall_counter
+- pfm:light_wood_kitchen_wall_counter
+- pfm:dark_wood_kitchen_wall_counter
+- pfm:oak_kitchen_wall_small_drawer
+- pfm:birch_kitchen_wall_small_drawer
+- pfm:spruce_kitchen_wall_small_drawer
+- pfm:jungle_kitchen_wall_small_drawer
+- pfm:acacia_kitchen_wall_small_drawer
+- pfm:dark_oak_kitchen_wall_small_drawer
+- pfm:crimson_kitchen_wall_small_drawer
+- pfm:warped_kitchen_wall_small_drawer
+- pfm:stripped_oak_kitchen_wall_small_drawer
+- pfm:stripped_birch_kitchen_wall_small_drawer
+- pfm:stripped_spruce_kitchen_wall_small_drawer
+- pfm:stripped_jungle_kitchen_wall_small_drawer
+- pfm:stripped_acacia_kitchen_wall_small_drawer
+- pfm:stripped_dark_oak_kitchen_wall_small_drawer
+- pfm:stripped_crimson_kitchen_wall_small_drawer
+- pfm:stripped_warped_kitchen_wall_small_drawer
+- pfm:light_wood_kitchen_wall_small_drawer
+- pfm:dark_wood_kitchen_wall_small_drawer
+- pfm:oak_simple_bunk_ladder
+- pfm:spruce_simple_bunk_ladder
+- pfm:birch_simple_bunk_ladder
+- pfm:dark_oak_simple_bunk_ladder
+- pfm:acacia_simple_bunk_ladder
+- pfm:jungle_simple_bunk_ladder
+- pfm:crimson_simple_bunk_ladder
+- pfm:warped_simple_bunk_ladder
+- pfm:oak_red_classic_bed
+- pfm:oak_orange_classic_bed
+- pfm:oak_yellow_classic_bed
+- pfm:oak_green_classic_bed
+- pfm:oak_lime_classic_bed
+- pfm:oak_cyan_classic_bed
+- pfm:oak_blue_classic_bed
+- pfm:oak_light_blue_classic_bed
+- pfm:oak_light_gray_classic_bed
+- pfm:oak_magenta_classic_bed
+- pfm:oak_pink_classic_bed
+- pfm:oak_purple_classic_bed
+- pfm:oak_white_classic_bed
+- pfm:oak_brown_classic_bed
+- pfm:oak_gray_classic_bed
+- pfm:oak_black_classic_bed
+- pfm:spruce_red_classic_bed
+- pfm:spruce_orange_classic_bed
+- pfm:spruce_yellow_classic_bed
+- pfm:spruce_green_classic_bed
+- pfm:spruce_lime_classic_bed
+- pfm:spruce_cyan_classic_bed
+- pfm:spruce_blue_classic_bed
+- pfm:spruce_light_blue_classic_bed
+- pfm:spruce_light_gray_classic_bed
+- pfm:spruce_magenta_classic_bed
+- pfm:spruce_pink_classic_bed
+- pfm:spruce_purple_classic_bed
+- pfm:spruce_white_classic_bed
+- pfm:spruce_brown_classic_bed
+- pfm:spruce_gray_classic_bed
+- pfm:spruce_black_classic_bed
+- pfm:dark_oak_red_classic_bed
+- pfm:dark_oak_orange_classic_bed
+- pfm:dark_oak_yellow_classic_bed
+- pfm:dark_oak_green_classic_bed
+- pfm:dark_oak_lime_classic_bed
+- pfm:dark_oak_cyan_classic_bed
+- pfm:dark_oak_blue_classic_bed
+- pfm:dark_oak_light_blue_classic_bed
+- pfm:dark_oak_light_gray_classic_bed
+- pfm:dark_oak_magenta_classic_bed
+- pfm:dark_oak_pink_classic_bed
+- pfm:dark_oak_purple_classic_bed
+- pfm:dark_oak_white_classic_bed
+- pfm:dark_oak_brown_classic_bed
+- pfm:dark_oak_gray_classic_bed
+- pfm:dark_oak_black_classic_bed
+- pfm:birch_red_classic_bed
+- pfm:birch_orange_classic_bed
+- pfm:birch_yellow_classic_bed
+- pfm:birch_green_classic_bed
+- pfm:birch_lime_classic_bed
+- pfm:birch_cyan_classic_bed
+- pfm:birch_blue_classic_bed
+- pfm:birch_light_blue_classic_bed
+- pfm:birch_light_gray_classic_bed
+- pfm:birch_magenta_classic_bed
+- pfm:birch_pink_classic_bed
+- pfm:birch_purple_classic_bed
+- pfm:birch_white_classic_bed
+- pfm:birch_brown_classic_bed
+- pfm:birch_gray_classic_bed
+- pfm:birch_black_classic_bed
+- pfm:acacia_red_classic_bed
+- pfm:acacia_orange_classic_bed
+- pfm:acacia_yellow_classic_bed
+- pfm:acacia_green_classic_bed
+- pfm:acacia_lime_classic_bed
+- pfm:acacia_cyan_classic_bed
+- pfm:acacia_blue_classic_bed
+- pfm:acacia_light_blue_classic_bed
+- pfm:acacia_light_gray_classic_bed
+- pfm:acacia_magenta_classic_bed
+- pfm:acacia_pink_classic_bed
+- pfm:acacia_purple_classic_bed
+- pfm:acacia_white_classic_bed
+- pfm:acacia_brown_classic_bed
+- pfm:acacia_gray_classic_bed
+- pfm:acacia_black_classic_bed
+- pfm:jungle_red_classic_bed
+- pfm:jungle_orange_classic_bed
+- pfm:jungle_yellow_classic_bed
+- pfm:jungle_green_classic_bed
+- pfm:jungle_lime_classic_bed
+- pfm:jungle_cyan_classic_bed
+- pfm:jungle_blue_classic_bed
+- pfm:jungle_light_blue_classic_bed
+- pfm:jungle_light_gray_classic_bed
+- pfm:jungle_magenta_classic_bed
+- pfm:jungle_pink_classic_bed
+- pfm:jungle_purple_classic_bed
+- pfm:jungle_white_classic_bed
+- pfm:jungle_brown_classic_bed
+- pfm:jungle_gray_classic_bed
+- pfm:jungle_black_classic_bed
+- pfm:warped_red_classic_bed
+- pfm:warped_orange_classic_bed
+- pfm:warped_yellow_classic_bed
+- pfm:warped_green_classic_bed
+- pfm:warped_lime_classic_bed
+- pfm:warped_cyan_classic_bed
+- pfm:warped_blue_classic_bed
+- pfm:warped_light_blue_classic_bed
+- pfm:warped_light_gray_classic_bed
+- pfm:warped_magenta_classic_bed
+- pfm:warped_pink_classic_bed
+- pfm:warped_purple_classic_bed
+- pfm:warped_white_classic_bed
+- pfm:warped_brown_classic_bed
+- pfm:warped_gray_classic_bed
+- pfm:warped_black_classic_bed
+- pfm:crimson_red_classic_bed
+- pfm:crimson_orange_classic_bed
+- pfm:crimson_yellow_classic_bed
+- pfm:crimson_green_classic_bed
+- pfm:crimson_lime_classic_bed
+- pfm:crimson_cyan_classic_bed
+- pfm:crimson_blue_classic_bed
+- pfm:crimson_light_blue_classic_bed
+- pfm:crimson_light_gray_classic_bed
+- pfm:crimson_magenta_classic_bed
+- pfm:crimson_pink_classic_bed
+- pfm:crimson_purple_classic_bed
+- pfm:crimson_white_classic_bed
+- pfm:crimson_brown_classic_bed
+- pfm:crimson_gray_classic_bed
+- pfm:crimson_black_classic_bed
+- reinfbarrel:copper_barrel
+- reinfbarrel:iron_barrel
+- reinfbarrel:gold_barrel
+- reinfbarrel:diamond_barrel
+- reinfbarrel:netherite_barrel
+- reinfchest:copper_chest
+- reinfchest:iron_chest
+- reinfchest:gold_chest
+- reinfchest:diamond_chest
+- reinfchest:netherite_chest
+- seasons:season_detector
+- #shoppy:trading_blocks
+- vinery:red_grape_bush
+- vinery:white_grape_bush
+- vinery:grapevine_stem
+- vinery:grapevine_pot
+- vinery:cherry_beam
+- vinery:stackable_log
+- vinery:fermentation_barrel
+- vinery:cherry_floorboard
+- vinery:red_grape_crate
+- vinery:white_grape_crate
+- vinery:flower_box
+- vinery:wine_press
+- vinery:barrel
+- vinery:storage_pot
+- vinery:cherry_sign
+- vinery:table
+- vinery:chair
+- vinery:cherry_fence_gate
+- vinery:wine_box
+- #vinery:wine_racks
+- xercamusic:block_metronome
+- xercamusic:music_box
+- xercamusic:drum_kit
+- xercamusic:piano
+
+#c:iron_ores
+- ad_astra:mars_iron_ore
+- ad_astra:mercury_iron_ore
+- ad_astra:moon_iron_ore
+- ad_astra:glacio_iron_ore
+
+#c:ores/lapis
+- #minecraft:lapis_ores
+
+#create:windmill_sails
+- create:sail_frame
+- create:white_sail
+- create:orange_sail
+- create:magenta_sail
+- create:light_blue_sail
+- create:yellow_sail
+- create:lime_sail
+- create:pink_sail
+- create:gray_sail
+- create:light_gray_sail
+- create:cyan_sail
+- create:purple_sail
+- create:blue_sail
+- create:brown_sail
+- create:green_sail
+- create:red_sail
+- create:black_sail
+- #minecraft:wool
+
+#c:barrels
+- #c:barrels/wooden
+
+#minecraft:slabs
+- #minecraft:wooden_slabs
+- minecraft:stone_slab
+- minecraft:smooth_stone_slab
+- minecraft:stone_brick_slab
+- minecraft:sandstone_slab
+- minecraft:purpur_slab
+- minecraft:quartz_slab
+- minecraft:red_sandstone_slab
+- minecraft:brick_slab
+- minecraft:cobblestone_slab
+- minecraft:nether_brick_slab
+- minecraft:petrified_oak_slab
+- minecraft:prismarine_slab
+- minecraft:prismarine_brick_slab
+- minecraft:dark_prismarine_slab
+- minecraft:polished_granite_slab
+- minecraft:smooth_red_sandstone_slab
+- minecraft:mossy_stone_brick_slab
+- minecraft:polished_diorite_slab
+- minecraft:mossy_cobblestone_slab
+- minecraft:end_stone_brick_slab
+- minecraft:smooth_sandstone_slab
+- minecraft:smooth_quartz_slab
+- minecraft:granite_slab
+- minecraft:andesite_slab
+- minecraft:red_nether_brick_slab
+- minecraft:polished_andesite_slab
+- minecraft:diorite_slab
+- minecraft:cut_sandstone_slab
+- minecraft:cut_red_sandstone_slab
+- minecraft:blackstone_slab
+- minecraft:polished_blackstone_brick_slab
+- minecraft:polished_blackstone_slab
+- minecraft:cobbled_deepslate_slab
+- minecraft:polished_deepslate_slab
+- minecraft:deepslate_tile_slab
+- minecraft:deepslate_brick_slab
+- minecraft:waxed_weathered_cut_copper_slab
+- minecraft:waxed_exposed_cut_copper_slab
+- minecraft:waxed_cut_copper_slab
+- minecraft:oxidized_cut_copper_slab
+- minecraft:weathered_cut_copper_slab
+- minecraft:exposed_cut_copper_slab
+- minecraft:cut_copper_slab
+- minecraft:waxed_oxidized_cut_copper_slab
+- ad_astra:moon_stone_brick_slab
+- ad_astra:mars_stone_brick_slab
+- ad_astra:mercury_stone_brick_slab
+- ad_astra:venus_sandstone_brick_slab
+- ad_astra:venus_stone_brick_slab
+- ad_astra:glacio_stone_brick_slab
+- ad_astra:chiseled_moon_stone_slab
+- ad_astra:polished_moon_stone_slab
+- ad_astra:chiseled_mars_stone_slab
+- ad_astra:polished_mars_stone_slab
+- ad_astra:chiseled_venus_stone_slab
+- ad_astra:polished_venus_stone_slab
+- ad_astra:chiseled_mercury_stone_slab
+- ad_astra:polished_mercury_stone_slab
+- ad_astra:chiseled_glacio_stone_slab
+- ad_astra:polished_glacio_stone_slab
+- ad_astra:iron_plating_slab
+- ad_astra:steel_plating_slab
+- ad_astra:desh_plating_slab
+- ad_astra:ostrum_plating_slab
+- ad_astra:calorite_plating_slab
+- ad_astra:permafrost_brick_slab
+- ad_astra:chiseled_permafrost_brick_slab
+- ad_astra:polished_permafrost_slab
+- ad_astra:moon_cobblestone_slab
+- ad_astra:moon_stone_slab
+- ad_astra:mars_cobblestone_slab
+- ad_astra:mars_stone_slab
+- ad_astra:venus_cobblestone_slab
+- ad_astra:venus_stone_slab
+- ad_astra:mercury_cobblestone_slab
+- ad_astra:mercury_stone_slab
+- ad_astra:glacio_cobblestone_slab
+- ad_astra:glacio_stone_slab
+- ad_astra:glacian_slab
+- ad_astra:aeronos_slab
+- ad_astra:strophar_slab
+- create:cut_granite_slab
+- create:polished_cut_granite_slab
+- create:cut_granite_brick_slab
+- create:small_granite_brick_slab
+- create:cut_diorite_slab
+- create:polished_cut_diorite_slab
+- create:cut_diorite_brick_slab
+- create:small_diorite_brick_slab
+- create:cut_andesite_slab
+- create:polished_cut_andesite_slab
+- create:cut_andesite_brick_slab
+- create:small_andesite_brick_slab
+- create:cut_calcite_slab
+- create:polished_cut_calcite_slab
+- create:cut_calcite_brick_slab
+- create:small_calcite_brick_slab
+- create:cut_dripstone_slab
+- create:polished_cut_dripstone_slab
+- create:cut_dripstone_brick_slab
+- create:small_dripstone_brick_slab
+- create:cut_deepslate_slab
+- create:polished_cut_deepslate_slab
+- create:cut_deepslate_brick_slab
+- create:small_deepslate_brick_slab
+- create:cut_tuff_slab
+- create:polished_cut_tuff_slab
+- create:cut_tuff_brick_slab
+- create:small_tuff_brick_slab
+- create:cut_asurine_slab
+- create:polished_cut_asurine_slab
+- create:cut_asurine_brick_slab
+- create:small_asurine_brick_slab
+- create:cut_crimsite_slab
+- create:polished_cut_crimsite_slab
+- create:cut_crimsite_brick_slab
+- create:small_crimsite_brick_slab
+- create:cut_limestone_slab
+- create:polished_cut_limestone_slab
+- create:cut_limestone_brick_slab
+- create:small_limestone_brick_slab
+- create:cut_ochrum_slab
+- create:polished_cut_ochrum_slab
+- create:cut_ochrum_brick_slab
+- create:small_ochrum_brick_slab
+- create:cut_scoria_slab
+- create:polished_cut_scoria_slab
+- create:cut_scoria_brick_slab
+- create:small_scoria_brick_slab
+- create:cut_scorchia_slab
+- create:polished_cut_scorchia_slab
+- create:cut_scorchia_brick_slab
+- create:small_scorchia_brick_slab
+- create:cut_veridium_slab
+- create:polished_cut_veridium_slab
+- create:cut_veridium_brick_slab
+- create:small_veridium_brick_slab
+- ecologics:seashell_tile_slab
+- ecologics:snow_brick_slab
+- ecologics:ice_brick_slab
+- winterly:snow_brick_slab
+- winterly:dense_snow_slab
+
+#c:glass/lime
+- minecraft:lime_stained_glass
+
+#c:chests/ender
+- minecraft:ender_chest
+
+#minecraft:animals_spawnable_on
+- minecraft:grass_block
+
+#minecraft:guarded_by_piglins
+- minecraft:gold_block
+- minecraft:barrel
+- minecraft:chest
+- minecraft:ender_chest
+- minecraft:gilded_blackstone
+- minecraft:trapped_chest
+- minecraft:raw_gold_block
+- #minecraft:shulker_boxes
+- #minecraft:gold_ores
+- ad_astra:venus_gold_ore
+- lootr:lootr_chest
+- lootr:lootr_trapped_chest
+- lootr:lootr_barrel
+
+#create:casing
+- create:andesite_casing
+- create:brass_casing
+- create:copper_casing
+- create:shadow_steel_casing
+- create:refined_radiance_casing
+- create:railway_casing
+- create_crystal_clear:andesite_glass_casing
+- create_crystal_clear:brass_glass_casing
+- create_crystal_clear:copper_glass_casing
+- create_crystal_clear:train_glass_casing
+- create_crystal_clear:andesite_clear_glass_casing
+- create_crystal_clear:brass_clear_glass_casing
+- create_crystal_clear:copper_clear_glass_casing
+- create_crystal_clear:train_clear_glass_casing
+- create_crystal_clear:steel_glass_casing
+- create_crystal_clear:steel_tinted_glass_casing
+
+#minecraft:stone_ore_replaceables
+- minecraft:stone
+- minecraft:granite
+- minecraft:diorite
+- minecraft:andesite
+
+#c:storage_blocks/raw_iron
+- minecraft:raw_iron_block
+
+#minecraft:flowers
+- #minecraft:small_flowers
+- #minecraft:tall_flowers
+- minecraft:flowering_azalea_leaves
+- minecraft:flowering_azalea
+
+#minecraft:corals
+- #minecraft:coral_plants
+- minecraft:tube_coral_fan
+- minecraft:brain_coral_fan
+- minecraft:bubble_coral_fan
+- minecraft:fire_coral_fan
+- minecraft:horn_coral_fan
+
+#minecraft:buttons
+- #minecraft:wooden_buttons
+- minecraft:stone_button
+- minecraft:polished_blackstone_button
+- ad_astra:iron_plating_button
+- ad_astra:steel_plating_button
+- ad_astra:desh_plating_button
+- ad_astra:ostrum_plating_button
+- ad_astra:calorite_plating_button
+- ad_astra:glacian_button
+
+#minecraft:rabbits_spawnable_on
+- minecraft:grass_block
+- minecraft:snow
+- minecraft:snow_block
+- minecraft:sand
+
+#ecologics:walnut_logs
+- ecologics:walnut_log
+- ecologics:stripped_walnut_log
+- ecologics:walnut_wood
+- ecologics:stripped_walnut_wood
+
+#minecraft:planks
+- minecraft:oak_planks
+- minecraft:spruce_planks
+- minecraft:birch_planks
+- minecraft:jungle_planks
+- minecraft:acacia_planks
+- minecraft:dark_oak_planks
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- ad_astra:glacian_planks
+- ecologics:coconut_planks
+- ecologics:walnut_planks
+- ecologics:azalea_planks
+- ecologics:flowering_azalea_planks
+- vinery:cherry_planks
+
+#c:glass/silica
+- minecraft:glass
+- minecraft:black_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:green_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:red_stained_glass
+- minecraft:white_stained_glass
+- minecraft:yellow_stained_glass
+
+#reinfshulker:gold_shulker_boxes
+- reinfshulker:gold_shulker_box
+- reinfshulker:black_gold_shulker_box
+- reinfshulker:blue_gold_shulker_box
+- reinfshulker:brown_gold_shulker_box
+- reinfshulker:cyan_gold_shulker_box
+- reinfshulker:gray_gold_shulker_box
+- reinfshulker:green_gold_shulker_box
+- reinfshulker:light_blue_gold_shulker_box
+- reinfshulker:light_gray_gold_shulker_box
+- reinfshulker:lime_gold_shulker_box
+- reinfshulker:magenta_gold_shulker_box
+- reinfshulker:orange_gold_shulker_box
+- reinfshulker:pink_gold_shulker_box
+- reinfshulker:purple_gold_shulker_box
+- reinfshulker:red_gold_shulker_box
+- reinfshulker:white_gold_shulker_box
+- reinfshulker:yellow_gold_shulker_box
+
+#c:glass/orange
+- minecraft:orange_stained_glass
+
+#minecraft:rails
+- minecraft:rail
+- minecraft:powered_rail
+- minecraft:detector_rail
+- minecraft:activator_rail
+- create:cart_assembler
+- create:controller_rail
+
+#c:glass_panes/yellow
+- minecraft:yellow_stained_glass_pane
+
+#minecraft:diamond_ores
+- minecraft:diamond_ore
+- minecraft:deepslate_diamond_ore
+- ad_astra:mars_diamond_ore
+- ad_astra:venus_diamond_ore
+
+#c:ores/netherite_scrap
+- minecraft:ancient_debris
+
+#c:shulker_boxes
+- minecraft:shulker_box
+- minecraft:blue_shulker_box
+- minecraft:brown_shulker_box
+- minecraft:cyan_shulker_box
+- minecraft:gray_shulker_box
+- minecraft:green_shulker_box
+- minecraft:light_blue_shulker_box
+- minecraft:light_gray_shulker_box
+- minecraft:lime_shulker_box
+- minecraft:magenta_shulker_box
+- minecraft:orange_shulker_box
+- minecraft:pink_shulker_box
+- minecraft:purple_shulker_box
+- minecraft:red_shulker_box
+- minecraft:white_shulker_box
+- minecraft:yellow_shulker_box
+- minecraft:black_shulker_box
+
+#minecraft:deepslate_ore_replaceables
+- minecraft:deepslate
+- minecraft:tuff
+
+#botania:gaia_break_blacklist
+- yigd:grave
+
+#c:chests/trapped
+- minecraft:trapped_chest
+
+#c:netherrack
+- minecraft:netherrack
+
+#c:glass_blocks
+- minecraft:glass
+- minecraft:gray_stained_glass
+- minecraft:black_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:green_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:red_stained_glass
+- minecraft:tinted_glass
+- minecraft:white_stained_glass
+- minecraft:yellow_stained_glass
+
+#minecraft:strider_warm_blocks
+- minecraft:lava
+
+#minecraft:fence_gates
+- minecraft:acacia_fence_gate
+- minecraft:birch_fence_gate
+- minecraft:dark_oak_fence_gate
+- minecraft:jungle_fence_gate
+- minecraft:oak_fence_gate
+- minecraft:spruce_fence_gate
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+- ecologics:coconut_fence_gate
+- ecologics:walnut_fence_gate
+- ecologics:azalea_fence_gate
+- ecologics:flowering_azalea_fence_gate
+
+#minecraft:bee_growables
+- #minecraft:crops
+- minecraft:sweet_berry_bush
+- minecraft:cave_vines
+- minecraft:cave_vines_plant
+
+#minecraft:wooden_pressure_plates
+- minecraft:oak_pressure_plate
+- minecraft:spruce_pressure_plate
+- minecraft:birch_pressure_plate
+- minecraft:jungle_pressure_plate
+- minecraft:acacia_pressure_plate
+- minecraft:dark_oak_pressure_plate
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- ecologics:coconut_pressure_plate
+- ecologics:walnut_pressure_plate
+- ecologics:azalea_pressure_plate
+- vinery:cherry_pressure_plate
+
+#create:brittle
+- create:nozzle
+- create:hand_crank
+- create:copper_valve_handle
+- create:white_valve_handle
+- create:orange_valve_handle
+- create:magenta_valve_handle
+- create:light_blue_valve_handle
+- create:yellow_valve_handle
+- create:lime_valve_handle
+- create:pink_valve_handle
+- create:gray_valve_handle
+- create:light_gray_valve_handle
+- create:cyan_valve_handle
+- create:purple_valve_handle
+- create:blue_valve_handle
+- create:brown_valve_handle
+- create:green_valve_handle
+- create:red_valve_handle
+- create:black_valve_handle
+- create:rope
+- create:pulley_magnet
+- create:redstone_link
+- create:peculiar_bell
+- create:haunted_bell
+- minecraft:bell
+- minecraft:cocoa
+- minecraft:flower_pot
+- #minecraft:beds
+- #minecraft:doors
+
+#lootr:convert/trapped_chests
+- minecraft:trapped_chest
+
+#minecraft:candles
+- minecraft:candle
+- minecraft:white_candle
+- minecraft:orange_candle
+- minecraft:magenta_candle
+- minecraft:light_blue_candle
+- minecraft:yellow_candle
+- minecraft:lime_candle
+- minecraft:pink_candle
+- minecraft:gray_candle
+- minecraft:light_gray_candle
+- minecraft:cyan_candle
+- minecraft:purple_candle
+- minecraft:blue_candle
+- minecraft:brown_candle
+- minecraft:green_candle
+- minecraft:red_candle
+- minecraft:black_candle
+
+#minecraft:tall_flowers
+- minecraft:sunflower
+- minecraft:lilac
+- minecraft:peony
+- minecraft:rose_bush
+- farmersdelight:wild_rice
+
+#c:glass/black
+- minecraft:black_stained_glass
+
+#yigd:replace_blacklist
+- minecraft:bedrock
+- minecraft:end_portal_frame
+- minecraft:end_portal
+- minecraft:nether_portal
+- minecraft:end_gateway
+
+#c:cobblestone
+- minecraft:cobblestone
+- minecraft:infested_cobblestone
+- minecraft:mossy_cobblestone
+- minecraft:cobbled_deepslate
+
+#origins:cobwebs
+- minecraft:cobweb
+- origins:temporary_cobweb
+
+#c:fences/nether_brick
+- minecraft:nether_brick_fence
+
+#minecraft:stone_pressure_plates
+- minecraft:stone_pressure_plate
+- minecraft:polished_blackstone_pressure_plate
+
+#c:chests/wooden
+- minecraft:chest
+- minecraft:trapped_chest
+
+#c:barrels/wooden
+- minecraft:barrel
+
+#minecraft:snow
+- minecraft:snow
+- minecraft:snow_block
+- minecraft:powder_snow
+- seasons:seasonal_snow
+
+#minecraft:nylium
+- minecraft:crimson_nylium
+- minecraft:warped_nylium
+
+#minecraft:gold_ores
+- minecraft:gold_ore
+- minecraft:nether_gold_ore
+- minecraft:deepslate_gold_ore
+- ad_astra:venus_gold_ore
+
+#ecologics:flowering_azalea_logs
+- ecologics:flowering_azalea_log
+- ecologics:flowering_azalea_wood
+
+#c:ores
+- create:zinc_ore
+- create:deepslate_zinc_ore
+- #minecraft:redstone_ores?
+- #minecraft:copper_ores?
+- #minecraft:gold_ores?
+- #minecraft:iron_ores?
+- #minecraft:coal_ores?
+- #minecraft:emerald_ores?
+- #minecraft:lapis_ores?
+- #minecraft:diamond_ores?
+- #c:quartz_ores?
+- #c:ores/coal
+- #c:ores/copper
+- #c:ores/diamond
+- #c:ores/emerald
+- #c:ores/gold
+- #c:ores/iron
+- #c:ores/lapis
+- #c:ores/redstone
+- #c:ores/quartz
+- #c:ores/netherite_scrap
+
+#ad_astra:mars_ore_replaceables
+- ad_astra:mars_stone
+
+#minecraft:dirt
+- minecraft:dirt
+- minecraft:grass_block
+- minecraft:podzol
+- minecraft:coarse_dirt
+- minecraft:mycelium
+- minecraft:rooted_dirt
+- minecraft:moss_block
+- farmersdelight:rich_soil
+
+#minecraft:candle_cakes
+- minecraft:candle_cake
+- minecraft:white_candle_cake
+- minecraft:orange_candle_cake
+- minecraft:magenta_candle_cake
+- minecraft:light_blue_candle_cake
+- minecraft:yellow_candle_cake
+- minecraft:lime_candle_cake
+- minecraft:pink_candle_cake
+- minecraft:gray_candle_cake
+- minecraft:light_gray_candle_cake
+- minecraft:cyan_candle_cake
+- minecraft:purple_candle_cake
+- minecraft:blue_candle_cake
+- minecraft:brown_candle_cake
+- minecraft:green_candle_cake
+- minecraft:red_candle_cake
+- minecraft:black_candle_cake

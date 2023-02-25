@@ -1,0 +1,566 @@
+To refresh this file, delete it and run /reload command again! Last updated: Feb 2, 2023, 11:24:13 AM
+
+#c:climate_wet
+- #c:aquatic?
+- #c:swamp?
+- minecraft:lush_caves
+- #c:jungle?
+
+#minecraft:has_structure/nether_fortress
+- #minecraft:is_nether
+
+#minecraft:is_river
+- minecraft:river
+- minecraft:frozen_river
+
+#c:nether_forests
+- minecraft:warped_forest
+- minecraft:crimson_forest
+
+#minecraft:has_structure/mineshaft
+- #minecraft:is_ocean
+- #minecraft:is_river
+- #minecraft:is_beach
+- #minecraft:is_mountain
+- #minecraft:is_hill
+- #minecraft:is_taiga
+- #minecraft:is_jungle
+- #minecraft:is_forest
+- minecraft:stony_shore
+- minecraft:mushroom_fields
+- minecraft:ice_spikes
+- minecraft:windswept_savanna
+- minecraft:desert
+- minecraft:savanna
+- minecraft:snowy_plains
+- minecraft:plains
+- minecraft:sunflower_plains
+- minecraft:swamp
+- minecraft:savanna_plateau
+- minecraft:dripstone_caves
+- minecraft:lush_caves
+
+#minecraft:has_structure/jungle_temple
+- minecraft:bamboo_jungle
+- minecraft:jungle
+
+#c:mushroom
+- minecraft:mushroom_fields
+
+#vinery:has_structure/tree
+- minecraft:plains
+- minecraft:sunflower_plains
+- minecraft:meadow
+- terralith:blooming_plateau?
+- terralith:blooming_valley?
+- terralith:cloud_forest?
+- terralith:forested_highlands?
+- terralith:highlands?
+- terralith:valley_clearing?
+- terralith:shield?
+- terralith:yosemite_cliffs?
+- terralith:yosemite_lowlands?
+
+#c:in_nether
+- #minecraft:is_nether?
+- minecraft:crimson_forest
+- minecraft:warped_forest
+- minecraft:nether_wastes
+- minecraft:soul_sand_valley
+- minecraft:basalt_deltas
+
+#c:tree_coniferous
+- minecraft:grove
+- #c:taiga?
+
+#c:mountain
+- #minecraft:is_mountain?
+
+#c:savanna
+- minecraft:savanna_plateau
+- minecraft:windswept_savanna
+- minecraft:savanna
+
+#minecraft:is_jungle
+- minecraft:bamboo_jungle
+- minecraft:jungle
+- minecraft:sparse_jungle
+
+#minecraft:is_ocean
+- #minecraft:is_deep_ocean
+- minecraft:frozen_ocean
+- minecraft:ocean
+- minecraft:cold_ocean
+- minecraft:lukewarm_ocean
+- minecraft:warm_ocean
+
+#ad_astra:has_structure/pygro_village_biomes
+- ad_astra:venus_wastelands
+
+#ad_astra:has_structure/moon_dungeon_biomes
+- ad_astra:lunar_wastelands
+
+#ad_astra:has_structure/pygro_tower_biomes
+- ad_astra:venus_wastelands
+
+#c:caves
+- minecraft:dripstone_caves
+- minecraft:lush_caves
+
+#c:floral
+- minecraft:sunflower_plains
+- minecraft:flower_forest
+
+#minecraft:has_structure/buried_treasure
+- #minecraft:is_beach
+
+#minecraft:has_structure/ocean_ruin_cold
+- minecraft:frozen_ocean
+- minecraft:cold_ocean
+- minecraft:ocean
+- minecraft:deep_frozen_ocean
+- minecraft:deep_cold_ocean
+- minecraft:deep_ocean
+
+#c:badlands
+- #c:mesa?
+- #minecraft:is_badlands?
+
+#minecraft:has_structure/stronghold
+- minecraft:plains
+- minecraft:sunflower_plains
+- minecraft:snowy_plains
+- minecraft:ice_spikes
+- minecraft:desert
+- minecraft:forest
+- minecraft:flower_forest
+- minecraft:birch_forest
+- minecraft:dark_forest
+- minecraft:old_growth_birch_forest
+- minecraft:old_growth_pine_taiga
+- minecraft:old_growth_spruce_taiga
+- minecraft:taiga
+- minecraft:snowy_taiga
+- minecraft:savanna
+- minecraft:savanna_plateau
+- minecraft:windswept_hills
+- minecraft:windswept_gravelly_hills
+- minecraft:windswept_forest
+- minecraft:windswept_savanna
+- minecraft:jungle
+- minecraft:sparse_jungle
+- minecraft:bamboo_jungle
+- minecraft:badlands
+- minecraft:eroded_badlands
+- minecraft:wooded_badlands
+- minecraft:meadow
+- minecraft:grove
+- minecraft:snowy_slopes
+- minecraft:frozen_peaks
+- minecraft:jagged_peaks
+- minecraft:stony_peaks
+- minecraft:mushroom_fields
+- minecraft:dripstone_caves
+- minecraft:lush_caves
+
+#minecraft:has_structure/mineshaft_mesa
+- #minecraft:is_badlands
+
+#c:underground
+- #c:caves?
+
+#minecraft:has_structure/shipwreck
+- #minecraft:is_ocean
+
+#c:snowy_plains
+- minecraft:snowy_plains
+
+#c:vegetation_dense
+- #c:jungle?
+- minecraft:sunflower_plains
+
+#c:jungle
+- #minecraft:is_jungle?
+
+#minecraft:has_structure/igloo
+- minecraft:snowy_taiga
+- minecraft:snowy_plains
+- minecraft:snowy_slopes
+
+#c:wasteland
+
+#minecraft:has_structure/shipwreck_beached
+- #minecraft:is_beach
+
+#minecraft:is_hill
+- minecraft:windswept_hills
+- minecraft:windswept_forest
+- minecraft:windswept_gravelly_hills
+
+#c:forest
+- #minecraft:is_forest?
+
+#c:end_islands
+
+#c:dead
+
+#c:deep_ocean
+- minecraft:deep_frozen_ocean
+- minecraft:deep_lukewarm_ocean
+- minecraft:deep_cold_ocean
+- minecraft:deep_ocean
+
+#c:swamp
+- minecraft:swamp
+
+#c:in_overworld
+- minecraft:river
+- minecraft:frozen_river
+- minecraft:cold_ocean
+- minecraft:deep_cold_ocean
+- minecraft:deep_frozen_ocean
+- minecraft:deep_ocean
+- minecraft:deep_lukewarm_ocean
+- minecraft:warm_ocean
+- minecraft:lukewarm_ocean
+- minecraft:frozen_ocean
+- minecraft:ocean
+- minecraft:beach
+- minecraft:plains
+- minecraft:sunflower_plains
+- minecraft:snowy_plains
+- minecraft:ice_spikes
+- minecraft:desert
+- minecraft:forest
+- minecraft:flower_forest
+- minecraft:birch_forest
+- minecraft:dark_forest
+- minecraft:old_growth_birch_forest
+- minecraft:old_growth_pine_taiga
+- minecraft:old_growth_spruce_taiga
+- minecraft:taiga
+- minecraft:snowy_taiga
+- minecraft:savanna
+- minecraft:savanna_plateau
+- minecraft:windswept_hills
+- minecraft:windswept_gravelly_hills
+- minecraft:windswept_forest
+- minecraft:windswept_savanna
+- minecraft:jungle
+- minecraft:sparse_jungle
+- minecraft:bamboo_jungle
+- minecraft:badlands
+- minecraft:eroded_badlands
+- minecraft:wooded_badlands
+- minecraft:meadow
+- minecraft:grove
+- minecraft:snowy_slopes
+- minecraft:frozen_peaks
+- minecraft:jagged_peaks
+- minecraft:stony_peaks
+- minecraft:mushroom_fields
+- minecraft:dripstone_caves
+- minecraft:lush_caves
+- minecraft:snowy_beach
+- minecraft:swamp
+- minecraft:stony_shore
+
+#c:tree_jungle
+- #c:jungle?
+
+#minecraft:has_structure/ocean_monument
+- #minecraft:is_deep_ocean
+
+#minecraft:has_structure/ruined_portal_jungle
+- #minecraft:is_jungle
+
+#c:climate_cold
+- minecraft:grove
+- minecraft:jagged_peaks
+- #c:icy?
+
+#minecraft:has_structure/desert_pyramid
+- minecraft:desert
+
+#minecraft:has_structure/ruined_portal_ocean
+- #minecraft:is_ocean
+
+#c:in_the_end
+- minecraft:end_barrens
+- minecraft:end_midlands
+- minecraft:end_highlands
+- minecraft:the_end
+- minecraft:small_end_islands
+
+#c:river
+- #minecraft:is_river?
+
+#minecraft:is_deep_ocean
+- minecraft:deep_frozen_ocean
+- minecraft:deep_cold_ocean
+- minecraft:deep_ocean
+- minecraft:deep_lukewarm_ocean
+
+#minecraft:is_nether
+- minecraft:nether_wastes
+- minecraft:basalt_deltas
+- minecraft:soul_sand_valley
+- minecraft:crimson_forest
+- minecraft:warped_forest
+
+#c:climate_hot
+- #c:jungle?
+- #c:savanna?
+- #c:desert?
+- #c:badlands?
+- minecraft:stony_peaks
+- #c:mushroom?
+- #c:in_nether?
+
+#c:desert
+- minecraft:desert
+
+#minecraft:has_structure/woodland_mansion
+- minecraft:dark_forest
+
+#c:mountain_peak
+- minecraft:frozen_peaks
+- minecraft:jagged_peaks
+- minecraft:stony_peaks
+
+#minecraft:has_structure/ocean_ruin_warm
+- minecraft:lukewarm_ocean
+- minecraft:warm_ocean
+- minecraft:deep_lukewarm_ocean
+
+#c:shallow_ocean
+- minecraft:ocean
+- minecraft:lukewarm_ocean
+- minecraft:frozen_ocean
+- minecraft:cold_ocean
+- minecraft:warm_ocean
+
+#vinery:has_structure/vinery
+- #minecraft:is_forest
+- minecraft:plains
+- minecraft:sunflower_plains
+- minecraft:meadow
+
+#c:flower_forests
+- minecraft:flower_forest
+
+#c:tree_deciduous
+- minecraft:forest
+- minecraft:windswept_forest
+- minecraft:flower_forest
+- minecraft:birch_forest
+- minecraft:dark_forest
+- minecraft:old_growth_birch_forest
+
+#minecraft:has_structure/village_desert
+- minecraft:desert
+
+#c:tree_savanna
+- #c:savanna?
+
+#minecraft:is_forest
+- minecraft:forest
+- minecraft:flower_forest
+- minecraft:birch_forest
+- minecraft:old_growth_birch_forest
+- minecraft:dark_forest
+- minecraft:grove
+
+#ad_astra:has_structure/lunarian_village_biomes
+- ad_astra:lunar_wastelands
+
+#c:icy
+- minecraft:frozen_river
+- minecraft:frozen_peaks
+- minecraft:deep_frozen_ocean
+- minecraft:ice_spikes
+- minecraft:frozen_ocean
+
+#minecraft:has_structure/village_savanna
+- minecraft:savanna
+
+#c:stony_shores
+- minecraft:stony_shore
+
+#c:mountain_slope
+- minecraft:snowy_slopes
+
+#minecraft:has_structure/village_taiga
+- minecraft:taiga
+
+#c:void
+- minecraft:the_void
+
+#minecraft:has_structure/village_plains
+- minecraft:plains
+- minecraft:meadow
+
+#ad_astra:has_structure/mars_temple_biomes
+- ad_astra:martian_wastelands
+- ad_astra:martian_canyon_creek
+
+#c:ocean
+- #c:deep_ocean?
+- #c:shallow_ocean?
+- #minecraft:is_ocean?
+
+#minecraft:has_structure/ruined_portal_desert
+- minecraft:desert
+
+#minecraft:has_structure/ruined_portal_swamp
+- minecraft:swamp
+
+#ad_astra:has_structure/venus_bullet_biomes
+- ad_astra:venus_wastelands
+
+#minecraft:has_structure/swamp_hut
+- minecraft:swamp
+
+#minecraft:has_structure/ruined_portal_nether
+- #minecraft:is_nether
+
+#c:climate_dry
+- #c:in_nether?
+- #c:badlands?
+- #c:desert?
+- #c:savanna?
+
+#ad_astra:has_structure/meteor_biomes
+- #minecraft:is_jungle
+- #minecraft:is_forest
+- #minecraft:is_taiga
+- minecraft:desert
+- minecraft:plains
+- minecraft:snowy_plains
+- minecraft:sunflower_plains
+- minecraft:savanna
+- minecraft:savanna_plateau
+- minecraft:windswept_savanna
+
+#minecraft:is_beach
+- minecraft:beach
+- minecraft:snowy_beach
+
+#minecraft:has_structure/ruined_portal_standard
+- #minecraft:is_beach
+- #minecraft:is_river
+- #minecraft:is_taiga
+- #minecraft:is_forest
+- minecraft:mushroom_fields
+- minecraft:ice_spikes
+- minecraft:dripstone_caves
+- minecraft:lush_caves
+- minecraft:savanna
+- minecraft:snowy_plains
+- minecraft:plains
+- minecraft:sunflower_plains
+
+#minecraft:has_structure/pillager_outpost
+- minecraft:desert
+- minecraft:plains
+- minecraft:savanna
+- minecraft:snowy_plains
+- minecraft:taiga
+- #minecraft:is_mountain
+- minecraft:grove
+
+#c:mesa
+- minecraft:wooded_badlands
+- minecraft:eroded_badlands
+- minecraft:badlands
+
+#minecraft:is_taiga
+- minecraft:taiga
+- minecraft:snowy_taiga
+- minecraft:old_growth_pine_taiga
+- minecraft:old_growth_spruce_taiga
+
+#minecraft:is_mountain
+- minecraft:meadow
+- minecraft:frozen_peaks
+- minecraft:jagged_peaks
+- minecraft:stony_peaks
+- minecraft:snowy_slopes
+
+#c:plains
+- minecraft:sunflower_plains
+- minecraft:plains
+
+#minecraft:has_structure/village_snowy
+- minecraft:snowy_plains
+
+#c:snowy
+- minecraft:snowy_beach
+- minecraft:snowy_plains
+- minecraft:snowy_slopes
+- minecraft:snowy_taiga
+
+#minecraft:is_badlands
+- minecraft:badlands
+- minecraft:eroded_badlands
+- minecraft:wooded_badlands
+
+#c:climate_temperate
+- minecraft:forest
+- minecraft:sunflower_plains
+- minecraft:swamp
+- minecraft:stony_shore
+- minecraft:dark_forest
+- minecraft:windswept_forest
+- minecraft:birch_forest
+- minecraft:old_growth_birch_forest
+- minecraft:meadow
+- minecraft:plains
+
+#c:aquatic
+- #c:ocean?
+- #c:river?
+
+#c:taiga
+- #minecraft:is_taiga?
+
+#minecraft:has_structure/nether_fossil
+- minecraft:soul_sand_valley
+
+#c:vegetation_sparse
+- #c:savanna?
+- #c:desert?
+- #c:dead?
+- minecraft:lush_caves
+- #c:wasteland?
+
+#minecraft:has_structure/end_city
+- minecraft:end_highlands
+- minecraft:end_midlands
+
+#ad_astra:has_structure/oil_well_biomes
+- #minecraft:is_ocean
+- #minecraft:is_deep_ocean
+- minecraft:swamp
+
+#c:beach
+- #minecraft:is_beach?
+- minecraft:stony_shore
+
+#c:extreme_hills
+- minecraft:windswept_gravelly_hills
+- minecraft:windswept_hills
+
+#minecraft:has_structure/bastion_remnant
+- minecraft:crimson_forest
+- minecraft:nether_wastes
+- minecraft:soul_sand_valley
+- minecraft:warped_forest
+
+#minecraft:has_structure/ruined_portal_mountain
+- #minecraft:is_badlands
+- #minecraft:is_hill
+- minecraft:savanna_plateau
+- minecraft:windswept_savanna
+- minecraft:stony_shore
+- #minecraft:is_mountain

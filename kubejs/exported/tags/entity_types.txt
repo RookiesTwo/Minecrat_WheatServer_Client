@@ -1,0 +1,291 @@
+To refresh this file, delete it and run /reload command again! Last updated: Feb 2, 2023, 11:24:14 AM
+
+#minecraft:axolotl_always_hostiles
+- minecraft:drowned
+- minecraft:guardian
+- minecraft:elder_guardian
+
+#minecraft:freeze_immune_entity_types
+- minecraft:stray
+- minecraft:polar_bear
+- minecraft:snow_golem
+- minecraft:wither
+- ecologics:penguin
+
+#ad_astra:entities/lives_without_oxygen
+- ad_astra:lunarian
+- ad_astra:corrupted_lunarian
+- ad_astra:star_crawler
+- ad_astra:martian_raptor
+- ad_astra:pygro
+- ad_astra:zombified_pygro
+- ad_astra:pygro_brute
+- ad_astra:mogler
+- ad_astra:zombified_mogler
+- ad_astra:sulfur_creeper
+- ad_astra:lunarian_wandering_trader
+- minecraft:ender_dragon
+- minecraft:wither
+- minecraft:skeleton
+- minecraft:stray
+- minecraft:armor_stand
+- minecraft:iron_golem
+- minecraft:snow_golem
+- minecraft:magma_cube
+
+#ad_astra:entities/fire_immune
+- ad_astra:pygro
+- ad_astra:zombified_pygro
+- ad_astra:pygro_brute
+- ad_astra:mogler
+- ad_astra:zombified_mogler
+- ad_astra:sulfur_creeper
+- ad_astra:lunarian_wandering_trader
+
+#requiem:inventory/inventory_carriers
+- ratsmischief:rat
+
+#requiem:behavior/regular_eaters
+- ratsmischief:rat
+
+#c:bosses
+- minecraft:ender_dragon
+- minecraft:wither
+
+#medievalorigins:non_freezables
+- minecraft:ender_dragon
+- minecraft:blaze
+- minecraft:hoglin
+- minecraft:zoglin
+- minecraft:strider
+- minecraft:magma_cube
+- minecraft:piglin
+- minecraft:piglin_brute
+- minecraft:wither
+
+#farmersdelight:horse_feed_users
+- minecraft:horse
+- minecraft:skeleton_horse
+- minecraft:zombie_horse
+- minecraft:donkey
+- minecraft:mule
+- minecraft:llama
+
+#eldritch_mobs:blacklist
+
+#medievalorigins:bosses
+- minecraft:ender_dragon
+- minecraft:wither
+
+#medievalorigins:overworld_mobs
+- minecraft:witch
+- minecraft:zombie
+- minecraft:skeleton
+- minecraft:slime
+- minecraft:evoker_fangs
+- minecraft:vex
+- minecraft:evoker
+- minecraft:guardian
+- minecraft:elder_guardian
+- minecraft:creeper
+- minecraft:wolf
+- minecraft:spider
+- minecraft:cave_spider
+- minecraft:polar_bear
+- minecraft:husk
+- minecraft:stray
+- minecraft:zombie_villager
+- minecraft:vindicator
+- minecraft:silverfish
+- minecraft:llama_spit
+
+#requiem:inventory/armor_users
+- ratsmischief:rat
+
+#minecraft:raiders
+- minecraft:evoker
+- minecraft:pillager
+- minecraft:ravager
+- minecraft:vindicator
+- minecraft:illusioner
+- minecraft:witch
+
+#medievalorigins:magic_mobs
+- minecraft:witch
+- minecraft:enderman
+- minecraft:dragon_fireball
+- minecraft:shulker_bullet
+- minecraft:evoker_fangs
+- minecraft:vex
+- minecraft:wither_skull
+- minecraft:guardian
+- minecraft:elder_guardian
+
+#minecraft:powder_snow_walkable_mobs
+- minecraft:rabbit
+- minecraft:endermite
+- minecraft:silverfish
+- minecraft:fox
+- ecologics:penguin
+- ecologics:squirrel
+
+#ecologics:penguin_hunt_targets
+- minecraft:tropical_fish
+- minecraft:salmon
+- minecraft:cod
+
+#minecraft:axolotl_hunt_targets
+- minecraft:tropical_fish
+- minecraft:pufferfish
+- minecraft:salmon
+- minecraft:cod
+- minecraft:squid
+- minecraft:glow_squid
+
+#farmersdelight:dog_food_users
+- minecraft:wolf
+
+#eldritch_mobs:allowed
+- minecraft:zombie
+- minecraft:skeleton
+- minecraft:creeper
+- minecraft:blaze
+- minecraft:drowned
+- minecraft:elder_guardian
+- minecraft:endermite
+- minecraft:evoker
+- minecraft:ghast
+- minecraft:guardian
+- minecraft:husk
+- minecraft:illusioner
+- minecraft:magma_cube
+- minecraft:ravager
+- minecraft:shulker
+- minecraft:silverfish
+- minecraft:slime
+- minecraft:stray
+- minecraft:vex
+- minecraft:vindicator
+- minecraft:witch
+- minecraft:wither_skeleton
+- minecraft:zombie_villager
+- minecraft:hoglin
+- minecraft:zoglin
+- minecraft:wolf
+- minecraft:fox
+- minecraft:iron_golem
+- minecraft:snow_golem
+- minecraft:enderman
+- minecraft:spider
+- minecraft:cave_spider
+- minecraft:piglin
+- minecraft:zombified_piglin
+- minecraft:polar_bear
+- minecraft:llama
+- minecraft:bee
+- minecraft:panda
+- minecraft:ender_dragon
+- minecraft:wither
+- minecraft:piglin_brute
+- minecraft:pillager
+- minecraft:phantom
+- minecraft:zombie_villager
+- minecraft:axolotl
+
+#eldritch_mobs:always_eldritch
+
+#eldritch_mobs:always_ultra
+
+#minecraft:impact_projectiles
+- #minecraft:arrows
+- minecraft:snowball
+- minecraft:fireball
+- minecraft:small_fireball
+- minecraft:egg
+- minecraft:trident
+- minecraft:dragon_fireball
+- minecraft:wither_skull
+- ad_astra:ice_spit_entity
+
+#automobility:dash_panel_boostables
+- minecraft:arrow
+- minecraft:boat
+- minecraft:donkey
+- minecraft:falling_block
+- minecraft:horse
+- minecraft:llama
+- minecraft:minecart
+- minecraft:mule
+- minecraft:pig
+- minecraft:strider
+- minecraft:tnt
+- balloonist:balloon?
+- gravityguns:block?
+- hyperstellar:ship?
+- lovely_snails:snail?
+- owf:sled?
+- wackyvessels:submarine_vessel?
+- wackyvessels:airship_vessel?
+
+#minecraft:beehive_inhabitors
+- minecraft:bee
+
+#c:boats
+- minecraft:boat
+
+#minecraft:skeletons
+- minecraft:skeleton
+- minecraft:stray
+- minecraft:wither_skeleton
+
+#requiem:inventory/item_users
+- ratsmischief:rat
+
+#ftbquests:no_loot_crates
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:spectral_arrow
+
+#minecraft:freeze_hurts_extra_types
+- minecraft:strider
+- minecraft:blaze
+- minecraft:magma_cube
+
+#eldritch_mobs:always_elite
+
+#medievalorigins:melee_mobs
+- minecraft:zombie
+- minecraft:slime
+- minecraft:evoker_fangs
+- minecraft:vex
+- minecraft:wolf
+- minecraft:spider
+- minecraft:cave_spider
+- minecraft:polar_bear
+- minecraft:husk
+- minecraft:zombie_villager
+- minecraft:vindicator
+- minecraft:silverfish
+- minecraft:piglin
+- minecraft:hoglin
+- minecraft:piglin_brute
+- minecraft:zoglin
+- minecraft:enderman
+- minecraft:ender_dragon
+- minecraft:endermite
+- minecraft:wither
+- minecraft:wither_skeleton
+- minecraft:magma_cube
+
+#c:minecarts
+- minecraft:minecart
+- minecraft:tnt_minecart
+- minecraft:chest_minecart
+- minecraft:furnace_minecart
+- minecraft:command_block_minecart
+- minecraft:hopper_minecart
+- minecraft:spawner_minecart
+
+#eldritch_mobs:eldritch_allowed
+- ratsmischief:rat
